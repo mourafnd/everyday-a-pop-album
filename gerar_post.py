@@ -21,6 +21,7 @@ def gerar_conteudo():
     prompt = (
         "Você deve recomendar um álbum pop brasileiro, latino ou internacional **diferente a cada execução**.\n\n"
         "Nunca repita o mesmo álbum mais de uma vez.\n\n"
+        "Nunca recomende o album Future Nostalgia da Dua Lipa.\n\n"
         "Comece exatamente com esta linha (substituindo os colchetes pelo conteúdo real):\n"
         "**[Nome do Álbum]** by **[Nome do Artista]**\n\n"
         "Em seguida, escreva os tópicos abaixo:\n"
