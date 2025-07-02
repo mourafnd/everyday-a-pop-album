@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex">
+    <script>
+      async function redirecionarUltimoPost() {
+        try {
+          const response = await fetch("/index.json");
+          const data = await response.json();
+          if (data.length > 0 && data[0].Permalink) {
+            window.location.href = data[0].Permalink;
+          } else {
+            document.body.innerHTML = "<p>Post not found. Try again later.</p>";
+          }
+        } catch (e) {
+          document.body.innerHTML = "<p>Error loading the latest post.</p>";
+        }
+      }
+      redirecionarUltimoPost();
+    </script>
+  </head>
+  <body>
+  </body>
+</html>

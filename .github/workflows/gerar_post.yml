@@ -1,0 +1,37 @@
+name: Gerar post diário
+
+on:
+  schedule:
+    - cron: '1 3 * * *'  # 00:01 horário de Brasília (UTC+3)
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Instalar dependências
+        run: pip install openai
+
+      - name: Executar script para gerar post
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: python gerar_post.py
+
+      - name: Commit e Push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add .
+          git commit -m "Post automático do dia" || echo "Nada para commitar"
+          git push origin main
