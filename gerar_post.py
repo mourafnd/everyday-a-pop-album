@@ -46,13 +46,16 @@ def salvar_post(conteudo, hoje):
     keywords = f"pop album, {artista}, {album}, music"
 
     caminho = f"content/posts/{slug}.md"
+    
+    keywords_formatadas = [f'"{k.strip()}"' for k in keywords.split(",")]
+    
     with open(caminho, "w", encoding="utf-8") as f:
         f.write("---\n")
         f.write(f"title: \"{titulo}\"\n")
         f.write(f"date: {hoje.isoformat()}\n")
         f.write(f"slug: \"{slug}\"\n")
         f.write(f"description: \"{descricao}\"\n")
-        f.write(f"keywords: [{', '.join(f'\"{k.strip()}\"' for k in keywords.split(','))}]\n")
+        f.write(f'keywords: [{", ".join(keywords_formatadas)}]\n')
         f.write("---\n\n")
         f.write(conteudo)
 
