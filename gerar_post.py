@@ -16,17 +16,23 @@ def gerar_slug(texto):
     return texto
 
 # Chamada à API para gerar conteúdo multilíngue
+
 def gerar_conteudo():
     prompt = (
-        "Recomende um álbum pop (brasileiro, latino ou internacional).\n"
-        "Comece exatamente com o nome do álbum em negrito, seguido de 'by' e o artista também em negrito, neste formato:\n"
-        "**Album Name** by **Artist Name**\n\n"
-        "Depois, escreva os seguintes tópicos:\n"
-        "- Year\n- Country\n- Genre\n- Main Tracks (5 to 8 songs)\n- One or two curiosities and any other information about this album that you might find useful.\n\n"
-        "Agora escreva o mesmo conteúdo em três idiomas:\n"
-        "## ENGLISH (first)\n## PORTUGUÊS (Brazilian Portuguese)\n## ESPAÑOL (Latin American Spanish)\n"
-        "Mantenha a estrutura idêntica entre as versões."
+        "Sua tarefa é recomendar um álbum pop (brasileiro, latino ou internacional) de forma precisa e no formato exato abaixo.\n\n"
+        "Comece **obrigatoriamente** com a seguinte linha:\n"
+        "**[Nome do Álbum]** by **[Nome do Artista]**\n"
+        "Exemplo: **Future Nostalgia** by **Dua Lipa**\n\n"
+        "Em seguida, escreva os seguintes tópicos:\n"
+        "- Year\n- Country\n- Genre\n- Main Tracks (5 to 8 songs)\n- One or two curiosities and any other information about this album that you might find useful\n\n"
+        "Depois, traduza exatamente o mesmo conteúdo para:\n"
+        "## ENGLISH\n## PORTUGUÊS\n## ESPAÑOL\n\n"
+        "⚠️ IMPORTANTE: O título com nome do álbum e artista **deve aparecer apenas na versão em inglês**, logo no início, e sempre no formato:\n"
+        "**Album Name** by **Artist Name**\n"
+        "As demais seções devem ser traduções idênticas.\n"
+        "Não adicione nenhuma explicação extra. Mantenha a estrutura exata descrita."
     )
+
     resposta = client.chat.completions.create(
         model="gpt-3.5-turbo",
         messages=[{"role": "user", "content": prompt}],
@@ -34,6 +40,8 @@ def gerar_conteudo():
         max_tokens=1500
     )
     return resposta.choices[0].message.content.strip()
+
+
 
 # Extrai o título do álbum/artista da versão em inglês
 def extrair_album_artista(texto):
