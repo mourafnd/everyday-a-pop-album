@@ -40,6 +40,7 @@ def extrair_album_artista(texto):
     match = re.search(r'^\*\*(.*?)\*\* by \*\*(.*?)\*\*', texto, re.MULTILINE)
     if match:
         return match.group(1).strip(), match.group(2).strip()
+    print("⚠️ Formato inesperado do título no conteúdo inglês.")
     return None, None
 
 # Divide o conteúdo por idioma
@@ -91,7 +92,7 @@ def salvar_multilingue(blocos, album, artista, hoje):
             f.write(f'date: {hoje.isoformat()}\n')
             f.write(f'slug: "{slug}"\n')
             f.write(f'description: "{dados["description"]}"\n')
-            keywords_formatadas = ', '.join([f'\"{k.strip()}\"' for k in keywords_base.split(',')])
+            keywords_formatadas = ', '.join([f'"{k.strip()}"' for k in keywords_base.split(',')])
             f.write(f"keywords: [{keywords_formatadas}]\n")
             f.write("---\n\n")
             f.write(dados['content'])
@@ -99,13 +100,16 @@ def salvar_multilingue(blocos, album, artista, hoje):
 # Execução principal
 if __name__ == "__main__":
     hoje = datetime.now()
+    print("📁 Diretório atual:", os.getcwd())
     conteudo = gerar_conteudo()
     blocos = separar_por_idioma(conteudo)
 
-    # Extrair nome do álbum/artista da versão em inglês
+    print("🧾 Início do conteúdo em inglês:\n", blocos.get('en', '')[:200], "\n---")
+
     album, artista = extrair_album_artista(blocos.get('en', ''))
     if not album or not artista:
-        print("Não foi possível extrair álbum ou artista. Abortando post.")
+        print("❌ Não foi possível extrair álbum ou artista. Abortando post.")
     else:
+        print(f"✅ Álbum: {album} | Artista: {artista}")
         salvar_multilingue(blocos, album, artista, hoje)
-        print("Post multilíngue gerado com sucesso!")
+        print("✅ Post multilíngue gerado com sucesso!")
