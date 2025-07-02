@@ -100,16 +100,19 @@ def salvar_multilingue(blocos, album, artista, hoje):
 # Execução principal
 if __name__ == "__main__":
     hoje = datetime.now()
-    print("📁 Diretório atual:", os.getcwd())
-    conteudo = gerar_conteudo()
-    blocos = separar_por_idioma(conteudo)
 
-    print("🧾 Início do conteúdo em inglês:\n", blocos.get('en', '')[:200], "\n---")
+    for tentativa in range(3):
+        conteudo = gerar_conteudo()
+        blocos = separar_por_idioma(conteudo)
+        print(f"🔎 Tentativa {tentativa + 1} - Conteúdo inglês:\n{blocos.get('en', '')[:200]}...\n")
 
-    album, artista = extrair_album_artista(blocos.get('en', ''))
-    if not album or not artista:
-        print("❌ Não foi possível extrair álbum ou artista. Abortando post.")
+        album, artista = extrair_album_artista(blocos.get('en', ''))
+        if album and artista:
+            salvar_multilingue(blocos, album, artista, hoje)
+            print(f"✅ Post multilíngue gerado com sucesso para: {album} by {artista}")
+            break
+        else:
+            print("⚠️ Formato inesperado. Tentando novamente...\n")
+
     else:
-        print(f"✅ Álbum: {album} | Artista: {artista}")
-        salvar_multilingue(blocos, album, artista, hoje)
-        print("✅ Post multilíngue gerado com sucesso!")
+        print("❌ Não foi possível gerar conteúdo válido após 3 tentativas. Abortando.")
