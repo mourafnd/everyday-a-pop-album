@@ -2,23 +2,37 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
+    <title>Redirecting...</title>
     <meta name="robots" content="noindex">
     <script>
-      (function () {
+      (async function () {
         const currentPath = window.location.pathname;
+        if (currentPath !== "/") return;
 
-        // Redireciona apenas se estiver na raiz do site
-        if (currentPath === "/") {
-          const lang = navigator.language || navigator.userLanguage;
-          let langPrefix = "en";
-          if (lang.startsWith("pt")) langPrefix = "pt";
-          else if (lang.startsWith("es")) langPrefix = "es";
+        const lang = navigator.language || navigator.userLanguage;
+        let langPrefix = "en";
+        if (lang.startsWith("pt")) langPrefix = "pt";
+        else if (lang.startsWith("es")) langPrefix = "es";
 
-          window.location.href = "/" + langPrefix + "/";
+        try {
+          const res = await fetch(`/${langPrefix}/index.json`);
+          if (!res.ok) throw new Error("Failed to fetch JSON");
+
+          const posts = await res.json();
+          if (posts.length > 0 && posts[0].RelPermalink) {
+            window.location.href = posts[0].RelPermalink;
+          } else {
+            // fallback para a homepage do idioma
+            window.location.href = `/${langPrefix}/`;
+          }
+        } catch (e) {
+          // fallback em caso de erro
+          window.location.href = `/${langPrefix}/`;
         }
       })();
     </script>
   </head>
   <body>
+    <p>Redirecting...</p>
   </body>
 </html>
