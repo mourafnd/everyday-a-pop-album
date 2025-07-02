@@ -19,7 +19,7 @@ def gerar_slug(texto):
 
 def gerar_conteudo():
     prompt = (
-        "Sua tarefa é recomendar um álbum pop brasileiro, latino ou internacional diferente a cada execução.\n\n"
+        "Sua tarefa é recomendar um álbum do exclusivamente do gênero POP, seja ele brasileiro, latino ou internacional diferente a cada execução.\n\n"
         "Comece exatamente com a seguinte linha (substituindo os colchetes pelo conteúdo real):\n"
         "**[Nome do Álbum]** by **[Nome do Artista]**\n\n"
         "Em seguida, escreva os seguintes tópicos:\n"
