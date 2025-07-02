@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex">
+    <script>
+      (function () {
+        const lang = navigator.language || navigator.userLanguage;
+
+        // Mapeia o idioma do navegador para o código do conteúdo
+        let langPrefix = "en";
+        if (lang.startsWith("pt")) langPrefix = "pt";
+        else if (lang.startsWith("es")) langPrefix = "es";
+
+        // Redireciona para a versão localizada da página inicial
+        window.location.href = window.location.pathname + langPrefix + "/";
+      })();
+    </script>
+  </head>
+  <body>
+  </body>
+</html>
