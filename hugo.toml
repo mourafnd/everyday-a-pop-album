@@ -1,18 +1,9 @@
-
 baseURL = "https://everydayapopalbum.netlify.app/"
 title = "Everyday a Pop Album"
 theme = "PaperMod"
 defaultContentLanguage = "en"
 languageCode = "en-us"
 copyright = "Copyright © 2025 Everyday a Pop Album"
-
-[languages]
-  [languages.en]
-    title = "Everyday a Pop Album"
-    weight = 1
-  [languages.pt]
-    title = "Um Álbum Pop por Dia"
-    weight = 2
 
 [params]
   author = "Everyday a Pop Album"
@@ -23,3 +14,29 @@ copyright = "Copyright © 2025 Everyday a Pop Album"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+
+[languages]
+
+  [languages.en]
+    languageName = "English"
+    weight = 1
+    title = "Everyday a Pop Album"
+    contentDir = "content"
+    params:
+      description = "Discover a new pop album every day."
+  
+  [languages.pt]
+    languageName = "Português"
+    weight = 2
+    title = "Um Álbum Pop por Dia"
+    contentDir = "content"
+    params:
+      description = "Descubra um novo álbum pop todos os dias."
+
+  [languages.es]
+    languageName = "Español"
+    weight = 3
+    title = "Un Álbum Pop Cada Día"
+    contentDir = "content"
+    params:
+      description = "Descubre un nuevo álbum pop cada día."

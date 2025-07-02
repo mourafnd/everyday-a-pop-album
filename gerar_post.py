@@ -1,4 +1,4 @@
-# gerar_post.py - Gera um post diário com um álbum pop
+# gerar_post.py - Gera um post diário multilíngue com um álbum pop
 
 from openai import OpenAI
 from datetime import datetime
@@ -15,69 +15,96 @@ def gerar_slug(texto):
     texto = texto.lower().replace(' ', '-').strip('-')
     return texto
 
-# Gera conteúdo e valida presença de título/autor
-
-def gerar_conteudo(max_tentativas=3):
+# Chamada à API para gerar conteúdo multilíngue
+def gerar_conteudo():
     prompt = (
-        "Recomende um álbum pop (brasileiro, latino ou internacional) para hoje.\n"
-        "Comece exatamente com o nome do álbum em negrito, seguido por 'by' e o artista em negrito, no formato:\n"
+        "Recomende um álbum pop (brasileiro, latino ou internacional).\n"
+        "Comece exatamente com o nome do álbum em negrito, seguido de 'by' e o artista também em negrito, neste formato:\n"
         "**Album Name** by **Artist Name**\n\n"
         "Depois, escreva os seguintes tópicos:\n"
-        "- Year\n"
-        "- Country\n"
-        "- Genre\n"
-        "- Main Tracks (5 a 8 faixas)\n"
-        "- One or two curiosities and any other information about this album that you might find useful.\n"
-        "- Suggest streaming links (Spotify, YouTube, etc. - use names only)\n"
-        "Escreva em inglês e use títulos destacados (bold ou emojis)."
+        "- Year\n- Country\n- Genre\n- Main Tracks (5 to 8 songs)\n- One or two curiosities and any other information about this album that you might find useful.\n\n"
+        "Agora escreva o mesmo conteúdo em três idiomas:\n"
+        "## ENGLISH (first)\n## PORTUGUÊS (Brazilian Portuguese)\n## ESPAÑOL (Latin American Spanish)\n"
+        "Mantenha a estrutura idêntica entre as versões."
     )
+    resposta = client.chat.completions.create(
+        model="gpt-3.5-turbo",
+        messages=[{"role": "user", "content": prompt}],
+        temperature=0.7,
+        max_tokens=1500
+    )
+    return resposta.choices[0].message.content.strip()
 
-    for tentativa in range(1, max_tentativas + 1):
-        resposta = client.chat.completions.create(
-            model="gpt-3.5-turbo",
-            messages=[{"role": "user", "content": prompt}],
-            temperature=0.7,
-            max_tokens=1000
-        )
-        conteudo = resposta.choices[0].message.content.strip()
+# Extrai o título do álbum/artista da versão em inglês
+def extrair_album_artista(texto):
+    match = re.search(r'^\*\*(.*?)\*\* by \*\*(.*?)\*\*', texto, re.MULTILINE)
+    if match:
+        return match.group(1).strip(), match.group(2).strip()
+    return None, None
 
-        titulo_match = re.search(r"\*\*(.*?)\*\* by \*\*(.*?)\*\*", conteudo)
-        if titulo_match:
-            return conteudo
+# Divide o conteúdo por idioma
+def separar_por_idioma(conteudo):
+    partes = re.split(r'^##\s+', conteudo, flags=re.MULTILINE)
+    blocos = {}
+    for parte in partes:
+        if parte.strip().startswith("ENGLISH"):
+            blocos['en'] = parte.partition("\n")[2].strip()
+        elif parte.strip().startswith("PORTUGUÊS"):
+            blocos['pt'] = parte.partition("\n")[2].strip()
+        elif parte.strip().startswith("ESPAÑOL"):
+            blocos['es'] = parte.partition("\n")[2].strip()
+    return blocos
 
-        print(f"Tentativa {tentativa} falhou em extrair título corretamente")
-
-    raise ValueError("Falha ao obter nome do álbum e artista após várias tentativas.")
-
-# Salvar conteúdo como arquivo Markdown
-def salvar_post(conteudo, hoje):
-    titulo_match = re.search(r'\*\*(.*?)\*\* by \*\*(.*?)\*\*', conteudo)
-    if not titulo_match:
-        raise ValueError("Formato de título inválido: conteúdo não será salvo.")
-
-    album = titulo_match.group(1).strip()
-    artista = titulo_match.group(2).strip()
-
-    titulo = f"{album} - {artista}"
+# Salvar os arquivos index.en.md, index.pt.md, index.es.md
+def salvar_multilingue(blocos, album, artista, hoje):
+    titulo_base = f"{album} - {artista}"
     slug = gerar_slug(f"{album} {artista}")
-    descricao = f"Discover the album '{album}' by {artista}, a highlight in pop music."
-    keywords = f"pop album, {artista}, {album}, music"
+    descricao_base = f"Discover the album '{album}' by {artista}, a highlight in pop music."
+    keywords_base = f"pop album, {artista}, {album}, music"
 
-    caminho = f"content/posts/{slug}.md"
-    with open(caminho, "w", encoding="utf-8") as f:
-        f.write("---\n")
-        f.write(f"title: \"{titulo}\"\n")
-        f.write(f"date: {hoje.isoformat()}\n")
-        f.write(f"slug: \"{slug}\"\n")
-        f.write(f"description: \"{descricao}\"\n")
-        keywords_formatadas = ', '.join([f'\"{k.strip()}\"' for k in keywords.split(',')])
-        f.write(f"keywords: [{keywords_formatadas}]\n")
-        f.write("---\n\n")
-        f.write(conteudo)
+    pasta = f"content/posts/{slug}"
+    os.makedirs(pasta, exist_ok=True)
 
-# Executar geração
+    idiomas = {
+        'en': {
+            'title': titulo_base,
+            'description': descricao_base,
+            'content': blocos.get('en', '')
+        },
+        'pt': {
+            'title': f"{album} - {artista}",
+            'description': f"Descubra o álbum '{album}' de {artista}, um destaque na música pop.",
+            'content': blocos.get('pt', '')
+        },
+        'es': {
+            'title': f"{album} - {artista}",
+            'description': f"Descubre el álbum '{album}' de {artista}, un destacado de la música pop.",
+            'content': blocos.get('es', '')
+        },
+    }
+
+    for lang, dados in idiomas.items():
+        caminho = f"{pasta}/index.{lang}.md"
+        with open(caminho, "w", encoding="utf-8") as f:
+            f.write("---\n")
+            f.write(f'title: "{dados["title"]}"\n')
+            f.write(f'date: {hoje.isoformat()}\n')
+            f.write(f'slug: "{slug}"\n')
+            f.write(f'description: "{dados["description"]}"\n')
+            f.write(f'keywords: [{', '.join(f'"{k.strip()}"' for k in keywords_base.split(','))}]\n')
+            f.write("---\n\n")
+            f.write(dados['content'])
+
+# Execução principal
 if __name__ == "__main__":
     hoje = datetime.now()
     conteudo = gerar_conteudo()
-    salvar_post(conteudo, hoje)
-    print("Post gerado com sucesso!")
+    blocos = separar_por_idioma(conteudo)
+
+    # Extrair nome do álbum/artista da versão em inglês
+    album, artista = extrair_album_artista(blocos.get('en', ''))
+    if not album or not artista:
+        print("Não foi possível extrair álbum ou artista. Abortando post.")
+    else:
+        salvar_multilingue(blocos, album, artista, hoje)
+        print("Post multilíngue gerado com sucesso!")

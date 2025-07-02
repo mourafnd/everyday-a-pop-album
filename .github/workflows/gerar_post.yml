@@ -32,6 +32,6 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add .
+          git add content/posts/
           git commit -m "Post automático do dia" || echo "Nada para commitar"
           git push origin main
