@@ -91,7 +91,8 @@ def salvar_multilingue(blocos, album, artista, hoje):
             f.write(f'date: {hoje.isoformat()}\n')
             f.write(f'slug: "{slug}"\n')
             f.write(f'description: "{dados["description"]}"\n')
-            f.write(f'keywords: [{', '.join(f'"{k.strip()}"' for k in keywords_base.split(','))}]\n')
+            keywords_formatadas = ', '.join([f'\"{k.strip()}\"' for k in keywords_base.split(',')])
+            f.write(f"keywords: [{keywords_formatadas}]\n")
             f.write("---\n\n")
             f.write(dados['content'])
 
