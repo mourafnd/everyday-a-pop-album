@@ -1,12 +1,10 @@
 ---
-title: "Unknown Album - Unknown Artist"
+title: "Rebel Heart - Madonna"
 date: 2025-07-02T00:21:51.695339
-slug: "unknown-album-unknown-artist"
-description: "Discover the album 'Unknown Album' by Unknown Artist, a highlight in pop music."
-keywords: ["pop album", "Unknown Artist", "Unknown Album", "music"]
+slug: "rebel-heart-madonna"
+description: "Discover the album 'Rebel Heart' by Madonna, a highlight in pop music."
+keywords: ["pop album", "Madonna", "Rebel Heart", "music"]
 ---
-
-**Album Recommendation: "Rebel Heart"**
 
 **Artist:** Madonna
 
