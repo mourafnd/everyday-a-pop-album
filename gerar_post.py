@@ -19,19 +19,19 @@ def gerar_slug(texto):
 
 def gerar_conteudo():
     prompt = (
-        "Sua tarefa é recomendar um álbum do exclusivamente do gênero POP, seja ele brasileiro, latino ou internacional diferente a cada execução.\n\n"
-        "Comece exatamente com a seguinte linha (substituindo os colchetes pelo conteúdo real):\n"
+        "Você deve recomendar um álbum pop brasileiro, latino ou internacional **diferente a cada execução**.\n\n"
+        "Nunca repita o mesmo álbum mais de uma vez.\n\n"
+        "Comece exatamente com esta linha (substituindo os colchetes pelo conteúdo real):\n"
         "**[Nome do Álbum]** by **[Nome do Artista]**\n\n"
-        "Em seguida, escreva os seguintes tópicos:\n"
+        "Em seguida, escreva os tópicos abaixo:\n"
         "- Year\n- Country\n- Genre\n- Main Tracks (5 to 8 songs)\n"
         "- Curiosities and any other relevant information about this album\n\n"
-        "Depois, traduza esse mesmo conteúdo para os idiomas abaixo com o mesmo formato e tópicos:\n"
+        "Depois, traduza esse mesmo conteúdo para os idiomas abaixo, com o mesmo formato e tópicos:\n"
         "## ENGLISH\n## PORTUGUÊS\n## ESPAÑOL\n\n"
-        "⚠️ IMPORTANTE: O título com o nome do álbum e artista deve aparecer apenas na versão em inglês, logo no início, e sempre no formato:\n"
+        "⚠️ IMPORTANTE: O título com o nome do álbum e artista deve aparecer apenas na versão em inglês, no topo, sempre no formato:\n"
         "**Album Name** by **Artist Name**\n"
-        "Não adicione explicações extras nem use exemplos. Mantenha a estrutura exata descrita e recomende um álbum real diferente a cada vez."
+        "Mantenha a estrutura exata e não adicione explicações extras. Escolha sempre um álbum real diferente."
     )
-
 
     resposta = client.chat.completions.create(
         model="gpt-3.5-turbo",
