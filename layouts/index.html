@@ -5,14 +5,17 @@
     <meta name="robots" content="noindex">
     <script>
       (function () {
-        const lang = navigator.language || navigator.userLanguage;
+        const currentPath = window.location.pathname;
 
-        let langPrefix = "en";
-        if (lang.startsWith("pt")) langPrefix = "pt";
-        else if (lang.startsWith("es")) langPrefix = "es";
+        // Redireciona apenas se estiver na raiz do site
+        if (currentPath === "/") {
+          const lang = navigator.language || navigator.userLanguage;
+          let langPrefix = "en";
+          if (lang.startsWith("pt")) langPrefix = "pt";
+          else if (lang.startsWith("es")) langPrefix = "es";
 
-        // Redireciona diretamente para /<idioma>/
-        window.location.href = "/" + langPrefix + "/";
+          window.location.href = "/" + langPrefix + "/";
+        }
       })();
     </script>
   </head>
