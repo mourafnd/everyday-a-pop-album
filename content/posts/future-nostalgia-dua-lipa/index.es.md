@@ -1,15 +1,14 @@
 ---
 title: "Future Nostalgia - Dua Lipa"
-date: 2025-07-02T02:30:12.957065
+date: 2025-07-02T02:35:24.038721
 slug: "future-nostalgia-dua-lipa"
 description: "Descubre el álbum 'Future Nostalgia' de Dua Lipa, un destacado de la música pop."
 keywords: ["pop album", "Dua Lipa", "Future Nostalgia", "music"]
 ---
 
-**Future Nostalgia** por **Dua Lipa**
-
+**Future Nostalgia** de **Dua Lipa**
 - Año: 2020
 - País: Reino Unido
 - Género: Pop
-- Canciones Principales: Don't Start Now, Levitating, Physical, Break My Heart, Hallucinate
-- Curiosidades: "Future Nostalgia" recibió aclamación crítica por su sonido disco y dance-pop, lo que le valió a Dua Lipa múltiples premios y nominaciones. El álbum fue un éxito comercial a nivel mundial, alcanzando el primer puesto en diversas listas.
+- Canciones Principales: Don't Start Now, Physical, Levitating, Break My Heart, Hallucinate
+- Curiosidades: "Future Nostalgia" recibió aclamación crítica por su sonido inspirado en los años 80 y 90, con Dua Lipa mostrando su versatilidad como artista pop. El álbum ganó el Grammy al Mejor Álbum Vocal Pop en 2021.
