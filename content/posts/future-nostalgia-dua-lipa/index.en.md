@@ -1,6 +1,6 @@
 ---
 title: "Future Nostalgia - Dua Lipa"
-date: 2025-07-02T01:35:39.850432
+date: 2025-07-02T02:13:43.551323
 slug: "future-nostalgia-dua-lipa"
 description: "Discover the album 'Future Nostalgia' by Dua Lipa, a highlight in pop music."
 keywords: ["pop album", "Dua Lipa", "Future Nostalgia", "music"]
@@ -10,5 +10,11 @@ keywords: ["pop album", "Dua Lipa", "Future Nostalgia", "music"]
 - Year: 2020
 - Country: United Kingdom
 - Genre: Pop
-- Main Tracks: Don't Start Now, Physical, Levitating, Break My Heart, Hallucinate
-- One or two curiosities: The album won the Grammy for Best Pop Vocal Album in 2021. Dua Lipa co-wrote all the songs on the album.
+- Main Tracks:
+    1. Don't Start Now
+    2. Levitating
+    3. Break My Heart
+    4. Physical
+    5. Hallucinate
+
+One curiosity about this album is that it received critical acclaim for its disco and dance-pop sound, earning Dua Lipa multiple awards and nominations. It was also included in several year-end lists of the best albums of 2020.
