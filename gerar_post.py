@@ -19,19 +19,19 @@ def gerar_slug(texto):
 
 def gerar_conteudo():
     prompt = (
-        "Sua tarefa é recomendar um álbum pop (brasileiro, latino ou internacional) de forma precisa e no formato exato abaixo.\n\n"
-        "Comece **obrigatoriamente** com a seguinte linha:\n"
-        "**[Nome do Álbum]** by **[Nome do Artista]**\n"
-        "Exemplo: **Future Nostalgia** by **Dua Lipa**\n\n"
+        "Sua tarefa é recomendar um álbum pop brasileiro, latino ou internacional diferente a cada execução.\n\n"
+        "Comece exatamente com a seguinte linha (substituindo os colchetes pelo conteúdo real):\n"
+        "**[Nome do Álbum]** by **[Nome do Artista]**\n\n"
         "Em seguida, escreva os seguintes tópicos:\n"
-        "- Year\n- Country\n- Genre\n- Main Tracks (5 to 8 songs)\n- One or two curiosities and any other information about this album that you might find useful\n\n"
-        "Depois, traduza exatamente o mesmo conteúdo para:\n"
+        "- Year\n- Country\n- Genre\n- Main Tracks (5 to 8 songs)\n"
+        "- Curiosities and any other relevant information about this album\n\n"
+        "Depois, traduza esse mesmo conteúdo para os idiomas abaixo com o mesmo formato e tópicos:\n"
         "## ENGLISH\n## PORTUGUÊS\n## ESPAÑOL\n\n"
-        "⚠️ IMPORTANTE: O título com nome do álbum e artista **deve aparecer apenas na versão em inglês**, logo no início, e sempre no formato:\n"
+        "⚠️ IMPORTANTE: O título com o nome do álbum e artista deve aparecer apenas na versão em inglês, logo no início, e sempre no formato:\n"
         "**Album Name** by **Artist Name**\n"
-        "As demais seções devem ser traduções idênticas.\n"
-        "Não adicione nenhuma explicação extra. Mantenha a estrutura exata descrita."
+        "Não adicione explicações extras nem use exemplos. Mantenha a estrutura exata descrita e recomende um álbum real diferente a cada vez."
     )
+
 
     resposta = client.chat.completions.create(
         model="gpt-3.5-turbo",
