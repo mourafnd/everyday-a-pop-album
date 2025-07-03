@@ -80,13 +80,18 @@ def extrair_album_artista(texto):
 def separar_por_idioma(conteudo):
     partes = re.split(r'^##\s+', conteudo, flags=re.MULTILINE)
     blocos = {}
-    for parte in partes:
-        if parte.strip().startswith("ENGLISH"):
+
+    for i, parte in enumerate(partes):
+        if i == 0:
+            # Tudo antes do primeiro "##", assumimos que é inglês
+            blocos['en'] = parte.strip()
+        elif parte.strip().startswith("ENGLISH"):
             blocos['en'] = parte.partition("\n")[2].strip()
         elif parte.strip().startswith("PORTUGUÊS"):
             blocos['pt'] = parte.partition("\n")[2].strip()
         elif parte.strip().startswith("ESPAÑOL"):
             blocos['es'] = parte.partition("\n")[2].strip()
+
     return blocos
 
 # Salvar os arquivos index.en.md, index.pt.md, index.es.md
