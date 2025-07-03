@@ -3,7 +3,8 @@ title: "1989 - Taylor Swift"
 date: 2025-07-03T14:42:29.580622
 slug: "1989-taylor-swift"
 description: "Descubra o álbum '1989' de Taylor Swift, um destaque na música pop."
-cover: "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c1/31/18/c131181b-ca3e-d945-16b2-48ea6bcd64d4/23UM1IM11868.rgb.jpg/250x250bb.jpg"
+cover: 
+  image: "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c1/31/18/c131181b-ca3e-d945-16b2-48ea6bcd64d4/23UM1IM11868.rgb.jpg/250x250bb.jpg"
 keywords: ["pop album", "Taylor Swift", "1989", "music"]
 ---
 
