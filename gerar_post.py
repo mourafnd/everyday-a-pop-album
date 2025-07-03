@@ -5,6 +5,7 @@ from datetime import datetime
 import os
 import re
 import unicodedata
+import requests
 
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
@@ -15,8 +16,28 @@ def gerar_slug(texto):
     texto = texto.lower().replace(' ', '-').strip('-')
     return texto
 
-# Chamada à API para gerar conteúdo multilíngue
+# Função para gerar a URL da API do iTunes
+def gerar_url_itunes(artista, album):
+    artista_album = f"{artista} {album}"
+    artista_album = re.sub(r'[\\/]', '', artista_album)  # remove / e \
+    query = '+'.join(artista_album.split())
+    return f"https://itunes.apple.com/search?term={query}&entity=album&limit=1"
 
+# Função para buscar a imagem do álbum no iTunes
+def buscar_capa_album(artista, album):
+    url = gerar_url_itunes(artista, album)
+    try:
+        resposta = requests.get(url)
+        if resposta.status_code == 200:
+            dados = resposta.json()
+            if dados['resultCount'] > 0:
+                capa_url = dados['results'][0]['artworkUrl100']
+                return capa_url.replace('100x100bb.jpg', '250x250bb.jpg')
+    except Exception as e:
+        print(f"Erro ao buscar capa do álbum: {e}")
+    return None
+
+# Chamada à API para gerar conteúdo multilíngue
 def gerar_conteudo():
     prompt = (
         "Sua tarefa é recomendar um álbum EXCLUSIVAMENTE do gênero POP (pop brasileiro, pop latino ou pop internacional).\n"
@@ -42,8 +63,6 @@ def gerar_conteudo():
         max_tokens=1500
     )
     return resposta.choices[0].message.content.strip()
-
-
 
 # Extrai o título do álbum/artista da versão em inglês
 def extrair_album_artista(texto):
@@ -72,6 +91,7 @@ def salvar_multilingue(blocos, album, artista, hoje):
     slug = gerar_slug(f"{album} {artista}")
     descricao_base = f"Discover the album '{album}' by {artista}, a highlight in pop music."
     keywords_base = f"pop album, {artista}, {album}, music"
+    capa_url = buscar_capa_album(artista, album)
 
     pasta = f"content/posts/{slug}"
     os.makedirs(pasta, exist_ok=True)
@@ -102,6 +122,8 @@ def salvar_multilingue(blocos, album, artista, hoje):
             f.write(f'date: {hoje.isoformat()}\n')
             f.write(f'slug: "{slug}"\n')
             f.write(f'description: "{dados["description"]}"\n')
+            if capa_url:
+                f.write(f'cover: "{capa_url}"\n')
             keywords_formatadas = ', '.join([f'"{k.strip()}"' for k in keywords_base.split(',')])
             f.write(f"keywords: [{keywords_formatadas}]\n")
             f.write("---\n\n")
