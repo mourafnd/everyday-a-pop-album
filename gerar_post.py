@@ -69,11 +69,12 @@ def gerar_conteudo():
 
 # Extrai o título do álbum/artista da versão em inglês
 def extrair_album_artista(texto):
-    match = re.search(r'^\*\*(.*?)\*\* by \*\*(.*?)\*\*', texto, re.MULTILINE)
+    match = re.search(r'\*\*(.*?)\*\* by \*\*(.*?)\*\*', texto)
     if match:
         return match.group(1).strip(), match.group(2).strip()
     print("⚠️ Formato inesperado do título no conteúdo inglês.")
     return None, None
+
 
 # Divide o conteúdo por idioma
 def separar_por_idioma(conteudo):
