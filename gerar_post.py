@@ -62,7 +62,10 @@ def gerar_conteudo():
         temperature=0.9,
         max_tokens=1500
     )
-    return resposta.choices[0].message.content.strip()
+    
+    conteudo = resposta.choices[0].message.content.strip()
+    print("📝 Resposta completa da API:\n", conteudo[:1000], "\n---\n")  # Mostra parte do conteúdo para depuração
+    return conteudo
 
 # Extrai o título do álbum/artista da versão em inglês
 def extrair_album_artista(texto):
