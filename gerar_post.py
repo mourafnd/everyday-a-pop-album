@@ -6,6 +6,7 @@ import os
 import re
 import unicodedata
 import requests
+from urllib.parse import quote
 
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
@@ -94,6 +95,24 @@ def separar_por_idioma(conteudo):
 
     return blocos
 
+
+def gerar_links_streaming(album: str, artista: str) -> str:
+    album_escaped = quote(album)
+    artista_escaped = quote(artista)
+    termo_busca = quote(f"{album} {artista}")
+
+    markdown_links = f"""
+**🎧 Listen now on your favorite platform:**
+
+- 🎧 [Spotify](https://open.spotify.com/search/{termo_busca})
+- 🌀 [Deezer](https://www.deezer.com/search/{termo_busca})
+- 🍎 [Apple Music](https://music.apple.com/us/search?term={termo_busca})
+- ▶️ [YouTube](https://www.youtube.com/results?search_query={termo_busca})
+- 🎵 [YouTube Music](https://music.youtube.com/search?q={termo_busca})
+""".strip()
+
+    return markdown_links
+
 # Salvar os arquivos index.en.md, index.pt.md, index.es.md
 def salvar_multilingue(blocos, album, artista, hoje):
     titulo_base = f"{album} - {artista}"
@@ -101,6 +120,7 @@ def salvar_multilingue(blocos, album, artista, hoje):
     descricao_base = f"Discover the album '{album}' by {artista}, a highlight in pop music."
     keywords_base = f"pop album, {artista}, {album}, music"
     capa_url = buscar_capa_album(artista, album)
+    links_streaming = gerar_links_streaming(album, artista)
 
     pasta = f"content/posts/{slug}"
     os.makedirs(pasta, exist_ok=True)
@@ -138,6 +158,7 @@ def salvar_multilingue(blocos, album, artista, hoje):
             f.write(f"keywords: [{keywords_formatadas}]\n")
             f.write("---\n\n")
             f.write(dados['content'])
+            f.write(links_streaming)
 
 # Execução principal
 if __name__ == "__main__":
