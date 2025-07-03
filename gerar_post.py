@@ -32,7 +32,7 @@ def buscar_capa_album(artista, album):
             dados = resposta.json()
             if dados['resultCount'] > 0:
                 capa_url = dados['results'][0]['artworkUrl100']
-                return capa_url.replace('100x100bb.jpg', '250x250bb.jpg')
+                return capa_url.replace('100x100bb.jpg', '500x500bb.jpg')
     except Exception as e:
         print(f"Erro ao buscar capa do álbum: {e}")
     return None
