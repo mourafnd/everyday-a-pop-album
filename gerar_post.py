@@ -132,7 +132,8 @@ def salvar_multilingue(blocos, album, artista, hoje):
             f.write(f'slug: "{slug}"\n')
             f.write(f'description: "{dados["description"]}"\n')
             if capa_url:
-                f.write(f'cover: "{capa_url}"\n')
+                f.write("cover:\n")
+                f.write(f'  image: "{capa_url}"\n')
             keywords_formatadas = ', '.join([f'"{k.strip()}"' for k in keywords_base.split(',')])
             f.write(f"keywords: [{keywords_formatadas}]\n")
             f.write("---\n\n")
