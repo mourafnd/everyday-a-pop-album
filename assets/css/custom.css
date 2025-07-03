@@ -1,5 +1,12 @@
+/* Para testar se o CSS está sendo carregado */
+body {
+  border: 5px solid red !important;
+}
+
+/* Corrige o tamanho da capa do álbum */
 .entry-cover img {
   max-width: 40%;
+  height: auto;
   margin: 0 auto;
   display: block;
   border-radius: var(--radius);
