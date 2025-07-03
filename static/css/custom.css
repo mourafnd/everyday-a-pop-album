@@ -1,7 +1,14 @@
 /* Para testar se o CSS está sendo carregado */
-body {
-  border: 5px solid red !important;
+body::before {
+  content: "✅ CUSTOM CSS ATIVADO";
+  display: block;
+  background: #000;
+  color: #fff;
+  padding: 5px;
+  text-align: center;
+  font-size: 14px;
 }
+
 
 /* Corrige o tamanho da capa do álbum */
 .entry-cover img {
