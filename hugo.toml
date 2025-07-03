@@ -11,6 +11,9 @@ copyright = "Copyright © 2025 Everyday a Pop Album"
   ShowReadingTime = true
   defaultTheme = "auto"
   disableThemeToggle = false
+  [params.assets]
+    customCSS = ["css/custom.css"]
+
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
