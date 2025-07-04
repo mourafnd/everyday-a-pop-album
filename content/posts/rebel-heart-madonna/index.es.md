@@ -37,4 +37,6 @@ keywords: ["pop album", "Madonna", "Rebel Heart", "music"]
 - 📚 [Read more about Madonna on Wikipedia](https://en.wikipedia.org/wiki/Madonna)
 - 💿 [Explore the Rebel Heart album on AllMusic](https://www.allmusic.com/search/albums/Rebel+Heart)
 - 📀 [Check Madonna discography details on Discogs](https://www.discogs.com/search/?q=Rebel+Heart+Madonna&type=all)
-- ✍️ [Find lyrics and meanings on Genius](https://genius.com/search?q=Rebel+Heart%20Madonna)- 🎤 [Watch interviews with Madonna on YouTube](https://www.youtube.com/results?search_query=Madonna+interview)- 📰 [Read news about Madonna on Google News](https://news.google.com/search?q=Madonna)
+- ✍️ [Find lyrics and meanings on Genius](https://genius.com/search?q=Rebel+Heart%20Madonna)
+- 🎤 [Watch interviews with Madonna on YouTube](https://www.youtube.com/results?search_query=Madonna+interview)
+- 📰 [Read news about Madonna on Google News](https://news.google.com/search?q=Madonna)
