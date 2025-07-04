@@ -96,22 +96,21 @@ def separar_por_idioma(conteudo):
     return blocos
 
 
-def gerar_links_streaming(album: str, artista: str) -> str:
-    album_escaped = quote(album)
-    artista_escaped = quote(artista)
-    termo_busca = quote(f"{album} {artista}")
+def gerar_blocos_streaming(album_title, album_artist, lang):
+    search_term =  quote(f"{album_title} {album_artist}")
+    streaming_links = f"""- 🎧 [Spotify](https://open.spotify.com/search/{search_term})
+- 🌀 [Deezer](https://www.deezer.com/search/{search_term})
+- 🍎 [Apple Music](https://music.apple.com/search?term={search_term})
+- ▶️ [YouTube](https://www.youtube.com/results?search_query={search_term})
+- 🎵 [YouTube Music](https://music.youtube.com/search?q={search_term})"""
 
-    markdown_links = f"""
-**🎧 Listen now on your favorite platform:**
 
-- 🎧 [Spotify](https://open.spotify.com/search/{termo_busca})
-- 🌀 [Deezer](https://www.deezer.com/search/{termo_busca})
-- 🍎 [Apple Music](https://music.apple.com/us/search?term={termo_busca})
-- ▶️ [YouTube](https://www.youtube.com/results?search_query={termo_busca})
-- 🎵 [YouTube Music](https://music.youtube.com/search?q={termo_busca})
-""".strip()
-
-    return markdown_links
+    if lang == 'pt':
+        return f"\n\n**🎧 Ouça agora na sua plataforma favorita:**\n\n{streaming_links}"
+    elif lang == 'es':
+        return f"\n\n**🎧 Escucha ahora en tu plataforma favorita:**\n\n{streaming_links}"
+    else:
+        return f"\n\n**🎧 Listen now on your favorite platform:**\n\n{streaming_links}"
 
 # Salvar os arquivos index.en.md, index.pt.md, index.es.md
 def salvar_multilingue(blocos, album, artista, hoje):
@@ -120,7 +119,6 @@ def salvar_multilingue(blocos, album, artista, hoje):
     descricao_base = f"Discover the album '{album}' by {artista}, a highlight in pop music."
     keywords_base = f"pop album, {artista}, {album}, music"
     capa_url = buscar_capa_album(artista, album)
-    links_streaming = gerar_links_streaming(album, artista)
 
     pasta = f"content/posts/{slug}"
     os.makedirs(pasta, exist_ok=True)
@@ -158,7 +156,8 @@ def salvar_multilingue(blocos, album, artista, hoje):
             f.write(f"keywords: [{keywords_formatadas}]\n")
             f.write("---\n\n")
             f.write(dados['content'])
-            f.write(links_streaming)
+            f.write("---\n\n")
+            f.write(gerar_blocos_streaming(album, artista, lang))
 
 # Execução principal
 if __name__ == "__main__":
