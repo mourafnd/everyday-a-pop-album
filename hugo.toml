@@ -16,7 +16,7 @@ copyright = "Copyright © 2025 Everyday a Pop Album"
 
 
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
+  home = ["HTML", "RSS", "JSON", "SITEMAP"]
 
 [languages]
 
