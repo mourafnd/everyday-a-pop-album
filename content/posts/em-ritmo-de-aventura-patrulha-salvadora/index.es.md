@@ -2,7 +2,7 @@
 title: "Em Ritmo de Aventura - Patrulha Salvadora"
 date: 2025-07-04T14:10:55.449221
 slug: "em-ritmo-de-aventura-patrulha-salvadora"
-description: "Em Ritmo de Aventura" es el álbum de la banda sonora de la telenovela brasileña para niños Patrulha Salvadora."
+description: "Em Ritmo de Aventura es el álbum de la banda sonora de la telenovela brasileña para niños Patrulha Salvadora."
 keywords: ["pop album", "Patrulha Salvadora", "Em Ritmo de Aventura", "music"]
 ---
 
