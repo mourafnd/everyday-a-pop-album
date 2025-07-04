@@ -156,7 +156,7 @@ def salvar_multilingue(blocos, album, artista, hoje):
             f.write(f"keywords: [{keywords_formatadas}]\n")
             f.write("---\n\n")
             f.write(dados['content'])
-            f.write("---\n\n")
+            f.write("\n\n")
             f.write(gerar_blocos_streaming(album, artista, lang))
 
 # Execução principal
