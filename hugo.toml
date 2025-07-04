@@ -7,7 +7,8 @@ copyright = "Copyright © 2025 Everyday a Pop Album"
 
 [params]
   author = "Everyday a Pop Album"
-  description = "Discover a new pop album every day: Brazilian, Latin or international."
+  description = "Discover a new pop album every day — Brazilian, Latin or International. Dive into pop music history and explore timeless classics and hidden gems."
+  keywords = ["pop music", "daily album", "Brazilian pop", "Latin pop", "international pop", "music discovery", "pop classics", "album of the day", "hidden gems"]
   ShowReadingTime = true
   defaultTheme = "auto"
   disableThemeToggle = false
