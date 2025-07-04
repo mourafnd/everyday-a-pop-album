@@ -5,7 +5,7 @@
     <p>Discover a new pop album every day — Brazilian, Latin or International. Dive into pop history and explore unforgettable music gems.</p>
   </section>
 
-  {{ $posts := where .Site.RegularPages "Section" "posts" | sort "Date" "desc" }}
+  {{ $posts := (.Site.RegularPages | where "Section" "posts").ByDate.Reverse }}
   {{ $ultimo := index $posts 0 }}
 
   {{ with $ultimo }}
