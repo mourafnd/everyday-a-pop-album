@@ -11,7 +11,7 @@
     <section class="section" style="text-align: center; margin-bottom: 2rem;">
       <h2>🎶 Album of the Day</h2>
       {{ with $ultimo.Params.cover.image }}
-        <img src="{{ . }}" alt="{{ $ultimo.Params.cover.alt }}" style="max-width: 300px; border-radius: 12px; margin-bottom: 1rem;" loading="lazy">
+        <img src="{{ . }}" alt="{{ $ultimo.Params.cover.alt }}" style="max-width: 300px; border-radius: 12px; margin-bottom: 1rem; margin: 0 auto;" loading="lazy">
       {{ end }}
       <h3 style="margin: 0.5rem 0;">{{ $ultimo.Title }}</h3>
       <a href="{{ $ultimo.RelPermalink }}">
