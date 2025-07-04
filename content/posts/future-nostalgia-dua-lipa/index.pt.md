@@ -1,6 +1,6 @@
 ---
 title: "Future Nostalgia - Dua Lipa"
-date: 2025-07-03T23:42:01.376899
+date: 2025-07-04T14:07:40.900392
 slug: "future-nostalgia-dua-lipa"
 description: "Descubra o álbum 'Future Nostalgia' de Dua Lipa, um destaque na música pop."
 cover:
@@ -8,10 +8,14 @@ cover:
 keywords: ["pop album", "Dua Lipa", "Future Nostalgia", "music"]
 ---
 
-**🎧 Listen now on your favorite platform:**
+
+
+
+
+**🎧 Ouça agora na sua plataforma favorita:**
 
 - 🎧 [Spotify](https://open.spotify.com/search/Future%20Nostalgia%20Dua%20Lipa)
 - 🌀 [Deezer](https://www.deezer.com/search/Future%20Nostalgia%20Dua%20Lipa)
-- 🍎 [Apple Music](https://music.apple.com/us/search?term=Future%20Nostalgia%20Dua%20Lipa)
+- 🍎 [Apple Music](https://music.apple.com/search?term=Future%20Nostalgia%20Dua%20Lipa)
 - ▶️ [YouTube](https://www.youtube.com/results?search_query=Future%20Nostalgia%20Dua%20Lipa)
 - 🎵 [YouTube Music](https://music.youtube.com/search?q=Future%20Nostalgia%20Dua%20Lipa)
