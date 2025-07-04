@@ -174,9 +174,11 @@ def gerar_links_externos(album, artista):
     # Links externos formatados
     links = [
         f"- 📚 [Read more about {artista} on Wikipedia](https://en.wikipedia.org/wiki/{artista_encoded})",
-        f"- 💿 [Explore the album on AllMusic](https://www.allmusic.com/search/albums/{album_encoded})",
-        f"- 📀 [Check discography details on Discogs](https://www.discogs.com/search/?q={album_encoded}+{artista_encoded}&type=all)",
+        f"- 💿 [Explore the {album} album on AllMusic](https://www.allmusic.com/search/albums/{album_encoded})",
+        f"- 📀 [Check {artista} discography details on Discogs](https://www.discogs.com/search/?q={album_encoded}+{artista_encoded}&type=all)",
         f"- ✍️ [Find lyrics and meanings on Genius](https://genius.com/search?q={album_encoded}%20{artista_encoded})"
+        f"- 🎤 [Watch interviews with {artista} on YouTube](https://www.youtube.com/results?search_query={artista}+interview)"
+        f"- 📰 [Read news about {artista} on Google News](https://news.google.com/search?q={artista})"
     ]
     
     return "## Learn More\n\n" + "\n".join(links)
