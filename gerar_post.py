@@ -164,6 +164,22 @@ def formatar_topicos_com_h2(conteudo, lang):
         resultado.append(linha)
     return "\n".join(resultado)
 
+import urllib.parse
+
+def gerar_links_externos(album, artista):
+    # Codifica para URLs seguras
+    artista_encoded = urllib.parse.quote_plus(artista)
+    album_encoded = urllib.parse.quote_plus(album)
+    
+    # Links externos formatados
+    links = [
+        f"- 📚 [Read more about {artista} on Wikipedia](https://en.wikipedia.org/wiki/{artista_encoded})",
+        f"- 💿 [Explore the album on AllMusic](https://www.allmusic.com/search/albums/{album_encoded})",
+        f"- 📀 [Check discography details on Discogs](https://www.discogs.com/search/?q={album_encoded}+{artista_encoded}&type=all)",
+        f"- ✍️ [Find lyrics and meanings on Genius](https://genius.com/search?q={album_encoded}%20{artista_encoded})"
+    ]
+    
+    return "## Learn More\n\n" + "\n".join(links)
 
 # Salvar os arquivos index.en.md, index.pt.md, index.es.md
 def salvar_multilingue(blocos, album, artista, hoje):
@@ -221,6 +237,8 @@ def salvar_multilingue(blocos, album, artista, hoje):
             f.write(dados['content'])
             f.write("\n\n")
             f.write(gerar_blocos_streaming(album, artista, lang))
+            f.write("\n\n")
+            f.write(gerar_links_externos(album, artista))
 
 # Execução principal
 if __name__ == "__main__":
