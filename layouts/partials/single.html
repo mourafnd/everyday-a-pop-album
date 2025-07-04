@@ -39,30 +39,26 @@
     {{- if not (.Param "disableAnchoredHeadings") }}
     {{- partial "anchored_headings.html" .Content -}}
     {{- else }}{{ .Content }}{{ end }}
+      <section class="section" style="text-align: center; margin-top: 2rem;">
+        <h2>🎲 Discover Another Album</h2>
+        <p>Feeling lucky? Jump to another pop album and explore more music!</p>
+
+        {{ $posts := where .Site.RegularPages "Section" "posts" }}
+        {{ $randomIndex := mod (now.UnixNano | int) (len $posts) }}
+        {{ $random := index (shuffle $posts) $randomIndex }}
+
+        {{ with $random }}
+          <a href="{{ .RelPermalink }}">
+            <button style="background-color: #6200ea; color: white; padding: 0.7rem 1.5rem; font-size: 1rem; border: none; border-radius: 5px; cursor: pointer;">
+              🎧 Go to "{{ .Title }}"
+            </button>
+          </a>
+        {{ end }}
+      </section>
   </div>
   {{- end }}
 
   <footer class="post-footer">
-
-    <section class="section" style="text-align: center; margin-top: 2rem;">
-      <h2>🎲 Discover Another Album</h2>
-      <p>Feeling lucky? Jump to another pop album and explore more music!</p>
-
-      {{ $posts := where .Site.RegularPages "Section" "posts" }}
-      {{ $randomIndex := mod (now.UnixNano | int) (len $posts) }}
-      {{ $random := index (shuffle $posts) $randomIndex }}
-
-      {{ with $random }}
-        <a href="{{ .RelPermalink }}">
-          <button style="background-color: #6200ea; color: white; padding: 0.7rem 1.5rem; font-size: 1rem; border: none; border-radius: 5px; cursor: pointer;">
-            🎧 Go to "{{ .Title }}"
-          </button>
-        </a>
-      {{ end }}
-  </section>
-
-
-
     {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
     <ul class="post-tags">
       {{- range ($.GetTerms $tags) }}
