@@ -164,7 +164,7 @@ def salvar_multilingue(blocos, album, artista, hoje):
             else:
                 descricao = f"Discover the album '{album}' by {artista}, a highlight in pop music."
 
-
+        descricao = descricao.replace('"', '\\"')
         caminho = f"{pasta}/index.{lang}.md"
         with open(caminho, "w", encoding="utf-8") as f:
             f.write("---\n")
