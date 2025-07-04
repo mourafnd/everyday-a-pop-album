@@ -127,6 +127,44 @@ def extrair_primeira_curiosidade(texto, lang):
         return match.group(1).strip() + "."
     return None
 
+def formatar_topicos_com_h2(conteudo, lang):
+
+    TOPICOS_TITULOS = {
+        'en': {
+            'year': 'Year',
+            'country': 'Country',
+            'genre': 'Genre',
+            'tracks': 'Main Tracks',
+            'curiosities': 'Curiosities',
+        },
+        'pt': {
+            'year': 'Ano',
+            'country': 'País',
+            'genre': 'Gênero',
+            'tracks': 'Faixas principais',
+            'curiosities': 'Curiosidades',
+        },
+        'es': {
+            'year': 'Año',
+            'country': 'País',
+            'genre': 'Género',
+            'tracks': 'Canciones principales',
+            'curiosities': 'Curiosidades',
+        }
+    }
+
+    titulos = TOPICOS_TITULOS.get(lang, {})
+    linhas = conteudo.splitlines()
+    resultado = []
+    for linha in linhas:
+        for chave, texto in titulos.items():
+            if re.match(rf"^-\s*{re.escape(texto)}", linha, re.IGNORECASE):
+                resultado.append(f"## {texto}")
+                break
+        resultado.append(linha)
+    return "\n".join(resultado)
+
+
 # Salvar os arquivos index.en.md, index.pt.md, index.es.md
 def salvar_multilingue(blocos, album, artista, hoje):
     titulo_base = f"{album} - {artista}"
@@ -156,6 +194,7 @@ def salvar_multilingue(blocos, album, artista, hoje):
     for lang, dados in idiomas.items():
 
         descricao = extrair_primeira_curiosidade(dados['content'], lang)
+        dados['content'] = formatar_topicos_com_h2(dados['content'], lang)
         if not descricao:
             if lang == 'pt':
                 descricao = f"Descubra o álbum '{album}' de {artista}, um destaque na música pop."
@@ -175,6 +214,7 @@ def salvar_multilingue(blocos, album, artista, hoje):
             if capa_url:
                 f.write("cover:\n")
                 f.write(f'  image: "{capa_url}"\n')
+                f.write(f'  alt: "{album} by {artista}"\n')
             keywords_formatadas = ', '.join([f'"{k.strip()}"' for k in keywords_base.split(',')])
             f.write(f"keywords: [{keywords_formatadas}]\n")
             f.write("---\n\n")
