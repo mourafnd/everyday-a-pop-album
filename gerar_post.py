@@ -54,7 +54,7 @@ def gerar_conteudo():
         "## ENGLISH\n## PORTUGUÊS\n## ESPAÑOL\n\n"
         "⚠️ IMPORTANTE: O título com o nome do álbum e artista deve aparecer apenas na versão em inglês, no topo, sempre no formato:\n"
         "**Album Name** by **Artist Name**\n"
-        "Mantenha a estrutura exata e não adicione explicações extras. Escolha sempre um álbum real diferente."
+        "Mantenha a estrutura exata e não adicione explicações extras. Escolha sempre um álbum real diferente. E IMPORTANTE! Garanta que temos a mesma informação nos 3 idiomas"
     )
 
     resposta = client.chat.completions.create(
