@@ -113,6 +113,20 @@ def gerar_blocos_streaming(album_title, album_artist, lang):
         return f"\n\n**🎧 Listen now on your favorite platform:**\n\n{streaming_links}"
 
 
+# Extrai a primeira frase de curiosidades (para meta description)
+def extrair_primeira_curiosidade(texto, lang):
+    if lang == 'pt':
+        padrao = r"(?i)-\s*Curiosidades.*?:\s*(.*?)\."
+    elif lang == 'es':
+        padrao = r"(?i)-\s*Curiosidades.*?:\s*(.*?)\."
+    else:
+        padrao = r"(?i)-\s*Curiosities.*?:\s*(.*?)\."
+
+    match = re.search(padrao, texto)
+    if match:
+        return match.group(1).strip() + "."
+    return None
+
 # Salvar os arquivos index.en.md, index.pt.md, index.es.md
 def salvar_multilingue(blocos, album, artista, hoje):
     titulo_base = f"{album} - {artista}"
@@ -127,29 +141,37 @@ def salvar_multilingue(blocos, album, artista, hoje):
     idiomas = {
         'en': {
             'title': titulo_base,
-            'description': descricao_base,
             'content': blocos.get('en', '')
         },
         'pt': {
             'title': f"{album} - {artista}",
-            'description': f"Descubra o álbum '{album}' de {artista}, um destaque na música pop.",
             'content': blocos.get('pt', '')
         },
         'es': {
             'title': f"{album} - {artista}",
-            'description': f"Descubre el álbum '{album}' de {artista}, un destacado de la música pop.",
             'content': blocos.get('es', '')
         },
     }
 
     for lang, dados in idiomas.items():
+
+        descricao = extrair_primeira_curiosidade(dados['content'], lang)
+        if not descricao:
+            if lang == 'pt':
+                descricao = f"Descubra o álbum '{album}' de {artista}, um destaque na música pop."
+            elif lang == 'es':
+                descricao = f"Descubre el álbum '{album}' de {artista}, un destacado de la música pop."
+            else:
+                descricao = f"Discover the album '{album}' by {artista}, a highlight in pop music."
+
+
         caminho = f"{pasta}/index.{lang}.md"
         with open(caminho, "w", encoding="utf-8") as f:
             f.write("---\n")
             f.write(f'title: "{dados["title"]}"\n')
             f.write(f'date: {hoje.isoformat()}\n')
             f.write(f'slug: "{slug}"\n')
-            f.write(f'description: "{dados["description"]}"\n')
+            f.write(f'description: "{descricao}"\n')
             if capa_url:
                 f.write("cover:\n")
                 f.write(f'  image: "{capa_url}"\n')
