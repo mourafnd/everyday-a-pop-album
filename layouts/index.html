@@ -5,8 +5,8 @@
     <p>Discover a new pop album every day — Brazilian, Latin or International. Dive into pop history and explore unforgettable music gems.</p>
   </section>
 
-  {{ $posts := (.Site.RegularPages | where "Section" "posts").ByDate.Reverse }}
-  {{ $ultimo := index $posts 0 }}
+  {{ $posts := where site.RegularPages "Section" "posts" | sort "Date" "desc" }}
+  {{ $ultimo := first 1 $posts | first }}
 
   {{ with $ultimo }}
     <section class="section" style="text-align: center; margin-bottom: 2rem;">
