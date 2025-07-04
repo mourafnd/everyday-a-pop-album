@@ -5,6 +5,7 @@ slug: "disco-kylie-minogue"
 description: "\"Disco\" is Kylie Minogue's fifteenth studio album, and it was widely praised for its disco-influenced sound and uplifting vibe."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/78/2e/48/782e48ac-38c3-8452-3c24-bef4aae2c4fc/190295973322.jpg/500x500bb.jpg"
+  alt: "Disco - Kylie Minogue"
 keywords: ["pop album", "Kylie Minogue", "Disco", "music"]
 ---
 
