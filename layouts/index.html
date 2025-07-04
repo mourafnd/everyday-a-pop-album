@@ -1,37 +1,33 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <script>
-      async function redirectToLatest() {
-        const lang = navigator.language || navigator.userLanguage || "en";
-        const baseLang = lang.startsWith("pt")
-          ? "pt"
-          : lang.startsWith("es")
-          ? "es"
-          : "en";
+{{ define "main" }}
+<main class="main">
+  <section class="section" style="text-align: center; padding: 2rem 1rem;">
+    <h1>Everyday a Pop Album 🎧</h1>
+    <p>Discover a new pop album every day — Brazilian, Latin or International. Dive into pop history and explore unforgettable music gems.</p>
+  </section>
 
-        try {
-          const response = await fetch(`/${baseLang}/index.json`);
-          if (!response.ok) throw new Error("Failed to fetch index.json");
+  {{ $posts := where .Site.RegularPages "Section" "posts" | sort "Date" "desc" }}
+  {{ $ultimo := index $posts 0 }}
 
-          const data = await response.json();
+  {{ with $ultimo }}
+    <section class="section" style="text-align: center; margin-bottom: 2rem;">
+      <h2>🎶 Album of the Day</h2>
+      {{ with .Params.cover.image }}
+        <img src="{{ . }}" alt="{{ $.Params.cover.alt }}" style="max-width: 300px; border-radius: 12px; margin-bottom: 1rem;" loading="lazy">
+      {{ end }}
+      <h3 style="margin: 0.5rem 0;">{{ .Title }}</h3>
+      <a href="{{ .RelPermalink }}">
+        <button style="background-color: #ff4081; color: white; padding: 0.7rem 1.5rem; font-size: 1rem; border: none; border-radius: 5px; cursor: pointer;">
+          🎧 View Album
+        </button>
+      </a>
+    </section>
+  {{ end }}
 
-          if (data.length > 0 && data[0].permalink) {
-            window.location.href = data[0].permalink;
-          } else {
-            // fallback para a home do idioma se não houver posts
-            window.location.href = `/${baseLang}/posts`;
-          }
-        } catch (err) {
-          console.error("Redirection failed:", err);
-          window.location.href = `/${baseLang}/posts`;
-        }
-      }
+  <section class="section" style="text-align: center;">
+    <h2>📚 Browse All Albums</h2>
+    <p>Explore the full archive of daily pop album highlights!</p>
+  </section>
 
-      redirectToLatest();
-    </script>
-  </head>
-  <body>
-  </body>
-</html>
+  {{ partial "list.html" . }}
+</main>
+{{ end }}
