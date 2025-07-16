@@ -1,6 +1,6 @@
 ---
 title: "Future Sex/Love Sounds - Justin Timberlake"
-date: 2025-07-13T03:56:24.292358
+date: 2025-07-16T03:54:54.714203
 slug: "future-sexlove-sounds-justin-timberlake"
 description: "Descubra o álbum 'Future Sex/Love Sounds' de Justin Timberlake, um destaque na música pop."
 keywords: ["pop album", "Justin Timberlake", "Future Sex/Love Sounds", "music"]
