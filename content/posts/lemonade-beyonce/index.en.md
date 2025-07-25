@@ -1,8 +1,8 @@
 ---
 title: "Lemonade - Beyoncé"
-date: 2025-07-04T23:48:03.175488
+date: 2025-07-25T03:56:28.559826
 slug: "lemonade-beyonce"
-description: "\"Lemonade\" is Beyoncé's sixth studio album and it received critical acclaim for its innovative production and deep lyrical content."
+description: "\"Lemonade\" is Beyoncé's sixth studio album and was accompanied by a visual album film."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/1d/1f/f1/1d1ff1ea-1720-ae29-9886-0ea89720615c/886447691144.jpg/500x500bb.jpg"
   alt: "Lemonade by Beyoncé"
@@ -15,11 +15,11 @@ keywords: ["pop album", "Beyoncé", "Lemonade", "music"]
 ## Country
 - Country: United States
 ## Genre
-- Genre: Pop/R&B
+- Genre: Pop
 ## Main Tracks
-- Main Tracks: Formation, Sorry, Hold Up, Freedom, All Night
+- Main Tracks: Formation, Hold Up, Sorry, Freedom, All Night
 ## Curiosities
-- Curiosities: "Lemonade" is Beyoncé's sixth studio album and it received critical acclaim for its innovative production and deep lyrical content. The album explores themes of infidelity, empowerment, and resilience. Lemonade was accompanied by a one-hour film of the same name, which premiered on HBO.
+- Curiosities: "Lemonade" is Beyoncé's sixth studio album and was accompanied by a visual album film. It explores themes of infidelity, empowerment, and black identity, receiving critical acclaim for its production and storytelling.
 
 
 

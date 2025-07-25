@@ -1,6 +1,6 @@
 ---
 title: "Lemonade - Beyoncé"
-date: 2025-07-04T23:48:03.175488
+date: 2025-07-25T03:56:28.559826
 slug: "lemonade-beyonce"
 description: "Descubra o álbum 'Lemonade' de Beyoncé, um destaque na música pop."
 cover:
