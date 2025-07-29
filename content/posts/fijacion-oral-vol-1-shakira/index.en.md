@@ -1,8 +1,8 @@
 ---
 title: "Fijación Oral Vol. 1 - Shakira"
-date: 2025-07-15T03:56:12.942534
+date: 2025-07-29T04:04:09.561752
 slug: "fijacion-oral-vol-1-shakira"
-description: "This album marked Shakira's transition to a more pop sound, including influences from Latin music and rock."
+description: "This album marked Shakira's transition to a more pop-oriented sound for the international market."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6f/18/1d/6f181d45-8041-cbdc-2c79-bc7374d01207/196872648560.jpg/500x500bb.jpg"
   alt: "Fijación Oral Vol. 1 by Shakira"
@@ -10,7 +10,6 @@ keywords: ["pop album", "Shakira", "Fijación Oral Vol. 1", "music"]
 ---
 
 **Fijación Oral Vol. 1** by **Shakira**
-
 ## Year
 - Year: 2005
 ## Country
@@ -18,9 +17,9 @@ keywords: ["pop album", "Shakira", "Fijación Oral Vol. 1", "music"]
 ## Genre
 - Genre: Pop
 ## Main Tracks
-- Main Tracks: La Tortura, No, En Tus Pupilas, Obtener un Sí, La Pared
+- Main Tracks: La Tortura, No, En Tus Pupilas, La Pared, Obtener un Sí
 ## Curiosities
-- Curiosities: This album marked Shakira's transition to a more pop sound, including influences from Latin music and rock. Fijación Oral Vol. 1 won the Latin Grammy for Best Female Pop Vocal Album in 2006.
+- Curiosities: This album marked Shakira's transition to a more pop-oriented sound for the international market. It was Grammy nominated and sold millions of copies worldwide.
 
 
 
