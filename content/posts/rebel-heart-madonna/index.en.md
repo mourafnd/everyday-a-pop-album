@@ -1,8 +1,8 @@
 ---
 title: "Rebel Heart - Madonna"
-date: 2025-07-04T16:50:52.825201
+date: 2025-08-05T04:03:56.240377
 slug: "rebel-heart-madonna"
-description: "\"Rebel Heart\" is Madonna's thirteenth studio album and features collaborations with artists such as Nicki Minaj, Chance the Rapper, and Kanye West."
+description: "Madonna's thirteenth studio album, featuring collaborations with artists such as Nicki Minaj, Chance the Rapper, and Mike Tyson."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/56/c8/cf/56c8cfa1-02ec-2464-c1af-efbb3edecaab/00602547201829.rgb.jpg/500x500bb.jpg"
   alt: "Rebel Heart by Madonna"
@@ -10,7 +10,6 @@ keywords: ["pop album", "Madonna", "Rebel Heart", "music"]
 ---
 
 **Rebel Heart** by **Madonna**
-
 ## Year
 - Year: 2015
 ## Country
@@ -18,9 +17,9 @@ keywords: ["pop album", "Madonna", "Rebel Heart", "music"]
 ## Genre
 - Genre: Pop
 ## Main Tracks
-- Main Tracks: Living for Love, Ghosttown, Bitch I'm Madonna, Hold Tight, Joan of Arc
+- Main Tracks: Living for Love, Ghosttown, Bitch I'm Madonna, Hold Tight, Rebel Heart
 ## Curiosities
-- Curiosities: "Rebel Heart" is Madonna's thirteenth studio album and features collaborations with artists such as Nicki Minaj, Chance the Rapper, and Kanye West. The album received positive reviews from critics and peaked within the top 10 in various countries around the world.
+- Curiosities: Madonna's thirteenth studio album, featuring collaborations with artists such as Nicki Minaj, Chance the Rapper, and Mike Tyson. The album received mixed reviews but was praised for its diverse musical styles and Madonna's vocal performance.
 
 
 

@@ -1,26 +1,15 @@
 ---
 title: "Rebel Heart - Madonna"
-date: 2025-07-04T16:50:52.825201
+date: 2025-08-05T04:03:56.240377
 slug: "rebel-heart-madonna"
-description: "\"Rebel Heart\" es el decimotercer álbum de estudio de Madonna y cuenta con colaboraciones de artistas como Nicki Minaj, Chance the Rapper y Kanye West."
+description: "Descubre el álbum 'Rebel Heart' de Madonna, un destacado de la música pop."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/56/c8/cf/56c8cfa1-02ec-2464-c1af-efbb3edecaab/00602547201829.rgb.jpg/500x500bb.jpg"
   alt: "Rebel Heart by Madonna"
 keywords: ["pop album", "Madonna", "Rebel Heart", "music"]
 ---
 
-**Rebel Heart** de **Madonna**
 
-## Año
-- Año: 2015
-## País
-- País: Estados Unidos
-## Género
-- Género: Pop
-## Canciones principales
-- Canciones Principales: Living for Love, Ghosttown, Bitch I'm Madonna, Hold Tight, Joan of Arc
-## Curiosidades
-- Curiosidades: "Rebel Heart" es el decimotercer álbum de estudio de Madonna y cuenta con colaboraciones de artistas como Nicki Minaj, Chance the Rapper y Kanye West. El álbum recibió críticas positivas y alcanzó el top 10 en varios países alrededor del mundo.
 
 
 
