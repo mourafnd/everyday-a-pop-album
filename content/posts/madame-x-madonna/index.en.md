@@ -1,8 +1,8 @@
 ---
 title: "Madame X - Madonna"
-date: 2025-08-06T04:01:42.083927
+date: 2025-08-08T04:01:14.067156
 slug: "madame-x-madonna"
-description: "\"Madame X\" is Madonna's fourteenth studio album, exploring a variety of genres such as pop, reggaeton, and Latin music."
+description: "\"Madame X\" is the fourteenth studio album by Madonna, exploring different musical influences such as Latin, hip hop, and reggae."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/da/c6/f4/dac6f434-3b0e-71f9-0be7-318edd1699aa/00602577826078.rgb.jpg/500x500bb.jpg"
   alt: "Madame X by Madonna"
@@ -10,7 +10,6 @@ keywords: ["pop album", "Madonna", "Madame X", "music"]
 ---
 
 **Madame X** by **Madonna**
-
 ## Year
 - Year: 2019
 ## Country
@@ -18,9 +17,9 @@ keywords: ["pop album", "Madonna", "Madame X", "music"]
 ## Genre
 - Genre: Pop
 ## Main Tracks
-- Main Tracks: "Medellín", "Crave", "God Control", "I Rise", "Dark Ballet"
+- Main Tracks: "Medellín", "Crave", "God Control", "Dark Ballet", "I Don't Search I Find"
 ## Curiosities
-- Curiosities: "Madame X" is Madonna's fourteenth studio album, exploring a variety of genres such as pop, reggaeton, and Latin music. The album features collaborations with artists like Maluma and Quavo, and received mixed reviews from critics. Madonna described the concept of "Madame X" as a secret agent persona that allowed her to embrace different aspects of her identity.
+- Curiosities: "Madame X" is the fourteenth studio album by Madonna, exploring different musical influences such as Latin, hip hop, and reggae. The album received mixed reviews from critics but was praised for its experimental nature and Madonna's versatility as an artist.
 
 
 
