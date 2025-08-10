@@ -1,24 +1,15 @@
 ---
 title: "Fijación Oral Vol. 1 - Shakira"
-date: 2025-07-29T04:04:09.561752
+date: 2025-08-10T03:59:37.157320
 slug: "fijacion-oral-vol-1-shakira"
-description: "Este álbum marcou a transição de Shakira para um som mais pop e orientado para o mercado internacional."
+description: "Descubra o álbum 'Fijación Oral Vol. 1' de Shakira, um destaque na música pop."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6f/18/1d/6f181d45-8041-cbdc-2c79-bc7374d01207/196872648560.jpg/500x500bb.jpg"
   alt: "Fijación Oral Vol. 1 by Shakira"
 keywords: ["pop album", "Shakira", "Fijación Oral Vol. 1", "music"]
 ---
 
-**Fijación Oral Vol. 1** por **Shakira**
-## Ano
-- Ano: 2005
-## País
-- País: Colômbia
-## Gênero
-- Gênero: Pop
-- Principais Faixas: La Tortura, No, En Tus Pupilas, La Pared, Obtener un Sí
-## Curiosidades
-- Curiosidades: Este álbum marcou a transição de Shakira para um som mais pop e orientado para o mercado internacional. Foi indicado ao Grammy e vendeu milhões de cópias em todo o mundo.
+
 
 
 
