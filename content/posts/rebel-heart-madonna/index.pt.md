@@ -1,6 +1,6 @@
 ---
 title: "Rebel Heart - Madonna"
-date: 2025-08-05T04:03:56.240377
+date: 2025-08-16T03:41:31.903590
 slug: "rebel-heart-madonna"
 description: "Descubra o álbum 'Rebel Heart' de Madonna, um destaque na música pop."
 cover:
