@@ -1,24 +1,15 @@
 ---
 title: "Emotion - Carly Rae Jepsen"
-date: 2025-07-17T03:54:36.237571
+date: 2025-08-22T03:36:21.706689
 slug: "emotion-carly-rae-jepsen"
-description: "\"Emotion\" é o terceiro álbum de estúdio de Carly Rae Jepsen e recebeu aclamação crítica por seu som synth-pop inspirado nos anos 80."
+description: "Descubra o álbum 'Emotion' de Carly Rae Jepsen, um destaque na música pop."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/cb/64/d9/cb64d953-3fc9-4c41-565c-5c9f510be59c/20UMGIM69423.rgb.jpg/500x500bb.jpg"
   alt: "Emotion by Carly Rae Jepsen"
 keywords: ["pop album", "Carly Rae Jepsen", "Emotion", "music"]
 ---
 
-**Emotion** por **Carly Rae Jepsen**
-## Ano
-- Ano: 2015
-## País
-- País: Canadá
-## Gênero
-- Gênero: Pop
-- Principais Faixas: Run Away with Me, Emotion, Your Type, Boy Problems, Let's Get Lost
-## Curiosidades
-- Curiosidades: "Emotion" é o terceiro álbum de estúdio de Carly Rae Jepsen e recebeu aclamação crítica por seu som synth-pop inspirado nos anos 80. Apesar de não ter alcançado sucesso comercial, o álbum conquistou um público fiel e é considerado uma obra-prima do pop.
+
 
 
 

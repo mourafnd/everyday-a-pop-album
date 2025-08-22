@@ -1,8 +1,8 @@
 ---
 title: "Emotion - Carly Rae Jepsen"
-date: 2025-07-17T03:54:36.237571
+date: 2025-08-22T03:36:21.706689
 slug: "emotion-carly-rae-jepsen"
-description: "\"Emotion\" is the third studio album by Carly Rae Jepsen and received critical acclaim for its 80s-inspired synth-pop sound."
+description: "Considered by many as a pop masterpiece, \"Emotion\" received critical acclaim for its catchy hooks, '80s-inspired production, and Carly Rae Jepsen's emotive vocals."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/cb/64/d9/cb64d953-3fc9-4c41-565c-5c9f510be59c/20UMGIM69423.rgb.jpg/500x500bb.jpg"
   alt: "Emotion by Carly Rae Jepsen"
@@ -10,6 +10,7 @@ keywords: ["pop album", "Carly Rae Jepsen", "Emotion", "music"]
 ---
 
 **Emotion** by **Carly Rae Jepsen**
+
 ## Year
 - Year: 2015
 ## Country
@@ -17,9 +18,9 @@ keywords: ["pop album", "Carly Rae Jepsen", "Emotion", "music"]
 ## Genre
 - Genre: Pop
 ## Main Tracks
-- Main Tracks: Run Away with Me, Emotion, Your Type, Boy Problems, Let's Get Lost
+- Main Tracks: Run Away With Me, Boy Problems, Your Type, All That, I Really Like You
 ## Curiosities
-- Curiosities: "Emotion" is the third studio album by Carly Rae Jepsen and received critical acclaim for its 80s-inspired synth-pop sound. Despite not achieving commercial success, the album gained a cult following and is considered a pop masterpiece.
+- Curiosities: Considered by many as a pop masterpiece, "Emotion" received critical acclaim for its catchy hooks, '80s-inspired production, and Carly Rae Jepsen's emotive vocals. Despite not achieving massive commercial success, the album gained a cult following and solidified Jepsen's reputation as a pop music force to be reckoned with.
 
 
 
