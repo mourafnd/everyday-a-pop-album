@@ -1,24 +1,15 @@
 ---
 title: "1989 - Taylor Swift"
-date: 2025-08-01T04:10:34.075382
+date: 2025-09-03T03:21:41.187633
 slug: "1989-taylor-swift"
-description: "Este é o quinto álbum de estúdio de Taylor Swift e foi um grande sucesso comercial, recebendo críticas positivas e rendendo diversos singles de sucesso."
+description: "Descubra o álbum '1989' de Taylor Swift, um destaque na música pop."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c1/31/18/c131181b-ca3e-d945-16b2-48ea6bcd64d4/23UM1IM11868.rgb.jpg/500x500bb.jpg"
   alt: "1989 by Taylor Swift"
 keywords: ["pop album", "Taylor Swift", "1989", "music"]
 ---
 
-**1989** by **Taylor Swift**
-## Ano
-- Ano: 2014
-## País
-- País: Estados Unidos
-## Gênero
-- Gênero: Pop
-- Principais Faixas: Blank Space, Style, Wildest Dreams, Bad Blood, New Romantics
-## Curiosidades
-- Curiosidades: Este é o quinto álbum de estúdio de Taylor Swift e foi um grande sucesso comercial, recebendo críticas positivas e rendendo diversos singles de sucesso. O álbum marcou a transição da cantora do country para o pop, consolidando sua posição como uma das maiores estrelas pop da atualidade.
+
 
 
 
