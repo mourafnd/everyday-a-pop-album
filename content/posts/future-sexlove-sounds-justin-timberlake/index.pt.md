@@ -1,21 +1,12 @@
 ---
 title: "Future Sex/Love Sounds - Justin Timberlake"
-date: 2025-09-12T03:21:46.413170
+date: 2025-09-13T03:15:53.689970
 slug: "future-sexlove-sounds-justin-timberlake"
-description: "\"Future Sex/Love Sounds\" marcou uma mudança no som anterior de R&B de Justin Timberlake, incorporando elementos de pop, dance e música eletrônica."
+description: "Descubra o álbum 'Future Sex/Love Sounds' de Justin Timberlake, um destaque na música pop."
 keywords: ["pop album", "Justin Timberlake", "Future Sex/Love Sounds", "music"]
 ---
 
-**Future Sex/Love Sounds** por **Justin Timberlake**
-## Ano
-- Ano: 2006
-## País
-- País: Estados Unidos
-## Gênero
-- Gênero: Pop
-- Principais faixas: SexyBack, My Love, What Goes Around...Comes Around, Summer Love, LoveStoned
-## Curiosidades
-- Curiosidades: "Future Sex/Love Sounds" marcou uma mudança no som anterior de R&B de Justin Timberlake, incorporando elementos de pop, dance e música eletrônica. O álbum recebeu aclamação crítica e sucesso comercial, conquistando várias indicações ao Grammy e gerando singles de sucesso.
+
 
 
 
