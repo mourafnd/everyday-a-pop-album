@@ -1,10 +1,10 @@
 ---
 title: "1989 - Taylor Swift"
-date: 2025-09-09T03:29:38.755210
+date: 2025-09-26T03:27:21.246809
 slug: "1989-taylor-swift"
-description: "Este álbum marca a transição de Taylor Swift do country para o pop, sendo aclamado pela crítica e comercialmente bem-sucedido."
+description: "Este álbum é o quinto da carreira de Taylor Swift e marcou sua transição definitiva para o pop, afastando-se do country."
 cover:
-  image: "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c1/31/18/c131181b-ca3e-d945-16b2-48ea6bcd64d4/23UM1IM11868.rgb.jpg/500x500bb.jpg"
+  image: "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8e/35/6c/8e356cc2-0be4-b83b-d29e-b578623df2ac/23UM1IM34052.rgb.jpg/500x500bb.jpg"
   alt: "1989 by Taylor Swift"
 keywords: ["pop album", "Taylor Swift", "1989", "music"]
 ---
@@ -16,9 +16,9 @@ keywords: ["pop album", "Taylor Swift", "1989", "music"]
 - País: Estados Unidos
 ## Gênero
 - Gênero: Pop
-- Principais Faixas: "Shake It Off", "Blank Space", "Style", "Wildest Dreams", "Bad Blood"
+- Principais Faixas: Shake It Off, Blank Space, Style, Wildest Dreams, Bad Blood
 ## Curiosidades
-- Curiosidades: Este álbum marca a transição de Taylor Swift do country para o pop, sendo aclamado pela crítica e comercialmente bem-sucedido. Ganhou o Grammy de Álbum do Ano em 2016.
+- Curiosidades: Este álbum é o quinto da carreira de Taylor Swift e marcou sua transição definitiva para o pop, afastando-se do country. Foi um grande sucesso comercial e recebeu diversos prêmios, incluindo o Grammy de Álbum do Ano em 2016.
 
 
 
