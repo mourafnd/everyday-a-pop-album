@@ -1,24 +1,12 @@
 ---
 title: "Bangerz - Miley Cyrus"
-date: 2025-08-30T03:23:51.081227
+date: 2025-10-02T03:24:08.364956
 slug: "bangerz-miley-cyrus"
-description: "\"Bangerz\" marcou uma mudança significativa na imagem anterior de Miley Cyrus, apresentando um som mais maduro e provocativo."
-cover:
-  image: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e3/e0/84/e3e08400-2d03-75f9-6b8b-a3345452aa98/886444197816.jpg/500x500bb.jpg"
-  alt: "Bangerz by Miley Cyrus"
+description: "Descubra o álbum 'Bangerz' de Miley Cyrus, um destaque na música pop."
 keywords: ["pop album", "Miley Cyrus", "Bangerz", "music"]
 ---
 
-**Bangerz** por **Miley Cyrus**
-## Ano
-- Ano: 2013
-## País
-- País: Estados Unidos
-## Gênero
-- Gênero: Pop
-- Principais Faixas: "Wrecking Ball", "We Can't Stop", "Adore You", "SMS (Bangerz)", "FU"
-## Curiosidades
-- Curiosidades: "Bangerz" marcou uma mudança significativa na imagem anterior de Miley Cyrus, apresentando um som mais maduro e provocativo. O álbum recebeu críticas positivas e sucesso comercial, com diversos singles de destaque.
+
 
 
 
