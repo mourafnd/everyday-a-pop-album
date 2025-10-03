@@ -1,15 +1,25 @@
 ---
 title: "Future Hearts - All Time Low"
-date: 2025-08-31T03:32:50.712516
+date: 2025-10-03T03:23:00.712562
 slug: "future-hearts-all-time-low"
-description: "Descubre el álbum 'Future Hearts' de All Time Low, un destacado de la música pop."
+description: "\"Future Hearts\" es el sexto álbum de estudio de la banda de rock estadounidense All Time Low, conocida por su contagioso sonido pop-punk con ganchos pegajosos y coros épicos."
 cover:
-  image: "https://is1-ssl.mzstatic.com/image/thumb/Music60/v4/10/04/cc/1004ccb2-a0a9-f4fe-3609-2e2293bdbd8f/cover.jpg/500x500bb.jpg"
+  image: "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/44/4b/05/444b0570-e7bf-74f6-be55-5e8f90afbd34/874.jpg/500x500bb.jpg"
   alt: "Future Hearts by All Time Low"
 keywords: ["pop album", "All Time Low", "Future Hearts", "music"]
 ---
 
-
+**Future Hearts** by **All Time Low**
+## Año
+- Año: 2015
+## País
+- País: Estados Unidos
+## Género
+- Género: Pop-Punk/Pop Rock
+## Canciones principales
+- Canciones Principales: "Something's Gotta Give", "Kids in the Dark", "Runaways", "Missing You", "Cinderblock Garden"
+## Curiosidades
+- Curiosidades: "Future Hearts" es el sexto álbum de estudio de la banda de rock estadounidense All Time Low, conocida por su contagioso sonido pop-punk con ganchos pegajosos y coros épicos. El álbum debutó en el puesto número 2 en la lista Billboard 200 y recibió críticas positivas de críticos musicales.
 
 
 
