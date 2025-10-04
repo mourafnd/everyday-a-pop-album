@@ -1,11 +1,8 @@
 ---
 title: "Fijación Oral Vol. 1 - Shakira"
-date: 2025-09-20T03:21:53.728296
+date: 2025-10-04T03:18:28.457594
 slug: "fijacion-oral-vol-1-shakira"
-description: "Este álbum foi o sexto da carreira de Shakira e marcou um retorno a um som pop mais tradicional, após experimentações com outros gêneros em seus trabalhos anteriores."
-cover:
-  image: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6f/18/1d/6f181d45-8041-cbdc-2c79-bc7374d01207/196872648560.jpg/500x500bb.jpg"
-  alt: "Fijación Oral Vol. 1 by Shakira"
+description: "Este álbum marcou um retorno bem-sucedido de Shakira ao cenário pop latino, com grandes sucessos que misturam pop, rock e influências latinas."
 keywords: ["pop album", "Shakira", "Fijación Oral Vol. 1", "music"]
 ---
 
@@ -16,9 +13,9 @@ keywords: ["pop album", "Shakira", "Fijación Oral Vol. 1", "music"]
 - País: Colômbia
 ## Gênero
 - Gênero: Pop
-- Principais Faixas: "La Tortura", "No", "Escondite inglés", "La Pared", "Día de Enero"
+- Principais Faixas: "La Tortura", "No", "Día de Enero", "Escondite Inglés", "La Pared"
 ## Curiosidades
-- Curiosidades: Este álbum foi o sexto da carreira de Shakira e marcou um retorno a um som pop mais tradicional, após experimentações com outros gêneros em seus trabalhos anteriores. "Fijación Oral Vol. 1" inclui colaborações com Alejandro Sanz e Gustavo Cerati, e foi muito bem recebido tanto pela crítica quanto pelo público.
+- Curiosidades e outras informações relevantes sobre este álbum: Este álbum marcou um retorno bem-sucedido de Shakira ao cenário pop latino, com grandes sucessos que misturam pop, rock e influências latinas. Além disso, foi o primeiro álbum totalmente em espanhol lançado pela artista, alcançando grande sucesso comercial e crítico.
 
 
 
