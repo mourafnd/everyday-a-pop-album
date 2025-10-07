@@ -1,10 +1,10 @@
 ---
 title: "Melodrama - Lorde"
-date: 2025-08-19T03:37:42.233048
+date: 2025-10-07T03:25:36.516825
 slug: "melodrama-lorde"
 description: "Descubre el álbum 'Melodrama' de Lorde, un destacado de la música pop."
 cover:
-  image: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/8d/0d/15/8d0d1532-493b-52ec-6a29-a239ced6931b/17UMGIM81023.rgb.jpg/500x500bb.jpg"
+  image: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/58/11/b1/5811b172-e180-25a6-69e6-4385fbbfb5dc/17UM1IM02207.rgb.jpg/500x500bb.jpg"
   alt: "Melodrama by Lorde"
 keywords: ["pop album", "Lorde", "Melodrama", "music"]
 ---
