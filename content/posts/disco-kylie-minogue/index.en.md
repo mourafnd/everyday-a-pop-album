@@ -1,20 +1,25 @@
 ---
 title: "Disco - Kylie Minogue"
-date: 2025-07-04T14:21:50.789384
+date: 2025-10-11T03:21:13.634058
 slug: "disco-kylie-minogue"
-description: "\"Disco\" is Kylie Minogue's fifteenth studio album, and it was widely praised for its disco-influenced sound and uplifting vibe."
+description: "\"Disco\" is the fifteenth studio album by Australian singer Kylie Minogue."
 cover:
-  image: "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/78/2e/48/782e48ac-38c3-8452-3c24-bef4aae2c4fc/190295973322.jpg/500x500bb.jpg"
-  alt: "Disco - Kylie Minogue"
+  image: "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/5f/d2/e2/5fd2e287-c08b-9fff-15ab-e6c40814d62c/4050538633542.jpg/500x500bb.jpg"
+  alt: "Disco by Kylie Minogue"
 keywords: ["pop album", "Kylie Minogue", "Disco", "music"]
 ---
 
 **Disco** by **Kylie Minogue**
+## Year
 - Year: 2020
+## Country
 - Country: Australia
+## Genre
 - Genre: Pop
-- Main Tracks: "Say Something", "Magic", "Dance Floor Darling", "Real Groove", "Last Chance"
-- Curiosities: "Disco" is Kylie Minogue's fifteenth studio album, and it was widely praised for its disco-influenced sound and uplifting vibe. The album received positive reviews from music critics and was a commercial success, reaching the top of the charts in various countries.
+## Main Tracks
+- Main Tracks: "Say Something", "Magic", "Dance Floor Darling", "Real Groove", "Monday Blues"
+## Curiosities
+- Curiosities: "Disco" is the fifteenth studio album by Australian singer Kylie Minogue. It received critical acclaim for its disco-inspired sound and infectious dance-pop tracks. The album was a commercial success, reaching the top of the charts in several countries.
 
 
 
@@ -25,3 +30,12 @@ keywords: ["pop album", "Kylie Minogue", "Disco", "music"]
 - 🍎 [Apple Music](https://music.apple.com/search?term=Disco%20Kylie%20Minogue)
 - ▶️ [YouTube](https://www.youtube.com/results?search_query=Disco%20Kylie%20Minogue)
 - 🎵 [YouTube Music](https://music.youtube.com/search?q=Disco%20Kylie%20Minogue)
+
+## Learn More
+
+- 📚 [Read more about Kylie Minogue on Wikipedia](https://en.wikipedia.org/wiki/Kylie+Minogue)
+- 💿 [Explore the Disco album on AllMusic](https://www.allmusic.com/search/albums/Disco)
+- 📀 [Check Kylie Minogue discography details on Discogs](https://www.discogs.com/search/?q=Disco+Kylie+Minogue&type=all)
+- ✍️ [Find lyrics and meanings on Genius](https://genius.com/search?q=Disco%20Kylie+Minogue)
+- 🎤 [Watch interviews with Kylie Minogue on YouTube](https://www.youtube.com/results?search_query=Kylie Minogue+interview)
+- 📰 [Read news about Kylie Minogue on Google News](https://news.google.com/search?q=Kylie Minogue)

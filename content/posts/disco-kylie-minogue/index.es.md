@@ -1,19 +1,15 @@
 ---
 title: "Disco - Kylie Minogue"
-date: 2025-07-04T14:21:50.789384
+date: 2025-10-11T03:21:13.634058
 slug: "disco-kylie-minogue"
-description: "\"Disco\" es el décimo quinto álbum de estudio de Kylie Minogue y fue ampliamente elogiado por su sonido influenciado por la música disco y su atmósfera positiva."
+description: "Descubre el álbum 'Disco' de Kylie Minogue, un destacado de la música pop."
 cover:
-  image: "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/78/2e/48/782e48ac-38c3-8452-3c24-bef4aae2c4fc/190295973322.jpg/500x500bb.jpg"
+  image: "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/5f/d2/e2/5fd2e287-c08b-9fff-15ab-e6c40814d62c/4050538633542.jpg/500x500bb.jpg"
+  alt: "Disco by Kylie Minogue"
 keywords: ["pop album", "Kylie Minogue", "Disco", "music"]
 ---
 
-**Disco** por **Kylie Minogue**
-- Año: 2020
-- País: Australia
-- Género: Pop
-- Canciones Principales: "Say Something", "Magic", "Dance Floor Darling", "Real Groove", "Last Chance"
-- Curiosidades: "Disco" es el décimo quinto álbum de estudio de Kylie Minogue y fue ampliamente elogiado por su sonido influenciado por la música disco y su atmósfera positiva. El álbum recibió críticas positivas de críticos musicales y fue un éxito comercial, alcanzando el primer puesto en varias listas de éxitos.
+
 
 
 
@@ -24,3 +20,12 @@ keywords: ["pop album", "Kylie Minogue", "Disco", "music"]
 - 🍎 [Apple Music](https://music.apple.com/search?term=Disco%20Kylie%20Minogue)
 - ▶️ [YouTube](https://www.youtube.com/results?search_query=Disco%20Kylie%20Minogue)
 - 🎵 [YouTube Music](https://music.youtube.com/search?q=Disco%20Kylie%20Minogue)
+
+## Learn More
+
+- 📚 [Read more about Kylie Minogue on Wikipedia](https://en.wikipedia.org/wiki/Kylie+Minogue)
+- 💿 [Explore the Disco album on AllMusic](https://www.allmusic.com/search/albums/Disco)
+- 📀 [Check Kylie Minogue discography details on Discogs](https://www.discogs.com/search/?q=Disco+Kylie+Minogue&type=all)
+- ✍️ [Find lyrics and meanings on Genius](https://genius.com/search?q=Disco%20Kylie+Minogue)
+- 🎤 [Watch interviews with Kylie Minogue on YouTube](https://www.youtube.com/results?search_query=Kylie Minogue+interview)
+- 📰 [Read news about Kylie Minogue on Google News](https://news.google.com/search?q=Kylie Minogue)
