@@ -1,10 +1,10 @@
 ---
 title: "Froot - Marina"
-date: 2025-08-24T03:43:36.556545
+date: 2025-10-17T03:29:44.154817
 slug: "froot-marina"
-description: "\"Froot\" é o terceiro álbum de estúdio de Marina, anteriormente conhecida como Marina and the Diamonds."
+description: "Marina, anteriormente conhecida como Marina and the Diamonds, lançou seu terceiro álbum de estúdio \"Froot\" em 2015."
 cover:
-  image: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/29/48/b4/2948b4aa-460c-d8d9-4cf3-b0a25e433e87/dj.hnanvgmw.jpg/500x500bb.jpg"
+  image: "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a8/e4/0e/a8e40e37-c709-8d2b-f81c-022fa87cf63c/4099964153729.jpg/500x500bb.jpg"
   alt: "Froot by Marina"
 keywords: ["pop album", "Marina", "Froot", "music"]
 ---
@@ -17,9 +17,9 @@ keywords: ["pop album", "Marina", "Froot", "music"]
 - País: Reino Unido
 ## Gênero
 - Gênero: Pop
-- Principais faixas: "Froot", "Happy", "Forget", "Blue", "Savages"
+- Principais Faixas: "Froot", "Happy", "Blue", "Forget", "Immortal"
 ## Curiosidades
-- Curiosidades e outras informações relevantes sobre este álbum: "Froot" é o terceiro álbum de estúdio de Marina, anteriormente conhecida como Marina and the Diamonds. O álbum mostra a mistura única de Marina entre pop, letras introspectivas e melodias cativantes. A faixa-título, "Froot", é uma favorita dos fãs, e o álbum recebeu aclamação crítica por sua produção e composição de músicas.
+- Curiosidades: Marina, anteriormente conhecida como Marina and the Diamonds, lançou seu terceiro álbum de estúdio "Froot" em 2015. O álbum mostra suas sensibilidades pop com melodias cativantes e letras introspectivas. A faixa-título, "Froot", é uma das favoritas dos fãs e o álbum recebeu aclamação crítica por sua produção e composição de músicas.
 
 
 
