@@ -1,8 +1,8 @@
 ---
 title: "Future Pop - Perfume"
-date: 2025-09-27T03:22:00.630406
+date: 2025-10-21T03:34:13.704106
 slug: "future-pop-perfume"
-description: "Perfume is a popular Japanese girl group known for their catchy pop songs and synchronized choreography."
+description: "Perfume is a popular J-pop girl group known for their futuristic sound and synchronized choreography."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/4b/f0/0c/4bf00c63-a851-7b6c-56eb-eab155c9c83e/18UMGIM43338.rgb.jpg/500x500bb.jpg"
   alt: "Future Pop by Perfume"
@@ -10,17 +10,16 @@ keywords: ["pop album", "Perfume", "Future Pop", "music"]
 ---
 
 **Future Pop** by **Perfume**
-
 ## Year
 - Year: 2018
 ## Country
 - Country: Japan
 ## Genre
-- Genre: J-pop, Electropop
+- Genre: J-pop / Electropop
 ## Main Tracks
-- Main Tracks: "Future Pop", "If You Wanna", "Let Me Know", "Tokyo Girl", "Everyday"
+- Main Tracks: "Future Pop", "If You Wanna", "Let Me Know", "Mugen Mirai", "Everyday"
 ## Curiosities
-- Curiosities: Perfume is a popular Japanese girl group known for their catchy pop songs and synchronized choreography. "Future Pop" is their sixth studio album, featuring a mix of futuristic and upbeat electronic tracks that showcase their unique sound.
+- Curiosities: Perfume is a popular J-pop girl group known for their futuristic sound and synchronized choreography. "Future Pop" is their 7th studio album and includes a mix of catchy electro-pop songs.
 
 
 
