@@ -1,15 +1,25 @@
 ---
 title: "Emotion - Carly Rae Jepsen"
-date: 2025-08-22T03:36:21.706689
+date: 2025-11-05T03:40:21.015959
 slug: "emotion-carly-rae-jepsen"
-description: "Descubre el álbum 'Emotion' de Carly Rae Jepsen, un destacado de la música pop."
+description: "*Emotion* recibió elogios de la crítica por su sonido pop inspirado en los años 80 y ganchos pegajosos."
 cover:
-  image: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/cb/64/d9/cb64d953-3fc9-4c41-565c-5c9f510be59c/20UMGIM69423.rgb.jpg/500x500bb.jpg"
+  image: "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3c/d6/b4/3cd6b429-af73-b8a8-7c32-03f8da35bbef/25UM1IM06993.rgb.jpg/500x500bb.jpg"
   alt: "Emotion by Carly Rae Jepsen"
 keywords: ["pop album", "Carly Rae Jepsen", "Emotion", "music"]
 ---
 
-
+**Emotion** por **Carly Rae Jepsen**
+## Año
+- Año: 2015
+## País
+- País: Canadá
+## Género
+- Género: Pop
+## Canciones principales
+- Canciones Principales: Run Away with Me, Boy Problems, Your Type, I Really Like You, All That
+## Curiosidades
+- Curiosidades: *Emotion* recibió elogios de la crítica por su sonido pop inspirado en los años 80 y ganchos pegajosos. Carly Rae Jepsen coescribió todas las canciones del álbum, mostrando sus habilidades como compositora. El álbum ha ganado una gran cantidad de seguidores entre los entusiastas de la música pop.
 
 
 

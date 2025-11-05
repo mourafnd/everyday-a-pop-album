@@ -1,16 +1,15 @@
 ---
 title: "Emotion - Carly Rae Jepsen"
-date: 2025-08-22T03:36:21.706689
+date: 2025-11-05T03:40:21.015959
 slug: "emotion-carly-rae-jepsen"
-description: "Considered by many as a pop masterpiece, \"Emotion\" received critical acclaim for its catchy hooks, '80s-inspired production, and Carly Rae Jepsen's emotive vocals."
+description: "*Emotion* received critical acclaim for its 80s-inspired pop sound and catchy hooks."
 cover:
-  image: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/cb/64/d9/cb64d953-3fc9-4c41-565c-5c9f510be59c/20UMGIM69423.rgb.jpg/500x500bb.jpg"
+  image: "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3c/d6/b4/3cd6b429-af73-b8a8-7c32-03f8da35bbef/25UM1IM06993.rgb.jpg/500x500bb.jpg"
   alt: "Emotion by Carly Rae Jepsen"
 keywords: ["pop album", "Carly Rae Jepsen", "Emotion", "music"]
 ---
 
 **Emotion** by **Carly Rae Jepsen**
-
 ## Year
 - Year: 2015
 ## Country
@@ -18,9 +17,9 @@ keywords: ["pop album", "Carly Rae Jepsen", "Emotion", "music"]
 ## Genre
 - Genre: Pop
 ## Main Tracks
-- Main Tracks: Run Away With Me, Boy Problems, Your Type, All That, I Really Like You
+- Main Tracks: Run Away with Me, Boy Problems, Your Type, I Really Like You, All That
 ## Curiosities
-- Curiosities: Considered by many as a pop masterpiece, "Emotion" received critical acclaim for its catchy hooks, '80s-inspired production, and Carly Rae Jepsen's emotive vocals. Despite not achieving massive commercial success, the album gained a cult following and solidified Jepsen's reputation as a pop music force to be reckoned with.
+- Curiosities: *Emotion* received critical acclaim for its 80s-inspired pop sound and catchy hooks. Carly Rae Jepsen co-wrote all the songs on the album, showcasing her songwriting skills. The album has gained a cult following among pop music enthusiasts.
 
 
 
