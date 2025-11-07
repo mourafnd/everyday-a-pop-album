@@ -1,8 +1,8 @@
 ---
 title: "Revelación - Selena Gomez"
-date: 2025-10-15T03:32:56.525796
+date: 2025-11-07T03:39:14.200109
 slug: "revelacion-selena-gomez"
-description: "\"Revelación\" is Selena Gomez's first Spanish-language EP, released in March 2021."
+description: "\"Revelación\" is Selena Gomez's first Spanish-language EP, featuring collaborations with artists like Rauw Alejandro and Myke Towers."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/54/2b/67/542b6728-c2e9-77af-8aee-6cfdd0b4ac24/21UMGIM06300.rgb.jpg/500x500bb.jpg"
   alt: "Revelación by Selena Gomez"
@@ -10,17 +10,16 @@ keywords: ["pop album", "Selena Gomez", "Revelación", "music"]
 ---
 
 **Revelación** by **Selena Gomez**
-
 ## Year
 - Year: 2021
 ## Country
 - Country: United States
 ## Genre
-- Genre: Pop
+- Genre: Pop, Latin
 ## Main Tracks
-- Main Tracks: De Una Vez, Baila Conmigo (with Rauw Alejandro), Buscando Amor, Selfish Love (with DJ Snake), Adiós
+- Main Tracks: De Una Vez, Baila Conmigo, Selfish Love, Dámelo To', Adiós
 ## Curiosities
-- Curiosities: "Revelación" is Selena Gomez's first Spanish-language EP, released in March 2021. The EP features a mix of reggaeton, Latin pop, and dance-pop sounds, showcasing a different side of the versatile artist.
+- Curiosities: "Revelación" is Selena Gomez's first Spanish-language EP, featuring collaborations with artists like Rauw Alejandro and Myke Towers. The EP was well received by fans and critics alike, showcasing a different side of Gomez's musical artistry.
 
 
 
