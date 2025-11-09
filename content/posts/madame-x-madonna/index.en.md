@@ -1,10 +1,10 @@
 ---
 title: "Madame X - Madonna"
-date: 2025-08-12T03:44:24.417904
+date: 2025-11-09T03:39:45.223907
 slug: "madame-x-madonna"
-description: "\"Madame X\" is the fourteenth studio album by Madonna, featuring a mix of genres including pop, Latin, and electronic music."
+description: "\"Madame X\" is Madonna's fourteenth studio album and explores various genres such as pop, reggaeton, and Latin music."
 cover:
-  image: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/da/c6/f4/dac6f434-3b0e-71f9-0be7-318edd1699aa/00602577826078.rgb.jpg/500x500bb.jpg"
+  image: "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/3b/7e/0d/3b7e0d83-985d-8b36-c3c1-9ddd6c6514be/23UMGIM00292.rgb.jpg/500x500bb.jpg"
   alt: "Madame X by Madonna"
 keywords: ["pop album", "Madonna", "Madame X", "music"]
 ---
@@ -18,9 +18,9 @@ keywords: ["pop album", "Madonna", "Madame X", "music"]
 ## Genre
 - Genre: Pop
 ## Main Tracks
-- Main Tracks: "Medellín", "God Control", "Crave", "I Rise", "Future"
+- Main Tracks: Medellín, Crave, God Control, Future, I Don't Search I Find
 ## Curiosities
-- Curiosities: "Madame X" is the fourteenth studio album by Madonna, featuring a mix of genres including pop, Latin, and electronic music. The album explores themes of love, politics, and freedom, with Madonna adopting the persona of Madame X, a secret agent who travels the world.
+- Curiosities: "Madame X" is Madonna's fourteenth studio album and explores various genres such as pop, reggaeton, and Latin music. The album features collaborations with artists like Maluma and Quavo. It received mixed reviews from critics but still managed to reach the top 10 in several countries around the world.
 
 
 
