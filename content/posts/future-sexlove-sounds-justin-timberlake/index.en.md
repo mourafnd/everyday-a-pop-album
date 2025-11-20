@@ -1,8 +1,8 @@
 ---
 title: "Future Sex/Love Sounds - Justin Timberlake"
-date: 2025-11-19T03:40:18.684260
+date: 2025-11-20T03:39:17.999505
 slug: "future-sexlove-sounds-justin-timberlake"
-description: "Este álbum foi um grande sucesso comercial e de crítica, rendendo a Justin Timberlake diversos prêmios e indicações."
+description: "\"Future Sex/Love Sounds\" was Justin Timberlake's second solo album and marked a shift towards a more mature and experimental sound compared to his previous work with *NSYNC."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4c/44/30/4c4430dd-150b-d393-ec70-4894975f4b16/888880422095.jpg/500x500bb.jpg"
   alt: "Future Sex/Love Sounds by Justin Timberlake"
@@ -17,9 +17,9 @@ keywords: ["pop album", "Justin Timberlake", "Future Sex/Love Sounds", "music"]
 ## Genre
 - Genre: Pop
 ## Main Tracks
-- Main Tracks: SexyBack, My Love, What Goes Around...Comes Around, Summer Love, Lovestoned
+- Main Tracks: SexyBack, My Love, What Goes Around... Comes Around, Summer Love, LoveStoned / I Think She Knows
 ## Curiosities
-- Curiosities: Este álbum foi um grande sucesso comercial e de crítica, rendendo a Justin Timberlake diversos prêmios e indicações. O som inovador e a produção sofisticada o tornaram um marco na música pop dos anos 2000.
+- Curiosities: "Future Sex/Love Sounds" was Justin Timberlake's second solo album and marked a shift towards a more mature and experimental sound compared to his previous work with *NSYNC. The album received critical acclaim and commercial success, earning multiple Grammy nominations and spawning several hit singles.
 
 
 
