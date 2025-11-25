@@ -1,10 +1,10 @@
 ---
 title: "Rebel Heart - Madonna"
-date: 2025-08-16T03:41:31.903590
+date: 2025-11-25T03:44:04.805876
 slug: "rebel-heart-madonna"
 description: "Descubre el álbum 'Rebel Heart' de Madonna, un destacado de la música pop."
 cover:
-  image: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/56/c8/cf/56c8cfa1-02ec-2464-c1af-efbb3edecaab/00602547201829.rgb.jpg/500x500bb.jpg"
+  image: "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/75/e3/5e/75e35e73-2bf9-ff8b-ca50-5f859187e339/00602547226419.rgb.jpg/500x500bb.jpg"
   alt: "Rebel Heart by Madonna"
 keywords: ["pop album", "Madonna", "Rebel Heart", "music"]
 ---
