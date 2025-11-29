@@ -1,0 +1,41 @@
+---
+title: "Future Nostalgia - Dua Lipa"
+date: 2025-11-29T03:40:38.843312
+slug: "future-nostalgia-dua-lipa"
+description: "Este álbum marcó una nueva era para la artista, fusionando influencias de disco y pop para crear un sonido fresco y enérgico."
+cover:
+  image: "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e9/c5/a8/e9c5a8a0-d698-137b-2e85-cf3a8d9548f8/190295303372.jpg/500x500bb.jpg"
+  alt: "Future Nostalgia by Dua Lipa"
+keywords: ["pop album", "Dua Lipa", "Future Nostalgia", "music"]
+---
+
+**Future Nostalgia** por **Dua Lipa**
+## Año
+- Año: 2019
+## País
+- País: Estados Unidos
+## Género
+- Género: Pop
+## Canciones principales
+- Canciones Principales: "Don't Start Now", "Physical", "Break My Heart", "Love Again", "Cool"
+## Curiosidades
+- Curiosidades: Este álbum marcó una nueva era para la artista, fusionando influencias de disco y pop para crear un sonido fresco y enérgico. Recibió aclamación crítica y fue un éxito comercial en todo el mundo.
+
+
+
+**🎧 Escucha ahora en tu plataforma favorita:**
+
+- 🎧 [Spotify](https://open.spotify.com/search/Future%20Nostalgia%20Dua%20Lipa)
+- 🌀 [Deezer](https://www.deezer.com/search/Future%20Nostalgia%20Dua%20Lipa)
+- 🍎 [Apple Music](https://music.apple.com/search?term=Future%20Nostalgia%20Dua%20Lipa)
+- ▶️ [YouTube](https://www.youtube.com/results?search_query=Future%20Nostalgia%20Dua%20Lipa)
+- 🎵 [YouTube Music](https://music.youtube.com/search?q=Future%20Nostalgia%20Dua%20Lipa)
+
+## Learn More
+
+- 📚 [Read more about Dua Lipa on Wikipedia](https://en.wikipedia.org/wiki/Dua+Lipa)
+- 💿 [Explore the Future Nostalgia album on AllMusic](https://www.allmusic.com/search/albums/Future+Nostalgia)
+- 📀 [Check Dua Lipa discography details on Discogs](https://www.discogs.com/search/?q=Future+Nostalgia+Dua+Lipa&type=all)
+- ✍️ [Find lyrics and meanings on Genius](https://genius.com/search?q=Future+Nostalgia%20Dua+Lipa)
+- 🎤 [Watch interviews with Dua Lipa on YouTube](https://www.youtube.com/results?search_query=Dua Lipa+interview)
+- 📰 [Read news about Dua Lipa on Google News](https://news.google.com/search?q=Dua Lipa)
