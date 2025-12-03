@@ -1,25 +1,25 @@
 ---
 title: "Revelación - Selena Gomez"
-date: 2025-12-01T04:07:01.587177
+date: 2025-12-03T03:46:52.769678
 slug: "revelacion-selena-gomez"
-description: "\"Revelación\" es el primer EP en español de Selena Gomez, con colaboraciones de artistas como Rauw Alejandro y Myke Towers."
+description: "\"Revelación\" es el primer EP en español de Selena Gomez, que presenta una mezcla de reggaetón, pop e influencias latinas."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/54/2b/67/542b6728-c2e9-77af-8aee-6cfdd0b4ac24/21UMGIM06300.rgb.jpg/500x500bb.jpg"
   alt: "Revelación by Selena Gomez"
 keywords: ["pop album", "Selena Gomez", "Revelación", "music"]
 ---
 
-**Revelación** por **Selena Gomez**
+**Revelación** de **Selena Gomez**
 ## Año
 - Año: 2021
 ## País
 - País: Estados Unidos
 ## Género
-- Género: Pop
+- Género: Pop Latino
 ## Canciones principales
-- Canciones Principales: De Una Vez, Baila Conmigo, Selfish Love, Dámelo To’, Buscando Amor
+- Canciones Principales: De Una Vez, Baila Conmigo (con Rauw Alejandro), Selfish Love (con DJ Snake), Damelo To' (feat. Myke Towers), Buscando Amor
 ## Curiosidades
-- Curiosidades: "Revelación" es el primer EP en español de Selena Gomez, con colaboraciones de artistas como Rauw Alejandro y Myke Towers. El EP combina pop con reguetón e influencias latinas, mostrando un lado diferente del estilo musical de Gomez.
+- Curiosidades y cualquier otra información relevante sobre este álbum: "Revelación" es el primer EP en español de Selena Gomez, que presenta una mezcla de reggaetón, pop e influencias latinas. El EP recibió críticas positivas por la voz de Selena y la producción general.
 
 
 
