@@ -1,15 +1,15 @@
 ---
 title: "Future Sex/Love Sounds - Justin Timberlake"
-date: 2025-12-07T03:53:56.517770
+date: 2025-12-08T03:51:48.968239
 slug: "future-sexlove-sounds-justin-timberlake"
-description: "Este álbum marcó un cambio en el sonido de Justin Timberlake, incorporando elementos de la música electrónica y R&B en su sonido pop."
+description: "El segundo álbum de estudio de Justin Timberlake fue un gran éxito comercial y de crítica, fusionando pop, R&B y música dance."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4c/44/30/4c4430dd-150b-d393-ec70-4894975f4b16/888880422095.jpg/500x500bb.jpg"
   alt: "Future Sex/Love Sounds by Justin Timberlake"
 keywords: ["pop album", "Justin Timberlake", "Future Sex/Love Sounds", "music"]
 ---
 
-**Future Sex/Love Sounds** por **Justin Timberlake**
+**Future Sex/Love Sounds** by **Justin Timberlake**
 ## Año
 - Año: 2006
 ## País
@@ -17,9 +17,9 @@ keywords: ["pop album", "Justin Timberlake", "Future Sex/Love Sounds", "music"]
 ## Género
 - Género: Pop
 ## Canciones principales
-- Canciones Principales: SexyBack, My Love, What Goes Around...Comes Around, Summer Love, LoveStoned
+- Canciones Principales: SexyBack, My Love, What Goes Around... Comes Around, Summer Love, LoveStoned/I Think She Knows
 ## Curiosidades
-- Curiosidades: Este álbum marcó un cambio en el sonido de Justin Timberlake, incorporando elementos de la música electrónica y R&B en su sonido pop. Fue muy elogiado por la crítica y se convirtió en un éxito comercial, solidificando el estatus de Timberlake como un ícono pop.
+- Curiosidades: El segundo álbum de estudio de Justin Timberlake fue un gran éxito comercial y de crítica, fusionando pop, R&B y música dance. El álbum cuenta con colaboraciones de artistas como Timbaland y T.I., y recibió varios premios, incluido un Grammy.
 
 
 
