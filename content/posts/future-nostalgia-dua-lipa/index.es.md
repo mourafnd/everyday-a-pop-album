@@ -1,25 +1,15 @@
 ---
 title: "Future Nostalgia - Dua Lipa"
-date: 2025-11-29T03:40:38.843312
+date: 2025-12-15T04:00:57.614305
 slug: "future-nostalgia-dua-lipa"
-description: "Este álbum marcó una nueva era para la artista, fusionando influencias de disco y pop para crear un sonido fresco y enérgico."
+description: "Descubre el álbum 'Future Nostalgia' de Dua Lipa, un destacado de la música pop."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e9/c5/a8/e9c5a8a0-d698-137b-2e85-cf3a8d9548f8/190295303372.jpg/500x500bb.jpg"
   alt: "Future Nostalgia by Dua Lipa"
 keywords: ["pop album", "Dua Lipa", "Future Nostalgia", "music"]
 ---
 
-**Future Nostalgia** por **Dua Lipa**
-## Año
-- Año: 2019
-## País
-- País: Estados Unidos
-## Género
-- Género: Pop
-## Canciones principales
-- Canciones Principales: "Don't Start Now", "Physical", "Break My Heart", "Love Again", "Cool"
-## Curiosidades
-- Curiosidades: Este álbum marcó una nueva era para la artista, fusionando influencias de disco y pop para crear un sonido fresco y enérgico. Recibió aclamación crítica y fue un éxito comercial en todo el mundo.
+
 
 
 
