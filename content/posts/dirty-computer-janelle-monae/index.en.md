@@ -1,8 +1,8 @@
 ---
 title: "Dirty Computer - Janelle Monáe"
-date: 2025-10-01T03:38:27.548513
+date: 2025-12-17T03:51:02.205736
 slug: "dirty-computer-janelle-monae"
-description: "\"Dirty Computer\" is the third studio album by American singer Janelle Monáe, exploring themes of race, sexuality, and identity."
+description: "\"Dirty Computer\" is the third studio album by Janelle Monáe, blending pop, funk, and R&B with themes of feminism, sexuality, and empowerment."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/1a/cb/c9/1acbc9b5-d32a-ad24-cc25-a6e9f924dcf7/075679876904.jpg/500x500bb.jpg"
   alt: "Dirty Computer by Janelle Monáe"
@@ -19,7 +19,7 @@ keywords: ["pop album", "Janelle Monáe", "Dirty Computer", "music"]
 ## Main Tracks
 - Main Tracks: Make Me Feel, Pynk, I Like That, Django Jane, Screwed
 ## Curiosities
-- Curiosities and any other relevant information about this album: "Dirty Computer" is the third studio album by American singer Janelle Monáe, exploring themes of race, sexuality, and identity. The album received critical acclaim for its fusion of pop, funk, and R&B elements, and was accompanied by a 48-minute long film or "emotion picture" showcasing Monáe's artistry.
+- Curiosities: "Dirty Computer" is the third studio album by Janelle Monáe, blending pop, funk, and R&B with themes of feminism, sexuality, and empowerment. The album received critical acclaim and was nominated for Album of the Year at the Grammy Awards.
 
 
 
