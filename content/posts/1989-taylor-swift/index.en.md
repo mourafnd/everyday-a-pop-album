@@ -1,10 +1,10 @@
 ---
 title: "1989 - Taylor Swift"
-date: 2025-11-23T03:53:43.834627
+date: 2025-12-18T03:52:10.048143
 slug: "1989-taylor-swift"
-description: "\"1989\" marked Taylor Swift's full transition from country to pop music, achieving critical and commercial success."
+description: "1989 marked Taylor Swift's full transition from country to pop music, receiving critical acclaim and commercial success."
 cover:
-  image: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/54/45/87/544587c8-3f71-8484-3fdb-186a7d7b7326/00843930013609.rgb.jpg/500x500bb.jpg"
+  image: "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8e/35/6c/8e356cc2-0be4-b83b-d29e-b578623df2ac/23UM1IM34052.rgb.jpg/500x500bb.jpg"
   alt: "1989 by Taylor Swift"
 keywords: ["pop album", "Taylor Swift", "1989", "music"]
 ---
@@ -17,9 +17,9 @@ keywords: ["pop album", "Taylor Swift", "1989", "music"]
 ## Genre
 - Genre: Pop
 ## Main Tracks
-- Main Tracks: Blank Space, Style, Shake It Off, Wildest Dreams, Bad Blood
+- Main Tracks: "Shake It Off", "Blank Space", "Style", "Wildest Dreams", "Bad Blood"
 ## Curiosities
-- Curiosities: "1989" marked Taylor Swift's full transition from country to pop music, achieving critical and commercial success. The album won the Grammy Award for Album of the Year in 2016.
+- Curiosities: 1989 marked Taylor Swift's full transition from country to pop music, receiving critical acclaim and commercial success. The album won Album of the Year at the Grammy Awards.
 
 
 
