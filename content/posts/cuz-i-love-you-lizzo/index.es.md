@@ -1,10 +1,10 @@
 ---
 title: "Cuz I Love You - Lizzo"
-date: 2025-07-27T04:02:11.309621
+date: 2025-12-22T04:00:53.434426
 slug: "cuz-i-love-you-lizzo"
 description: "\"Cuz I Love You\" es el tercer álbum de estudio de la cantante y rapera estadounidense Lizzo."
 cover:
-  image: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d5/4d/a3/d54da3ff-d6bf-9685-50e2-29117c2b6c53/075679853585.jpg/500x500bb.jpg"
+  image: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/62/a5/ce/62a5cedc-7a3a-d0de-a7c6-dd051de85996/075679836878.jpg/500x500bb.jpg"
   alt: "Cuz I Love You by Lizzo"
 keywords: ["pop album", "Lizzo", "Cuz I Love You", "music"]
 ---
@@ -19,7 +19,7 @@ keywords: ["pop album", "Lizzo", "Cuz I Love You", "music"]
 ## Canciones principales
 - Canciones Principales: "Juice", "Truth Hurts", "Tempo (feat. Missy Elliott)", "Good as Hell", "Like a Girl"
 ## Curiosidades
-- Curiosidades: "Cuz I Love You" es el tercer álbum de estudio de la cantante y rapera estadounidense Lizzo. Recibió elogios de la crítica y éxito comercial, lo que le valió a Lizzo múltiples nominaciones a los premios Grammy. El álbum muestra las poderosas voces de Lizzo, ganchos pegajosos y letras empoderadoras, convirtiéndolo en un destacado en la escena de la música pop.
+- Curiosidades: "Cuz I Love You" es el tercer álbum de estudio de la cantante y rapera estadounidense Lizzo. Recibió críticas aclamadas por sus letras empoderadoras y su sonido pop contagioso, lo que le valió a Lizzo varias nominaciones al Grammy. El álbum destaca sus potentes vocales y personalidad carismática, consolidándola como una fuerza a tener en cuenta en la escena musical pop.
 
 
 
