@@ -1,25 +1,15 @@
 ---
 title: "Kisses - Anitta"
-date: 2025-09-11T03:27:54.277471
+date: 2025-12-25T03:56:59.190141
 slug: "kisses-anitta"
-description: "\"Kisses\" é o quarto álbum de estúdio da cantora brasileira Anitta, apresentando uma mistura de reggaeton, bossa nova, funk e música pop."
+description: "Descubra o álbum 'Kisses' de Anitta, um destaque na música pop."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/8c/b6/ec/8cb6ecf7-8d58-ae12-48a8-1e16e29a0c8c/190296875236.jpg/500x500bb.jpg"
   alt: "Kisses by Anitta"
 keywords: ["pop album", "Anitta", "Kisses", "music"]
 ---
 
-**Kisses** por **Anitta**
 
-## Ano
-- Ano: 2019
-## País
-- País: Brasil
-## Gênero
-- Gênero: Pop
-- Principais Faixas: "Veneno", "Banana", "Poquito", "Onda Diferente", "Fuego"
-## Curiosidades
-- Curiosidades: "Kisses" é o quarto álbum de estúdio da cantora brasileira Anitta, apresentando uma mistura de reggaeton, bossa nova, funk e música pop. O álbum recebeu aclamação crítica por sua sonoridade diversificada e teve vários singles de sucesso.
 
 
 

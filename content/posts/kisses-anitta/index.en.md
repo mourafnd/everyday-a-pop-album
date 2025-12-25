@@ -1,8 +1,8 @@
 ---
 title: "Kisses - Anitta"
-date: 2025-09-11T03:27:54.277471
+date: 2025-12-25T03:56:59.190141
 slug: "kisses-anitta"
-description: "\"Kisses\" is the fourth studio album by Brazilian singer Anitta, featuring a mix of reggaeton, bossa nova, funk, and pop music."
+description: "Anitta's fourth studio album, \"Kisses\", features a mix of reggaeton, pop, trap, and funk carioca."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/8c/b6/ec/8cb6ecf7-8d58-ae12-48a8-1e16e29a0c8c/190296875236.jpg/500x500bb.jpg"
   alt: "Kisses by Anitta"
@@ -18,9 +18,9 @@ keywords: ["pop album", "Anitta", "Kisses", "music"]
 ## Genre
 - Genre: Pop
 ## Main Tracks
-- Main Tracks: "Veneno", "Banana", "Poquito", "Onda Diferente", "Fuego"
+- Main Tracks: "Terremoto", "Banana", "Medicina", "Bola Rebola", "Fuego"
 ## Curiosities
-- Curiosities: "Kisses" is the fourth studio album by Brazilian singer Anitta, featuring a mix of reggaeton, bossa nova, funk, and pop music. The album received critical acclaim for its diverse sound and had several successful singles.
+- Curiosities: Anitta's fourth studio album, "Kisses", features a mix of reggaeton, pop, trap, and funk carioca. The album includes songs in English, Spanish, and Portuguese, showcasing Anitta's versatility as a multilingual artist.
 
 
 
