@@ -1,26 +1,15 @@
 ---
 title: "Madame X - Madonna"
-date: 2025-11-09T03:39:45.223907
+date: 2025-12-27T03:51:34.267099
 slug: "madame-x-madonna"
-description: "\"Madame X\" es el decimocuarto álbum de estudio de Madonna y explora varios géneros como pop, reguetón y música latina."
+description: "Descubre el álbum 'Madame X' de Madonna, un destacado de la música pop."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/3b/7e/0d/3b7e0d83-985d-8b36-c3c1-9ddd6c6514be/23UMGIM00292.rgb.jpg/500x500bb.jpg"
   alt: "Madame X by Madonna"
 keywords: ["pop album", "Madonna", "Madame X", "music"]
 ---
 
-**Madame X** por **Madonna**
 
-## Año
-- Año: 2019
-## País
-- País: Estados Unidos
-## Género
-- Género: Pop
-## Canciones principales
-- Canciones Principales: Medellín, Crave, God Control, Future, I Don't Search I Find
-## Curiosidades
-- Curiosidades: "Madame X" es el decimocuarto álbum de estudio de Madonna y explora varios géneros como pop, reguetón y música latina. El álbum cuenta con colaboraciones de artistas como Maluma y Quavo. Recibió críticas mixtas de los críticos, pero aún así logró llegar al top 10 en varios países de todo el mundo.
 
 
 
