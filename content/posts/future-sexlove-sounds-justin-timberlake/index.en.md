@@ -1,8 +1,8 @@
 ---
 title: "Future Sex/Love Sounds - Justin Timberlake"
-date: 2026-01-04T04:07:19.514553
+date: 2026-01-05T04:12:15.437209
 slug: "future-sexlove-sounds-justin-timberlake"
-description: "This album marked a shift in Justin Timberlake's sound, incorporating elements of electronic, dance, and R&B music."
+description: "This was Justin Timberlake's second solo album and it received critical acclaim, being nominated for several awards, including a Grammy."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4c/44/30/4c4430dd-150b-d393-ec70-4894975f4b16/888880422095.jpg/500x500bb.jpg"
   alt: "Future Sex/Love Sounds by Justin Timberlake"
@@ -10,6 +10,7 @@ keywords: ["pop album", "Justin Timberlake", "Future Sex/Love Sounds", "music"]
 ---
 
 **Future Sex/Love Sounds** by **Justin Timberlake**
+
 ## Year
 - Year: 2006
 ## Country
@@ -17,9 +18,9 @@ keywords: ["pop album", "Justin Timberlake", "Future Sex/Love Sounds", "music"]
 ## Genre
 - Genre: Pop
 ## Main Tracks
-- Main Tracks: SexyBack, My Love, What Goes Around... Comes Around, LoveStoned/I Think She Knows, Until the End of Time
+- Main Tracks: SexyBack, My Love, What Goes Around... Comes Around, Summer Love, LoveStoned/I Think She Knows, Until the End of Time
 ## Curiosities
-- Curiosities: This album marked a shift in Justin Timberlake's sound, incorporating elements of electronic, dance, and R&B music. It was a commercial success and received critical acclaim for its production and Timberlake's vocals.
+- Curiosities: This was Justin Timberlake's second solo album and it received critical acclaim, being nominated for several awards, including a Grammy. The album blends elements of pop, R&B, funk, and dance, and was a commercial success worldwide.
 
 
 
