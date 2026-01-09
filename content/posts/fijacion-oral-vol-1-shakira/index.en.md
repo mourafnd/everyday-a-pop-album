@@ -1,8 +1,8 @@
 ---
 title: "Fijación Oral, Vol. 1 - Shakira"
-date: 2026-01-06T03:58:38.576714
+date: 2026-01-09T03:58:53.599863
 slug: "fijacion-oral-vol-1-shakira"
-description: "This album marks Shakira's transition to a more pop and electronic sound, moving away from her Spanish rock roots."
+description: "\"Fijación Oral, Vol."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6f/18/1d/6f181d45-8041-cbdc-2c79-bc7374d01207/196872648560.jpg/500x500bb.jpg"
   alt: "Fijación Oral, Vol. 1 by Shakira"
@@ -18,9 +18,9 @@ keywords: ["pop album", "Shakira", "Fijación Oral", "Vol. 1", "music"]
 ## Genre
 - Genre: Pop
 ## Main Tracks
-- Main Tracks: "La Tortura", "No", "Escondite Inglés", "La Pared", "Las de la Intuición"
+- Main Tracks: "La Tortura", "No", "Don't Bother", "Día de Enero", "Escondite Inglés"
 ## Curiosities
-- Curiosities: This album marks Shakira's transition to a more pop and electronic sound, moving away from her Spanish rock roots. "La Tortura" became a worldwide hit, reaching the top of the charts in several countries. Additionally, "Fijación Oral, Vol. 1" received positive reviews and won several awards, including a Latin Grammy.
+- Curiosities and any other relevant information about this album: "Fijación Oral, Vol. 1" is the sixth studio album by Colombian singer Shakira. It was critically acclaimed and commercially successful, earning Shakira several Latin Grammy Awards. The album features a mix of pop and rock elements, with catchy melodies and Shakira's signature vocals.
 
 
 
