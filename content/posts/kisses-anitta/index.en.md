@@ -1,8 +1,8 @@
 ---
 title: "Kisses - Anitta"
-date: 2025-12-25T03:56:59.190141
+date: 2026-01-16T03:59:03.454622
 slug: "kisses-anitta"
-description: "Anitta's fourth studio album, \"Kisses\", features a mix of reggaeton, pop, trap, and funk carioca."
+description: "\"Kisses\" is the fourth studio album by Brazilian pop star Anitta, featuring a mix of reggaeton, samba, and Latin pop influences."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/8c/b6/ec/8cb6ecf7-8d58-ae12-48a8-1e16e29a0c8c/190296875236.jpg/500x500bb.jpg"
   alt: "Kisses by Anitta"
@@ -18,9 +18,9 @@ keywords: ["pop album", "Anitta", "Kisses", "music"]
 ## Genre
 - Genre: Pop
 ## Main Tracks
-- Main Tracks: "Terremoto", "Banana", "Medicina", "Bola Rebola", "Fuego"
+- Main Tracks: "Veneno", "Terremoto (with MC Kevinho)", "Banana (with Becky G)", "Poquito (with Swae Lee)", "Fuego"
 ## Curiosities
-- Curiosities: Anitta's fourth studio album, "Kisses", features a mix of reggaeton, pop, trap, and funk carioca. The album includes songs in English, Spanish, and Portuguese, showcasing Anitta's versatility as a multilingual artist.
+- Curiosities: "Kisses" is the fourth studio album by Brazilian pop star Anitta, featuring a mix of reggaeton, samba, and Latin pop influences. The album includes collaborations with international artists such as Becky G, Swae Lee, and Snoop Dogg, showcasing Anitta's versatility as a performer.
 
 
 

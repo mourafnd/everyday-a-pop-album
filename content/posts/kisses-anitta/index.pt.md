@@ -1,15 +1,25 @@
 ---
 title: "Kisses - Anitta"
-date: 2025-12-25T03:56:59.190141
+date: 2026-01-16T03:59:03.454622
 slug: "kisses-anitta"
-description: "Descubra o álbum 'Kisses' de Anitta, um destaque na música pop."
+description: "\"Kisses\" é o quarto álbum de estúdio da estrela pop brasileira Anitta, apresentando uma mistura de influências de reggaeton, samba e pop latino."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/8c/b6/ec/8cb6ecf7-8d58-ae12-48a8-1e16e29a0c8c/190296875236.jpg/500x500bb.jpg"
   alt: "Kisses by Anitta"
 keywords: ["pop album", "Anitta", "Kisses", "music"]
 ---
 
+**Kisses** por **Anitta**
 
+## Ano
+- Ano: 2019
+## País
+- País: Brasil
+## Gênero
+- Gênero: Pop
+- Principais Faixas: "Veneno", "Terremoto (com MC Kevinho)", "Banana (com Becky G)", "Poquito (com Swae Lee)", "Fuego"
+## Curiosidades
+- Curiosidades: "Kisses" é o quarto álbum de estúdio da estrela pop brasileira Anitta, apresentando uma mistura de influências de reggaeton, samba e pop latino. O álbum inclui colaborações com artistas internacionais como Becky G, Swae Lee e Snoop Dogg, mostrando a versatilidade de Anitta como artista.
 
 
 
