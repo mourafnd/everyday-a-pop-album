@@ -1,15 +1,25 @@
 ---
 title: "Lemonade - Beyoncé"
-date: 2025-08-29T03:30:05.662884
+date: 2026-01-18T04:01:51.536028
 slug: "lemonade-beyonce"
-description: "Descubre el álbum 'Lemonade' de Beyoncé, un destacado de la música pop."
+description: "Lemonade es el sexto álbum de estudio de Beyoncé y explora temas de infidelidad y la feminidad negra."
 cover:
-  image: "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/1d/1f/f1/1d1ff1ea-1720-ae29-9886-0ea89720615c/886447691144.jpg/500x500bb.jpg"
+  image: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d2/53/65/d2536587-c7f3-9153-4677-f5a2f3e9e5ad/886447691120.jpg/500x500bb.jpg"
   alt: "Lemonade by Beyoncé"
 keywords: ["pop album", "Beyoncé", "Lemonade", "music"]
 ---
 
-
+**Lemonade** por **Beyoncé**
+## Año
+- Año: 2016
+## País
+- País: Estados Unidos
+## Género
+- Género: Pop/R&B
+## Canciones principales
+- Canciones Principales: Formation, Sorry, Hold Up, Freedom (feat. Kendrick Lamar), All Night
+## Curiosidades
+- Curiosidades: Lemonade es el sexto álbum de estudio de Beyoncé y explora temas de infidelidad y la feminidad negra. El álbum fue acompañado por una película de una hora con el mismo nombre, que se estrenó en HBO.
 
 
 

@@ -1,10 +1,10 @@
 ---
 title: "Lemonade - Beyoncé"
-date: 2025-08-29T03:30:05.662884
+date: 2026-01-18T04:01:51.536028
 slug: "lemonade-beyonce"
-description: "\"Lemonade\" is Beyoncé's sixth studio album and it received critical acclaim for its themes of infidelity, empowerment, and black identity."
+description: "Lemonade is Beyoncé's sixth studio album and it explores themes of infidelity and black womanhood."
 cover:
-  image: "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/1d/1f/f1/1d1ff1ea-1720-ae29-9886-0ea89720615c/886447691144.jpg/500x500bb.jpg"
+  image: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d2/53/65/d2536587-c7f3-9153-4677-f5a2f3e9e5ad/886447691120.jpg/500x500bb.jpg"
   alt: "Lemonade by Beyoncé"
 keywords: ["pop album", "Beyoncé", "Lemonade", "music"]
 ---
@@ -17,9 +17,9 @@ keywords: ["pop album", "Beyoncé", "Lemonade", "music"]
 ## Genre
 - Genre: Pop/R&B
 ## Main Tracks
-- Main Tracks: Formation, Sorry, Hold Up, Freedom, All Night
+- Main Tracks: Formation, Sorry, Hold Up, Freedom (feat. Kendrick Lamar), All Night
 ## Curiosities
-- Curiosities: "Lemonade" is Beyoncé's sixth studio album and it received critical acclaim for its themes of infidelity, empowerment, and black identity. The album also includes spoken word interludes from the film "Lemonade" which aired on HBO.
+- Curiosities: Lemonade is Beyoncé's sixth studio album and it explores themes of infidelity and black womanhood. The album was accompanied by a one-hour film with the same name, which premiered on HBO.
 
 
 
