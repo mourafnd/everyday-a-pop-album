@@ -1,8 +1,8 @@
 ---
 title: "Disco - Kylie Minogue"
-date: 2026-01-08T03:58:42.283172
+date: 2026-01-22T04:04:50.141945
 slug: "disco-kylie-minogue"
-description: "\"Disco\" is the fifteenth studio album by Australian singer Kylie Minogue, featuring a blend of disco and dance-pop music."
+description: "\"Disco\" is the fifteenth studio album by Australian pop singer Kylie Minogue."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/5f/d2/e2/5fd2e287-c08b-9fff-15ab-e6c40814d62c/4050538633542.jpg/500x500bb.jpg"
   alt: "Disco by Kylie Minogue"
@@ -17,9 +17,9 @@ keywords: ["pop album", "Kylie Minogue", "Disco", "music"]
 ## Genre
 - Genre: Pop
 ## Main Tracks
-- Main Tracks: "Magic", "Say Something", "Real Groove", "Dance Floor Darling", "Last Chance"
+- Main Tracks: "Say Something", "Magic", "Dance Floor Darling", "Miss a Thing", "Real Groove"
 ## Curiosities
-- Curiosities: "Disco" is the fifteenth studio album by Australian singer Kylie Minogue, featuring a blend of disco and dance-pop music. The album received critical acclaim and was a commercial success, reaching the top of the charts in several countries.
+- Curiosities: "Disco" is the fifteenth studio album by Australian pop singer Kylie Minogue. It received critical acclaim for its disco-influenced sound and was a commercial success worldwide, reaching the top of the charts in various countries. The album marks a return to Minogue's dance-pop roots and received praise for its catchy hooks and nostalgic feel.
 
 
 
