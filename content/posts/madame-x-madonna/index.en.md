@@ -1,8 +1,8 @@
 ---
 title: "Madame X - Madonna"
-date: 2026-01-24T03:56:22.889281
+date: 2026-01-27T04:03:51.139212
 slug: "madame-x-madonna"
-description: "\"Madame X\" is Madonna's fourteenth studio album, featuring a mix of pop, Latin, and electronic music influences."
+description: "\"Madame X\" is the fourteenth studio album by Madonna, incorporating influences from Latin music, electronic music, and Portuguese fado."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/3b/7e/0d/3b7e0d83-985d-8b36-c3c1-9ddd6c6514be/23UMGIM00292.rgb.jpg/500x500bb.jpg"
   alt: "Madame X by Madonna"
@@ -17,9 +17,9 @@ keywords: ["pop album", "Madonna", "Madame X", "music"]
 ## Genre
 - Genre: Pop
 ## Main Tracks
-- Main Tracks: "Medellín", "Crave", "God Control", "Faz Gostoso", "I Don't Search I Find"
+- Main Tracks: "Medellín", "Crave", "God Control", "I Don't Search I Find", "Crazy"
 ## Curiosities
-- Curiosities: "Madame X" is Madonna's fourteenth studio album, featuring a mix of pop, Latin, and electronic music influences. The album explores themes of freedom, love, and empowerment, with Madonna taking on the persona of Madame X, a secret agent traveling the world.
+- Curiosities and any other relevant information about this album: "Madame X" is the fourteenth studio album by Madonna, incorporating influences from Latin music, electronic music, and Portuguese fado. The album received positive reviews from music critics and debuted at number one on the Billboard 200 chart.
 
 
 
