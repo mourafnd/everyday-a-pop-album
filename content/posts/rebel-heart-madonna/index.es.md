@@ -1,15 +1,25 @@
 ---
 title: "Rebel Heart - Madonna"
-date: 2026-01-23T04:01:08.506279
+date: 2026-01-30T04:26:11.823291
 slug: "rebel-heart-madonna"
-description: "Descubre el álbum 'Rebel Heart' de Madonna, un destacado de la música pop."
+description: "\"Rebel Heart\" es el decimotercer álbum de estudio de Madonna, que presenta una mezcla de dance-pop, EDM y baladas."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/75/e3/5e/75e35e73-2bf9-ff8b-ca50-5f859187e339/00602547226419.rgb.jpg/500x500bb.jpg"
   alt: "Rebel Heart by Madonna"
 keywords: ["pop album", "Madonna", "Rebel Heart", "music"]
 ---
 
-
+**Rebel Heart** por **Madonna**
+## Año
+- Año: 2015
+## País
+- País: Estados Unidos
+## Género
+- Género: Pop
+## Canciones principales
+- Canciones Principales: Living for Love, Ghosttown, Bitch I'm Madonna, Rebel Heart, Devil Pray
+## Curiosidades
+- Curiosidades y cualquier otra información relevante sobre este álbum: "Rebel Heart" es el decimotercer álbum de estudio de Madonna, que presenta una mezcla de dance-pop, EDM y baladas. El álbum recibió críticas positivas de los críticos y debutó en el número dos en la lista Billboard 200.
 
 
 

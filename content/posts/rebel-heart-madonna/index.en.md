@@ -1,8 +1,8 @@
 ---
 title: "Rebel Heart - Madonna"
-date: 2026-01-23T04:01:08.506279
+date: 2026-01-30T04:26:11.823291
 slug: "rebel-heart-madonna"
-description: "\"Rebel Heart\" is the thirteenth studio album by Madonna and features a mix of dance-pop, EDM, and ballads."
+description: "\"Rebel Heart\" is the thirteenth studio album by Madonna, featuring a mix of dance-pop, EDM, and ballads."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/75/e3/5e/75e35e73-2bf9-ff8b-ca50-5f859187e339/00602547226419.rgb.jpg/500x500bb.jpg"
   alt: "Rebel Heart by Madonna"
@@ -17,9 +17,9 @@ keywords: ["pop album", "Madonna", "Rebel Heart", "music"]
 ## Genre
 - Genre: Pop
 ## Main Tracks
-- Main Tracks: Living for Love, Ghosttown, Bitch I'm Madonna, Hold Tight, Joan of Arc
+- Main Tracks: Living for Love, Ghosttown, Bitch I'm Madonna, Rebel Heart, Devil Pray
 ## Curiosities
-- Curiosities: "Rebel Heart" is the thirteenth studio album by Madonna and features a mix of dance-pop, EDM, and ballads. Despite leaks of early demos, Madonna worked on the album with producers such as Diplo, Avicii, and Kanye West.
+- Curiosities and any other relevant information about this album: "Rebel Heart" is the thirteenth studio album by Madonna, featuring a mix of dance-pop, EDM, and ballads. The album received positive reviews from critics and debuted at number two on the Billboard 200 chart.
 
 
 
