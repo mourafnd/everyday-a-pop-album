@@ -1,8 +1,8 @@
 ---
 title: "FutureSex/LoveSounds - Justin Timberlake"
-date: 2026-01-17T03:51:57.009055
+date: 2026-02-04T04:25:03.335177
 slug: "futuresexlovesounds-justin-timberlake"
-description: "Este álbum foi altamente aclamado pela crítica e é considerado um dos melhores álbuns pop da década de 2000."
+description: "This album marked a shift in Justin Timberlake's sound, incorporating elements of dance-pop, R&B, and electro-pop."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4c/44/30/4c4430dd-150b-d393-ec70-4894975f4b16/888880422095.jpg/500x500bb.jpg"
   alt: "FutureSex/LoveSounds by Justin Timberlake"
@@ -17,9 +17,9 @@ keywords: ["pop album", "Justin Timberlake", "FutureSex/LoveSounds", "music"]
 ## Genre
 - Genre: Pop
 ## Main Tracks
-- Main Tracks: "SexyBack", "My Love", "What Goes Around... Comes Around", "Summer Love", "LoveStoned"
+- Main Tracks: SexyBack, My Love, What Goes Around... Comes Around, Summer Love, LoveStoned/I Think She Knows
 ## Curiosities
-- Curiosities: Este álbum foi altamente aclamado pela crítica e é considerado um dos melhores álbuns pop da década de 2000. Justin Timberlake incorporou elementos de vários gêneros musicais, como pop, R&B, funk e dance, tornando-o um álbum diversificado e inovador.
+- Curiosities: This album marked a shift in Justin Timberlake's sound, incorporating elements of dance-pop, R&B, and electro-pop. It was a critical and commercial success, earning multiple Grammy nominations and spawning hits like SexyBack and My Love.
 
 
 
