@@ -1,8 +1,8 @@
 ---
 title: "Future Hearts - All Time Low"
-date: 2025-10-03T03:23:00.712562
+date: 2026-02-12T04:52:04.724147
 slug: "future-hearts-all-time-low"
-description: "\"Future Hearts\" is the sixth studio album by American rock band All Time Low, known for their infectious pop-punk sound with catchy hooks and anthemic choruses."
+description: "\"Future Hearts\" is the sixth studio album by the American rock band All Time Low."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/44/4b/05/444b0570-e7bf-74f6-be55-5e8f90afbd34/874.jpg/500x500bb.jpg"
   alt: "Future Hearts by All Time Low"
@@ -15,11 +15,11 @@ keywords: ["pop album", "All Time Low", "Future Hearts", "music"]
 ## Country
 - Country: United States
 ## Genre
-- Genre: Pop-Punk/Pop Rock
+- Genre: Pop punk/pop rock
 ## Main Tracks
-- Main Tracks: "Something's Gotta Give", "Kids in the Dark", "Runaways", "Missing You", "Cinderblock Garden"
+- Main Tracks: Kids in the Dark, Something's Gotta Give, Runaways, Cinderblock Garden, Missing You
 ## Curiosities
-- Curiosities: "Future Hearts" is the sixth studio album by American rock band All Time Low, known for their infectious pop-punk sound with catchy hooks and anthemic choruses. The album debuted at number 2 on the Billboard 200 chart and received positive reviews from music critics.
+- Curiosities: "Future Hearts" is the sixth studio album by the American rock band All Time Low. It blends pop punk and pop rock elements, featuring catchy hooks and energetic instrumentals. The album received positive reviews from critics and helped the band gain more mainstream popularity.
 
 
 
