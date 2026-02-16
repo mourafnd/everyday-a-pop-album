@@ -1,8 +1,8 @@
 ---
 title: "Future Sex/Love Sounds - Justin Timberlake"
-date: 2026-02-14T04:27:13.502920
+date: 2026-02-16T04:53:29.879360
 slug: "future-sexlove-sounds-justin-timberlake"
-description: "Este foi o segundo álbum de estúdio de Justin Timberlake e inclui colaborações com artistas como Timbaland e T."
+description: "Este álbum lançado por Justin Timberlake foi um sucesso comercial e de crítica, incluindo hits como \"SexyBack\" e \"My Love\"."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4c/44/30/4c4430dd-150b-d393-ec70-4894975f4b16/888880422095.jpg/500x500bb.jpg"
   alt: "Future Sex/Love Sounds by Justin Timberlake"
@@ -19,7 +19,7 @@ keywords: ["pop album", "Justin Timberlake", "Future Sex/Love Sounds", "music"]
 ## Main Tracks
 - Main Tracks: SexyBack, My Love, What Goes Around... Comes Around, Summer Love, LoveStoned/I Think She Knows
 ## Curiosities
-- Curiosities: Este foi o segundo álbum de estúdio de Justin Timberlake e inclui colaborações com artistas como Timbaland e T.I. Foi um grande sucesso comercial e de crítica, sendo indicado a vários prêmios, incluindo o Grammy.
+- Curiosities: Este álbum lançado por Justin Timberlake foi um sucesso comercial e de crítica, incluindo hits como "SexyBack" e "My Love". O álbum combina elementos de pop, dance, R&B e funk, mostrando a versatilidade do artista.
 
 
 
