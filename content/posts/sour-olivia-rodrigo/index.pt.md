@@ -1,10 +1,10 @@
 ---
 title: "Sour - Olivia Rodrigo"
-date: 2025-07-30T04:00:54.016252
+date: 2026-02-19T04:47:08.658697
 slug: "sour-olivia-rodrigo"
 description: "Descubra o álbum 'Sour' de Olivia Rodrigo, um destaque na música pop."
 cover:
-  image: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/33/fd/32/33fd32b1-0e43-9b4a-8ed6-19643f23544e/21UMGIM26092.rgb.jpg/500x500bb.jpg"
+  image: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/02/ed/8c/02ed8cab-c089-2fdd-7ce6-ab334a9a4e19/21UMGIM26093.rgb.jpg/500x500bb.jpg"
   alt: "Sour by Olivia Rodrigo"
 keywords: ["pop album", "Olivia Rodrigo", "Sour", "music"]
 ---

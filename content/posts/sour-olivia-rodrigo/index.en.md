@@ -1,16 +1,15 @@
 ---
 title: "Sour - Olivia Rodrigo"
-date: 2025-07-30T04:00:54.016252
+date: 2026-02-19T04:47:08.658697
 slug: "sour-olivia-rodrigo"
-description: "Olivia Rodrigo's debut album \"Sour\" was a commercial success, topping charts worldwide."
+description: "Olivia Rodrigo's debut album \"Sour\" was a massive commercial and critical success, topping charts worldwide."
 cover:
-  image: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/33/fd/32/33fd32b1-0e43-9b4a-8ed6-19643f23544e/21UMGIM26092.rgb.jpg/500x500bb.jpg"
+  image: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/02/ed/8c/02ed8cab-c089-2fdd-7ce6-ab334a9a4e19/21UMGIM26093.rgb.jpg/500x500bb.jpg"
   alt: "Sour by Olivia Rodrigo"
 keywords: ["pop album", "Olivia Rodrigo", "Sour", "music"]
 ---
 
 **Sour** by **Olivia Rodrigo**
-
 ## Year
 - Year: 2021
 ## Country
@@ -18,9 +17,14 @@ keywords: ["pop album", "Olivia Rodrigo", "Sour", "music"]
 ## Genre
 - Genre: Pop
 ## Main Tracks
-- Main Tracks: Drivers License, Good 4 U, Deja Vu, Traitor, Brutal
+- Main Tracks: 
+1. good 4 u
+2. drivers license
+3. deja vu
+4. traitor
+5. jealousy, jealousy
 ## Curiosities
-- Curiosities: Olivia Rodrigo's debut album "Sour" was a commercial success, topping charts worldwide. The album explores themes of heartbreak, betrayal, and teenage angst, resonating with a wide audience. It received critical acclaim for its honest lyrics and raw emotions.
+- Curiosities: Olivia Rodrigo's debut album "Sour" was a massive commercial and critical success, topping charts worldwide. The album explores themes of heartbreak, betrayal, and self-discovery, showcasing Olivia's raw and emotional songwriting.
 
 
 
