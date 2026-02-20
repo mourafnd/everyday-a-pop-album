@@ -1,8 +1,8 @@
 ---
 title: "1989 - Taylor Swift"
-date: 2026-02-15T04:48:57.016965
+date: 2026-02-20T04:42:00.543090
 slug: "1989-taylor-swift"
-description: "Este álbum foi um grande marco na carreira de Taylor Swift, marcando sua transição definitiva para o pop."
+description: "\"1989\" is Taylor Swift's fifth studio album and marked a shift towards a more pop sound compared to her previous country and country-pop albums."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/89/4a/4a/894a4ab9-b0b0-9ea5-ca41-8da0b9b79453/14UMDIM03405.rgb.jpg/500x500bb.jpg"
   alt: "1989 by Taylor Swift"
@@ -17,9 +17,9 @@ keywords: ["pop album", "Taylor Swift", "1989", "music"]
 ## Genre
 - Genre: Pop
 ## Main Tracks
-- Main Tracks: "Shake It Off", "Blank Space", "Style", "Wildest Dreams", "Bad Blood"
+- Main Tracks: Shake It Off, Blank Space, Style, Wildest Dreams, Bad Blood
 ## Curiosities
-- Curiosities: Este álbum foi um grande marco na carreira de Taylor Swift, marcando sua transição definitiva para o pop. "1989" ganhou o Grammy de Álbum do Ano em 2016.
+- Curiosities and any other relevant information about this album: "1989" is Taylor Swift's fifth studio album and marked a shift towards a more pop sound compared to her previous country and country-pop albums. It received critical acclaim and commercial success, winning the Grammy Award for Album of the Year.
 
 
 
