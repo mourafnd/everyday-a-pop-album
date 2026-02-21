@@ -1,25 +1,15 @@
 ---
 title: "25 - Adele"
-date: 2025-11-27T03:41:00.913378
+date: 2026-02-21T04:22:49.985937
 slug: "25-adele"
-description: "El tercer álbum de estudio de Adele, \"25\", fue un éxito crítico y comercial, ganando numerosos premios y rompiendo varios récords."
+description: "Descubre el álbum '25' de Adele, un destacado de la música pop."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/08/8c/24/088c2405-2e33-801b-5c38-e967f2c01e69/191404113974.png/500x500bb.jpg"
   alt: "25 by Adele"
 keywords: ["pop album", "Adele", "25", "music"]
 ---
 
-**25** por **Adele**
-## Año
-- Año: 2015
-## País
-- País: Reino Unido
-## Género
-- Género: Pop
-## Canciones principales
-- Canciones Principales: Hello, Send My Love (To Your New Lover), When We Were Young, Water Under the Bridge, All I Ask
-## Curiosidades
-- Curiosidades y cualquier otra información relevante sobre este álbum: El tercer álbum de estudio de Adele, "25", fue un éxito crítico y comercial, ganando numerosos premios y rompiendo varios récords. El álbum muestra los poderosos vocales y la composición emocional de Adele, con temas de amor, desamor y auto-reflexión.
+
 
 
 
