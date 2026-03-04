@@ -1,8 +1,8 @@
 ---
 title: "Fijación Oral, Vol. 1 - Shakira"
-date: 2026-03-01T04:48:39.418492
+date: 2026-03-04T04:25:33.488996
 slug: "fijacion-oral-vol-1-shakira"
-description: "This album marked Shakira's transition to a more pop-rock sound, including collaborations with Alejandro Sanz and Gustavo Cerati."
+description: "This album marked Shakira's transition to the English-language market, being released alongside \"Oral Fixation, Vol."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6f/18/1d/6f181d45-8041-cbdc-2c79-bc7374d01207/196872648560.jpg/500x500bb.jpg"
   alt: "Fijación Oral, Vol. 1 by Shakira"
@@ -17,9 +17,9 @@ keywords: ["pop album", "Shakira", "Fijación Oral", "Vol. 1", "music"]
 ## Genre
 - Genre: Pop
 ## Main Tracks
-- Main Tracks: "La Tortura", "No", "Día de Enero", "En Tus Pupilas", "La Pared"
+- Main Tracks: "La Tortura", "No", "Día de Enero", "La Pared", "Obtener un Sí"
 ## Curiosities
-- Curiosities: This album marked Shakira's transition to a more pop-rock sound, including collaborations with Alejandro Sanz and Gustavo Cerati. It achieved worldwide success and sold millions of copies worldwide.
+- Curiosities: This album marked Shakira's transition to the English-language market, being released alongside "Oral Fixation, Vol. 2". "Fijación Oral, Vol. 1" won the Latin Grammy for Album of the Year in 2006.
 
 
 
