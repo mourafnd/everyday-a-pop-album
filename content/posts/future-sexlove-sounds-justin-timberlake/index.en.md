@@ -1,8 +1,8 @@
 ---
 title: "Future Sex/Love Sounds - Justin Timberlake"
-date: 2026-03-03T04:41:31.051801
+date: 2026-03-05T04:28:48.891376
 slug: "future-sexlove-sounds-justin-timberlake"
-description: "Este álbum foi muito aclamado pela crítica e comercialmente bem sucedido, consagrando Justin Timberlake como um dos principais artistas pop da época."
+description: "O álbum foi indicado ao Grammy na categoria de Melhor Álbum Pop Vocal."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4c/44/30/4c4430dd-150b-d393-ec70-4894975f4b16/888880422095.jpg/500x500bb.jpg"
   alt: "Future Sex/Love Sounds by Justin Timberlake"
@@ -10,6 +10,7 @@ keywords: ["pop album", "Justin Timberlake", "Future Sex/Love Sounds", "music"]
 ---
 
 **Future Sex/Love Sounds** by **Justin Timberlake**
+
 ## Year
 - Year: 2006
 ## Country
@@ -17,9 +18,9 @@ keywords: ["pop album", "Justin Timberlake", "Future Sex/Love Sounds", "music"]
 ## Genre
 - Genre: Pop
 ## Main Tracks
-- Main Tracks: "SexyBack", "My Love", "What Goes Around... Comes Around", "Summer Love", "LoveStoned/I Think She Knows"
+- Main Tracks: SexyBack, My Love, What Goes Around... Comes Around, Summer Love, LoveStoned/I Think She Knows
 ## Curiosities
-- Curiosities: Este álbum foi muito aclamado pela crítica e comercialmente bem sucedido, consagrando Justin Timberlake como um dos principais artistas pop da época. As músicas dançantes e sensuais conquistaram o público e ajudaram a solidificar a carreira solo do cantor após o fim de sua trajetória com o 'N Sync.
+- Curiosities: O álbum foi indicado ao Grammy na categoria de Melhor Álbum Pop Vocal. Justin Timberlake co-escreveu e co-produziu todas as faixas do álbum.
 
 
 
