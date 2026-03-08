@@ -1,6 +1,6 @@
 ---
 title: "25 - Adele"
-date: 2026-02-21T04:22:49.985937
+date: 2026-03-08T04:28:20.050163
 slug: "25-adele"
 description: "Descubra o álbum '25' de Adele, um destaque na música pop."
 cover:
