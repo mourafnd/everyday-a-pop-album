@@ -1,8 +1,8 @@
 ---
 title: "Fijación Oral Vol. 1 - Shakira"
-date: 2026-03-12T04:42:06.788687
+date: 2026-03-13T04:28:57.075979
 slug: "fijacion-oral-vol-1-shakira"
-description: "This album was the sixth studio album by Colombian singer Shakira and was released in 2005."
+description: "- Fijación Oral Vol."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6f/18/1d/6f181d45-8041-cbdc-2c79-bc7374d01207/196872648560.jpg/500x500bb.jpg"
   alt: "Fijación Oral Vol. 1 by Shakira"
@@ -10,6 +10,7 @@ keywords: ["pop album", "Shakira", "Fijación Oral Vol. 1", "music"]
 ---
 
 **Fijación Oral Vol. 1** by **Shakira**
+
 ## Year
 - Year: 2005
 ## Country
@@ -17,9 +18,18 @@ keywords: ["pop album", "Shakira", "Fijación Oral Vol. 1", "music"]
 ## Genre
 - Genre: Pop
 ## Main Tracks
-- Main Tracks: "La Tortura", "No", "Escondite Inglés", "La Pared", "Obtener un Sí"
+- Main Tracks: 
+  1. La Tortura
+  2. La Pared
+  3. No
+  4. Dia de Enero
+  5. En Tus Pupilas
+
 ## Curiosities
-- Curiosities and any other relevant information about this album: This album was the sixth studio album by Colombian singer Shakira and was released in 2005. 'Fijación Oral Vol. 1' was a commercial and critical success, earning Shakira several awards and nominations, including the Latin Grammy for Album of the Year. The album features a mix of pop and rock styles, with lyrics in both Spanish and English.
+- Curiosities and any other relevant information about this album:
+   - Fijación Oral Vol. 1 is Shakira's sixth studio album and features a mix of pop and rock with influences from Latin and world music.
+   - The album won the Latin Grammy Award for Album of the Year in 2006.
+   - "La Tortura" featuring Alejandro Sanz was a huge hit and topped the charts in multiple countries.
 
 
 
