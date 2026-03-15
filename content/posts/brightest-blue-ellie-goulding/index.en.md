@@ -1,8 +1,8 @@
 ---
 title: "Brightest Blue - Ellie Goulding"
-date: 2025-12-29T04:06:01.858742
+date: 2026-03-15T04:59:53.215744
 slug: "brightest-blue-ellie-goulding"
-description: "\"Brightest Blue\" is the fourth studio album by British singer-songwriter Ellie Goulding."
+description: "\"Brightest Blue\" is the fourth studio album by English singer-songwriter Ellie Goulding."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a8/34/c5/a834c58b-d313-34c0-9e16-f27131dc96aa/20UMGIM23589.rgb.jpg/500x500bb.jpg"
   alt: "Brightest Blue by Ellie Goulding"
@@ -10,6 +10,7 @@ keywords: ["pop album", "Ellie Goulding", "Brightest Blue", "music"]
 ---
 
 **Brightest Blue** by **Ellie Goulding**
+
 ## Year
 - Year: 2020
 ## Country
@@ -17,9 +18,9 @@ keywords: ["pop album", "Ellie Goulding", "Brightest Blue", "music"]
 ## Genre
 - Genre: Pop
 ## Main Tracks
-- Main Tracks: Power, Love I'm Given, New Heights, Ode to Myself, Tides
+- Main Tracks: Power, Love I'm Given, New Heights, Ode to Myself, Brightest Blue, Bleach, Worry About Me (feat. blackbear)
 ## Curiosities
-- Curiosities: "Brightest Blue" is the fourth studio album by British singer-songwriter Ellie Goulding. The album is divided into two parts, with the first part focusing on pop and electronic sounds, while the second part showcases more stripped-back and emotional tracks.
+- Curiosities: "Brightest Blue" is the fourth studio album by English singer-songwriter Ellie Goulding. The album is divided into two parts, with the first part consisting of more introspective and emotional songs, while the second part features more upbeat and danceable tracks.
 
 
 

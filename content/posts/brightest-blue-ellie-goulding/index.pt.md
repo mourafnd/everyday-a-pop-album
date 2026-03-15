@@ -1,6 +1,6 @@
 ---
 title: "Brightest Blue - Ellie Goulding"
-date: 2025-12-29T04:06:01.858742
+date: 2026-03-15T04:59:53.215744
 slug: "brightest-blue-ellie-goulding"
 description: "Descubra o álbum 'Brightest Blue' de Ellie Goulding, um destaque na música pop."
 cover:
