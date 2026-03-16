@@ -1,8 +1,8 @@
 ---
 title: "Teenage Dream - Katy Perry"
-date: 2026-02-17T04:47:08.172295
+date: 2026-03-16T05:08:56.607978
 slug: "teenage-dream-katy-perry"
-description: "\"Teenage Dream\" fue un éxito comercial, con cinco sencillos en el número uno de la lista Billboard Hot 100."
+description: "\"Teenage Dream\" fue el tercer álbum de estudio de Katy Perry y se convirtió en un gran éxito comercial, generando cinco sencillos número uno en la lista Billboard Hot 100."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7c/cb/c1/7ccbc1a3-9476-8f85-3c14-4e7e91f67f25/13UABIM57788.rgb.jpg/500x500bb.jpg"
   alt: "Teenage Dream by Katy Perry"
@@ -17,14 +17,9 @@ keywords: ["pop album", "Katy Perry", "Teenage Dream", "music"]
 ## Género
 - Género: Pop
 ## Canciones principales
-- Canciones Principales:
-  1. Teenage Dream
-  2. California Gurls
-  3. Firework
-  4. Last Friday Night (T.G.I.F.)
-  5. E.T.
+- Canciones Principales: Teenage Dream, California Gurls, Firework, Last Friday Night (T.G.I.F.), E.T.
 ## Curiosidades
-- Curiosidades y cualquier otra información relevante sobre este álbum: "Teenage Dream" fue un éxito comercial, con cinco sencillos en el número uno de la lista Billboard Hot 100. Recibió varios premios y nominaciones, consolidando el estatus de Katy Perry como icono de la música pop.
+- Curiosidades: "Teenage Dream" fue el tercer álbum de estudio de Katy Perry y se convirtió en un gran éxito comercial, generando cinco sencillos número uno en la lista Billboard Hot 100. El álbum recibió elogios de la crítica por sus pegajosas canciones pop y melodías contagiosas.
 
 
 
