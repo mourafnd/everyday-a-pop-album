@@ -1,8 +1,8 @@
 ---
 title: "Future Sex/Love Sounds - Justin Timberlake"
-date: 2026-03-09T04:46:17.552283
+date: 2026-03-18T04:50:40.926146
 slug: "future-sexlove-sounds-justin-timberlake"
-description: "The album was a commercial and critical success, earning Justin Timberlake several awards and nominations, including a Grammy for Best Pop Vocal Album."
+description: "Este álbum foi aclamado pela crítica e ajudou a solidificar Justin Timberlake como um dos principais artistas pop da época."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4c/44/30/4c4430dd-150b-d393-ec70-4894975f4b16/888880422095.jpg/500x500bb.jpg"
   alt: "Future Sex/Love Sounds by Justin Timberlake"
@@ -17,9 +17,9 @@ keywords: ["pop album", "Justin Timberlake", "Future Sex/Love Sounds", "music"]
 ## Genre
 - Genre: Pop
 ## Main Tracks
-- Main Tracks: SexyBack, My Love, What Goes Around... Comes Around, Summer Love, Lovestoned
+- Main Tracks: "SexyBack", "My Love", "What Goes Around... Comes Around", "Until the End of Time", "LoveStoned/I Think She Knows"
 ## Curiosities
-- Curiosities: The album was a commercial and critical success, earning Justin Timberlake several awards and nominations, including a Grammy for Best Pop Vocal Album.
+- Curiosities: Este álbum foi aclamado pela crítica e ajudou a solidificar Justin Timberlake como um dos principais artistas pop da época. Ele combinava elementos de pop, R&B, funk e dance music de uma forma inovadora e cativante.
 
 
 
