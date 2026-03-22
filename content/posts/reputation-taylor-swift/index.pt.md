@@ -1,24 +1,15 @@
 ---
 title: "Reputation - Taylor Swift"
-date: 2025-11-26T03:43:48.248125
+date: 2026-03-22T04:47:19.244896
 slug: "reputation-taylor-swift"
-description: "\"Reputation\" é o sexto álbum de estúdio de Taylor Swift e marcou uma mudança em relação ao seu som anterior, incorporando mais elementos eletrônicos e de hip-hop."
+description: "Descubra o álbum 'Reputation' de Taylor Swift, um destaque na música pop."
 cover:
-  image: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ba/16/42/ba1642a8-0c75-a83d-3b9c-8c2eba140dc5/00843930033133.rgb.jpg/500x500bb.jpg"
+  image: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/eb/e6/06/ebe606da-e00f-82d3-47f3-b79904eed541/17UM1IM24651.rgb.jpg/500x500bb.jpg"
   alt: "Reputation by Taylor Swift"
 keywords: ["pop album", "Taylor Swift", "Reputation", "music"]
 ---
 
-**Reputation** por **Taylor Swift**
-## Ano
-- Ano: 2017
-## País
-- País: Estados Unidos
-## Gênero
-- Gênero: Pop
-- Principais faixas: Look What You Made Me Do, ...Ready for It?, Delicate, End Game (com Ed Sheeran e Future), Gorgeous
-## Curiosidades
-- Curiosidades: "Reputation" é o sexto álbum de estúdio de Taylor Swift e marcou uma mudança em relação ao seu som anterior, incorporando mais elementos eletrônicos e de hip-hop. O álbum recebeu aclamação crítica e sucesso comercial, estreando na primeira posição da parada Billboard 200.
+
 
 
 
