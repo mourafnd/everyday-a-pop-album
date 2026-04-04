@@ -1,15 +1,15 @@
 ---
 title: "Dreaming of You - Selena"
-date: 2025-12-26T03:54:40.488410
+date: 2026-04-04T04:45:02.046524
 slug: "dreaming-of-you-selena"
-description: "Este álbum foi lançado postumamente após a trágica morte de Selena em 1995."
+description: "Este álbum foi lançado postumamente após a trágica morte de Selena."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e5/64/06/e56406be-4f9d-ea3e-7a41-be0fba42894a/15UMGIM04864.rgb.jpg/500x500bb.jpg"
   alt: "Dreaming of You by Selena"
 keywords: ["pop album", "Selena", "Dreaming of You", "music"]
 ---
 
-**Dreaming of You** por **Selena**
+**Sonhando com Você** por **Selena**
 
 ## Ano
 - Ano: 1995
@@ -17,9 +17,9 @@ keywords: ["pop album", "Selena", "Dreaming of You", "music"]
 - País: Estados Unidos
 ## Gênero
 - Gênero: Pop
-- Principais Faixas: "Dreaming of You", "I Could Fall in Love", "Bidi Bidi Bom Bom", "Como La Flor", "I'm Getting Used to You"
+- Principais Faixas: "Sonhando com Você", "Eu Poderia Me Apaixonar", "Sentindo Falta do Meu Amor", "Coração Cativo", "Estou Me Acostumando com Você"
 ## Curiosidades
-- Curiosidades: Este álbum foi lançado postumamente após a trágica morte de Selena em 1995. Tornou-se um grande sucesso, alcançando o primeiro lugar na parada Billboard 200. Selena é considerada uma das artistas latinas mais influentes de todos os tempos e sua música continua a inspirar fãs em todo o mundo.
+- Curiosidades: Este álbum foi lançado postumamente após a trágica morte de Selena. Tornou-se um sucesso comercial e é considerado um dos álbuns latinos mais vendidos nos Estados Unidos.
 
 
 
