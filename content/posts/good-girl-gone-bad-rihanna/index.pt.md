@@ -1,8 +1,8 @@
 ---
 title: "Good Girl Gone Bad - Rihanna"
-date: 2025-11-17T03:44:21.263802
+date: 2026-04-05T05:05:48.220080
 slug: "good-girl-gone-bad-rihanna"
-description: "Este álbum marcou a transição de Rihanna de uma artista de R&B para uma superestrela do pop."
+description: "\"Good Girl Gone Bad\" marcou uma mudança na imagem e no som de Rihanna, com sucessos como \"Umbrella\" se tornando hits mundiais."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2b/c0/81/2bc081c8-25f0-ba43-d451-587a54613778/16UMGIM59202.rgb.jpg/500x500bb.jpg"
   alt: "Good Girl Gone Bad by Rihanna"
@@ -16,9 +16,14 @@ keywords: ["pop album", "Rihanna", "Good Girl Gone Bad", "music"]
 - País: Barbados
 ## Gênero
 - Gênero: Pop
-- Principais Faixas: "Umbrella", "Don't Stop the Music", "Shut Up and Drive", "Hate That I Love You", "Rehab"
+- Principais Faixas: 
+  1. "Umbrella" 
+  2. "Don't Stop the Music"
+  3. "Shut Up and Drive"
+  4. "Hate That I Love You"
+  5. "Disturbia"
 ## Curiosidades
-- Curiosidades: Este álbum marcou a transição de Rihanna de uma artista de R&B para uma superestrela do pop. Foi um grande sucesso comercial e crítico, solidificando sua carreira como uma das maiores cantoras pop da época.
+- Curiosidades: "Good Girl Gone Bad" marcou uma mudança na imagem e no som de Rihanna, com sucessos como "Umbrella" se tornando hits mundiais. O álbum recebeu aclamação crítica e foi um sucesso comercial, solidificando o status de Rihanna como uma superestrela pop.
 
 
 
