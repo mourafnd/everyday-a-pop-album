@@ -1,24 +1,15 @@
 ---
 title: "Future Sex/Love Sounds - Justin Timberlake"
-date: 2026-04-07T05:03:26.503174
+date: 2026-04-10T05:17:46.714741
 slug: "future-sexlove-sounds-justin-timberlake"
-description: "Este álbum foi altamente aclamado pela crítica, rendendo a Justin Timberlake vários prêmios, incluindo um Grammy de Melhor Álbum de Pop Vocal em 2007."
+description: "Descubra o álbum 'Future Sex/Love Sounds' de Justin Timberlake, um destaque na música pop."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4c/44/30/4c4430dd-150b-d393-ec70-4894975f4b16/888880422095.jpg/500x500bb.jpg"
   alt: "Future Sex/Love Sounds by Justin Timberlake"
 keywords: ["pop album", "Justin Timberlake", "Future Sex/Love Sounds", "music"]
 ---
 
-**Future Sex/Love Sounds** por **Justin Timberlake**
-## Ano
-- Ano: 2006
-## País
-- País: Estados Unidos
-## Gênero
-- Gênero: Pop
-- Principais Faixas: SexyBack, My Love, What Goes Around... Comes Around, Summer Love, LoveStoned/I Think She Knows
-## Curiosidades
-- Curiosidades: Este álbum foi altamente aclamado pela crítica, rendendo a Justin Timberlake vários prêmios, incluindo um Grammy de Melhor Álbum de Pop Vocal em 2007. O álbum mistura elementos de pop, dance, R&B e funk, mostrando a versatilidade do artista.
+
 
 
 
