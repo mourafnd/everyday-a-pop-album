@@ -1,26 +1,15 @@
 ---
 title: "Dreaming of You - Selena"
-date: 2026-04-04T04:45:02.046524
+date: 2026-04-13T05:33:23.802043
 slug: "dreaming-of-you-selena"
-description: "Este álbum fue lanzado póstumamente después de la trágica muerte de Selena."
+description: "Descubre el álbum 'Dreaming of You' de Selena, un destacado de la música pop."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e5/64/06/e56406be-4f9d-ea3e-7a41-be0fba42894a/15UMGIM04864.rgb.jpg/500x500bb.jpg"
   alt: "Dreaming of You by Selena"
 keywords: ["pop album", "Selena", "Dreaming of You", "music"]
 ---
 
-**Dreaming of You** por **Selena**
 
-## Año
-- Año: 1995
-## País
-- País: Estados Unidos
-## Género
-- Género: Pop
-## Canciones principales
-- Canciones Principales: "Dreaming of You", "I Could Fall in Love", "Missing My Baby", "Captive Heart", "I'm Getting Used to You"
-## Curiosidades
-- Curiosidades: Este álbum fue lanzado póstumamente después de la trágica muerte de Selena. Se convirtió en un éxito comercial y es considerado uno de los álbumes latinos más vendidos en Estados Unidos.
 
 
 
