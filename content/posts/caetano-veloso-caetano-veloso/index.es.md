@@ -1,6 +1,6 @@
 ---
 title: "Caetano Veloso - Caetano Veloso"
-date: 2026-03-25T04:48:45.300908
+date: 2026-04-19T05:21:05.899319
 slug: "caetano-veloso-caetano-veloso"
 description: "Descubre el álbum 'Caetano Veloso' de Caetano Veloso, un destacado de la música pop."
 cover:
