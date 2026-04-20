@@ -1,8 +1,8 @@
 ---
 title: "Fijación Oral Vol. 1 - Shakira"
-date: 2026-04-12T05:16:09.001470
+date: 2026-04-20T05:32:43.999053
 slug: "fijacion-oral-vol-1-shakira"
-description: "Este álbum marcou o retorno de Shakira à cena musical com um som pop latino envolvente e letras pessoais."
+description: "Fijación Oral Vol."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6f/18/1d/6f181d45-8041-cbdc-2c79-bc7374d01207/196872648560.jpg/500x500bb.jpg"
   alt: "Fijación Oral Vol. 1 by Shakira"
@@ -15,11 +15,11 @@ keywords: ["pop album", "Shakira", "Fijación Oral Vol. 1", "music"]
 ## Country
 - Country: Colombia
 ## Genre
-- Genre: Pop Latino
+- Genre: Pop
 ## Main Tracks
-- Main Tracks: "La Tortura", "No", "Día de Enero", "En Tus Pupilas", "Obtener un Sí"
+- Main Tracks: "La Tortura", "No", "Día de Enero", "La Pared", "En Tus Pupilas"
 ## Curiosities
-- Curiosities: Este álbum marcou o retorno de Shakira à cena musical com um som pop latino envolvente e letras pessoais. Foi um enorme sucesso comercial e crítico, estabelecendo-a como uma das principais artistas do gênero.
+- Curiosities and any other relevant information about this album: Fijación Oral Vol. 1 is the sixth studio album by Colombian singer-songwriter Shakira. It was her first Spanish-language album in four years and includes a mix of pop and rock sounds. The album was a commercial success and received critical acclaim, winning a Grammy Award for Best Latin Rock/Alternative Album in 2006.
 
 
 
