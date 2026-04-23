@@ -1,8 +1,8 @@
 ---
 title: "Future Sex/Love Sounds - Justin Timberlake"
-date: 2026-04-21T05:20:16.076508
+date: 2026-04-23T05:22:33.163558
 slug: "future-sexlove-sounds-justin-timberlake"
-description: "Este álbum foi um sucesso comercial e de crítica, sendo indicado a diversos prêmios e vendendo milhões de cópias ao redor do mundo."
+description: "This album marked a shift in Justin Timberlake's music style, incorporating more electronic and dance elements."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4c/44/30/4c4430dd-150b-d393-ec70-4894975f4b16/888880422095.jpg/500x500bb.jpg"
   alt: "Future Sex/Love Sounds by Justin Timberlake"
@@ -17,9 +17,9 @@ keywords: ["pop album", "Justin Timberlake", "Future Sex/Love Sounds", "music"]
 ## Genre
 - Genre: Pop
 ## Main Tracks
-- Main Tracks: SexyBack, My Love, What Goes Around... Comes Around, Summer Love, LoveStoned
+- Main Tracks: SexyBack, My Love, What Goes Around...Comes Around, Summer Love, LoveStoned/I Think She Knows
 ## Curiosities
-- Curiosities: Este álbum foi um sucesso comercial e de crítica, sendo indicado a diversos prêmios e vendendo milhões de cópias ao redor do mundo. Justin Timberlake explorou uma sonoridade mais eletrônica e dançante, colaborando com diversos produtores renomados.
+- Curiosities: This album marked a shift in Justin Timberlake's music style, incorporating more electronic and dance elements. It received critical acclaim and commercial success, selling over 4 million copies in the US alone.
 
 
 
