@@ -1,8 +1,8 @@
 ---
 title: "Future Sex/Love Sounds - Justin Timberlake"
-date: 2026-04-23T05:22:33.163558
+date: 2026-04-25T05:05:36.423314
 slug: "future-sexlove-sounds-justin-timberlake"
-description: "This album marked a shift in Justin Timberlake's music style, incorporating more electronic and dance elements."
+description: "Este álbum foi um grande sucesso comercial e de crítica, apresentando uma mistura de pop, R&B e dance."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4c/44/30/4c4430dd-150b-d393-ec70-4894975f4b16/888880422095.jpg/500x500bb.jpg"
   alt: "Future Sex/Love Sounds by Justin Timberlake"
@@ -17,9 +17,9 @@ keywords: ["pop album", "Justin Timberlake", "Future Sex/Love Sounds", "music"]
 ## Genre
 - Genre: Pop
 ## Main Tracks
-- Main Tracks: SexyBack, My Love, What Goes Around...Comes Around, Summer Love, LoveStoned/I Think She Knows
+- Main Tracks: SexyBack, My Love, What Goes Around... Comes Around, Summer Love, LoveStoned/I Think She Knows
 ## Curiosities
-- Curiosities: This album marked a shift in Justin Timberlake's music style, incorporating more electronic and dance elements. It received critical acclaim and commercial success, selling over 4 million copies in the US alone.
+- Curiosities: Este álbum foi um grande sucesso comercial e de crítica, apresentando uma mistura de pop, R&B e dance. Justin Timberlake colaborou com produtores como Timbaland e Rick Rubin para criar um som inovador e cativante.
 
 
 
