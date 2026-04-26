@@ -1,24 +1,15 @@
 ---
 title: "Fine Line - Harry Styles"
-date: 2025-10-30T03:38:46.710899
+date: 2026-04-26T05:31:05.374789
 slug: "fine-line-harry-styles"
-description: "Fine Line é o segundo álbum solo de Harry Styles, após sua saída do One Direction."
+description: "Descubra o álbum 'Fine Line' de Harry Styles, um destaque na música pop."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2b/c4/c9/2bc4c9d4-3bc6-ab13-3f71-df0b89b173de/886448022213.jpg/500x500bb.jpg"
   alt: "Fine Line by Harry Styles"
 keywords: ["pop album", "Harry Styles", "Fine Line", "music"]
 ---
 
-**Fine Line** por **Harry Styles**
-## Ano
-- Ano: 2019
-## País
-- País: Reino Unido
-## Gênero
-- Gênero: Pop
-- Principais Faixas: "Watermelon Sugar", "Adore You", "Lights Up", "Falling", "Golden"
-## Curiosidades
-- Curiosidades e outras informações relevantes sobre este álbum: Fine Line é o segundo álbum solo de Harry Styles, após sua saída do One Direction. Recebeu aclamação crítica por sua mistura de influências pop, rock e folk.
+
 
 
 
