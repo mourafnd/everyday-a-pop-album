@@ -1,6 +1,6 @@
 ---
 title: "Revelación - Selena Gomez"
-date: 2026-02-11T04:56:50.870405
+date: 2026-04-29T05:46:12.408088
 slug: "revelacion-selena-gomez"
 description: "Descubra o álbum 'Revelación' de Selena Gomez, um destaque na música pop."
 cover:
