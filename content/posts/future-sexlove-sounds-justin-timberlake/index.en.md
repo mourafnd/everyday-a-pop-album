@@ -1,8 +1,8 @@
 ---
 title: "Future Sex/Love Sounds - Justin Timberlake"
-date: 2026-04-27T05:45:36.870799
+date: 2026-05-02T05:28:47.030999
 slug: "future-sexlove-sounds-justin-timberlake"
-description: "Este segundo álbum de estúdio de Justin Timberlake foi um grande sucesso comercial e de crítica, consolidando sua transição de cantor de boy band para artista solo de destaque."
+description: "Este álbum foi o segundo da carreira solo de Justin Timberlake e trouxe uma sonoridade pop mais madura e sexy."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4c/44/30/4c4430dd-150b-d393-ec70-4894975f4b16/888880422095.jpg/500x500bb.jpg"
   alt: "Future Sex/Love Sounds by Justin Timberlake"
@@ -10,7 +10,6 @@ keywords: ["pop album", "Justin Timberlake", "Future Sex/Love Sounds", "music"]
 ---
 
 **Future Sex/Love Sounds** by **Justin Timberlake**
-
 ## Year
 - Year: 2006
 ## Country
@@ -18,9 +17,9 @@ keywords: ["pop album", "Justin Timberlake", "Future Sex/Love Sounds", "music"]
 ## Genre
 - Genre: Pop
 ## Main Tracks
-- Main Tracks: SexyBack, My Love, What Goes Around... Comes Around, Summer Love, LoveStoned
+- Main Tracks: SexyBack, My Love, What Goes Around... Comes Around, Summer Love, LoveStoned/I Think She Knows
 ## Curiosities
-- Curiosities: Este segundo álbum de estúdio de Justin Timberlake foi um grande sucesso comercial e de crítica, consolidando sua transição de cantor de boy band para artista solo de destaque. O álbum recebeu várias indicações ao Grammy e é conhecido por sua fusão única de pop, R&B e dance music.
+- Curiosities: Este álbum foi o segundo da carreira solo de Justin Timberlake e trouxe uma sonoridade pop mais madura e sexy. Além disso, recebeu críticas positivas e foi um sucesso comercial, alcançando o topo das paradas musicais em diversos países.
 
 
 
