@@ -1,8 +1,8 @@
 ---
 title: "Prism - Katy Perry"
-date: 2026-02-10T04:57:52.248999
+date: 2026-05-03T05:50:25.201994
 slug: "prism-katy-perry"
-description: "\"Prism\" is Katy Perry's fourth studio album and it received critical acclaim for its catchy pop tunes and empowering lyrics."
+description: "\"Prism\" was Katy Perry's fourth studio album and received positive reviews from music critics."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/21/81/36218129-51b4-df22-cafb-8e9503b53147/13UAAIM70445.rgb.jpg/500x500bb.jpg"
   alt: "Prism by Katy Perry"
@@ -17,9 +17,9 @@ keywords: ["pop album", "Katy Perry", "Prism", "music"]
 ## Genre
 - Genre: Pop
 ## Main Tracks
-- Main Tracks: "Roar", "Dark Horse", "Unconditionally", "Birthday", "This Is How We Do"
+- Main Tracks: "Roar", "Dark Horse", "Unconditionally", "This Is How We Do", "Birthday"
 ## Curiosities
-- Curiosities: "Prism" is Katy Perry's fourth studio album and it received critical acclaim for its catchy pop tunes and empowering lyrics. The album explores themes of self-empowerment and personal growth.
+- Curiosities: "Prism" was Katy Perry's fourth studio album and received positive reviews from music critics. The album explores themes of self-empowerment and personal growth. It was a commercial success, reaching number one on the US Billboard 200 chart.
 
 
 
