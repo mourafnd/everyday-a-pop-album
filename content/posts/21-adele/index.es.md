@@ -1,10 +1,10 @@
 ---
 title: "21 - Adele"
-date: 2025-08-18T03:57:32.269842
+date: 2026-05-07T05:53:06.430961
 slug: "21-adele"
-description: "\"21\" fue un gran éxito comercial, ganando varios premios Grammy y convirtiéndose en uno de los álbumes más vendidos de todos los tiempos."
+description: "\"21\" es el segundo álbum de estudio de Adele y se convirtió en un gran éxito comercial, ganando varios premios Grammy."
 cover:
-  image: "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d8/e3/f9/d8e3f9ea-d6fe-9a1b-9f13-109983d3062e/191404113868.png/500x500bb.jpg"
+  image: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/eb/ca/25/ebca2596-cd1e-b295-91a3-771c868d0a79/191404113868.png/500x500bb.jpg"
   alt: "21 by Adele"
 keywords: ["pop album", "Adele", "21", "music"]
 ---
@@ -19,7 +19,7 @@ keywords: ["pop album", "Adele", "21", "music"]
 ## Canciones principales
 - Canciones Principales: Rolling in the Deep, Someone Like You, Set Fire to the Rain, Rumour Has It, Turning Tables
 ## Curiosidades
-- Curiosidades: "21" fue un gran éxito comercial, ganando varios premios Grammy y convirtiéndose en uno de los álbumes más vendidos de todos los tiempos. Los potentes vocales de Adele y la narración emocional son aspectos destacados de esta obra maestra del pop.
+- Curiosidades: "21" es el segundo álbum de estudio de Adele y se convirtió en un gran éxito comercial, ganando varios premios Grammy. El álbum explora temas de desamor y resiliencia, mostrando las poderosas habilidades vocales y de composición de Adele.
 
 
 
