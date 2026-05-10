@@ -1,15 +1,24 @@
 ---
 title: "ANAVITÓRIA - ANAVITÓRIA"
-date: 2025-11-22T03:33:43.919146
+date: 2026-05-10T05:55:56.247930
 slug: "anavitoria-anavitoria"
-description: "Descubra o álbum 'ANAVITÓRIA' de ANAVITÓRIA, um destaque na música pop."
+description: "ANAVITÓRIA é um duo brasileiro formado por Ana Clara Caetano e Vitória Falcão."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8a/43/94/8a4394b9-ffb9-edc2-d029-4959f6154268/00602557148039_Cover.jpg/500x500bb.jpg"
   alt: "ANAVITÓRIA by ANAVITÓRIA"
 keywords: ["pop album", "ANAVITÓRIA", "ANAVITÓRIA", "music"]
 ---
 
-
+**ANAVITÓRIA** por **ANAVITÓRIA**
+## Ano
+- Ano: 2016
+## País
+- País: Brasil
+## Gênero
+- Gênero: Pop
+- Principais Faixas: "Trevo (Tu)", "Agora Eu Quero Ir", "Dengo", "Tocando Em Frente", "Singular"
+## Curiosidades
+- Curiosidades: ANAVITÓRIA é um duo brasileiro formado por Ana Clara Caetano e Vitória Falcão. Este álbum foi o primeiro delas e apresenta uma mistura de influências folk e pop, mostrando suas belas harmonias e letras emocionantes.
 
 
 

@@ -1,8 +1,8 @@
 ---
 title: "ANAVITÓRIA - ANAVITÓRIA"
-date: 2025-11-22T03:33:43.919146
+date: 2026-05-10T05:55:56.247930
 slug: "anavitoria-anavitoria"
-description: "ANAVITÓRIA is a Brazilian pop/folk duo formed by Ana Caetano and Vitória Falcão."
+description: "ANAVITÓRIA is a Brazilian duo formed by Ana Clara Caetano and Vitória Falcão."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8a/43/94/8a4394b9-ffb9-edc2-d029-4959f6154268/00602557148039_Cover.jpg/500x500bb.jpg"
   alt: "ANAVITÓRIA by ANAVITÓRIA"
@@ -10,7 +10,6 @@ keywords: ["pop album", "ANAVITÓRIA", "ANAVITÓRIA", "music"]
 ---
 
 **ANAVITÓRIA** by **ANAVITÓRIA**
-
 ## Year
 - Year: 2016
 ## Country
@@ -18,9 +17,9 @@ keywords: ["pop album", "ANAVITÓRIA", "ANAVITÓRIA", "music"]
 ## Genre
 - Genre: Pop
 ## Main Tracks
-- Main Tracks: "Agora Eu Quero Ir", "Trevo (Tu)", "Tocando Em Frente", "Chamego Meu", "Singular"
+- Main Tracks: "Trevo (Tu)", "Agora Eu Quero Ir", "Dengo", "Tocando Em Frente", "Singular"
 ## Curiosities
-- Curiosities: ANAVITÓRIA is a Brazilian pop/folk duo formed by Ana Caetano and Vitória Falcão. This self-titled album was their debut and includes a mix of catchy pop tunes and heartfelt ballads, showcasing their beautiful harmonies and sweet melodies.
+- Curiosities: ANAVITÓRIA is a Brazilian duo formed by Ana Clara Caetano and Vitória Falcão. This album was their debut and features a mix of folk and pop influences, showcasing their beautiful harmonies and heartfelt lyrics.
 
 
 
