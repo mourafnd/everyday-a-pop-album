@@ -1,8 +1,8 @@
 ---
 title: "Fijación Oral Vol. 1 - Shakira"
-date: 2026-04-30T05:50:18.265400
+date: 2026-05-13T06:18:38.757098
 slug: "fijacion-oral-vol-1-shakira"
-description: "Este álbum marcó la transición de Shakira de un estilo más rock/pop a un sonido más latino y bailable."
+description: "Este álbum fue lanzado en español como parte del proyecto bilingüe de Shakira, que también incluyó el álbum \"Oral Fixation Vol."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6f/18/1d/6f181d45-8041-cbdc-2c79-bc7374d01207/196872648560.jpg/500x500bb.jpg"
   alt: "Fijación Oral Vol. 1 by Shakira"
@@ -15,11 +15,11 @@ keywords: ["pop album", "Shakira", "Fijación Oral Vol. 1", "music"]
 ## País
 - País: Colombia
 ## Género
-- Género: Pop Latino
+- Género: Pop
 ## Canciones principales
-- Canciones Principales: "La Tortura", "No", "Día de Enero", "Escondite Inglés", "La Pared"
+- Canciones Principales: "La Tortura", "No", "Día de Enero", "La Pared", "Escondite Inglés"
 ## Curiosidades
-- Curiosidades y cualquier otra información relevante sobre este álbum: Este álbum marcó la transición de Shakira de un estilo más rock/pop a un sonido más latino y bailable. Fue un gran éxito comercial y crítico, consolidando a la cantante como una de las mayores estrellas de la música latina.
+- Curiosidades y cualquier otra información relevante sobre este álbum: Este álbum fue lanzado en español como parte del proyecto bilingüe de Shakira, que también incluyó el álbum "Oral Fixation Vol. 2" en inglés. "Fijación Oral Vol. 1" fue muy bien recibido por la crítica y ganó el Grammy Latino al Álbum del Año en 2006.
 
 
 
