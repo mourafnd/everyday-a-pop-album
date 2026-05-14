@@ -1,8 +1,8 @@
 ---
 title: "Golden Hour - Kacey Musgraves"
-date: 2026-05-04T05:55:39.144398
+date: 2026-05-14T06:16:59.468736
 slug: "golden-hour-kacey-musgraves"
-description: "\"Golden Hour\" ganó el premio al Álbum del Año en los Premios Grammy de 2019, fusionando elementos de pop y música country con letras oníricas e introspectivas."
+description: "\"Golden Hour\" ganó el premio al Álbum del Año en los Premios Grammy de 2019."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/61/45/e8/6145e88a-6a79-fab1-ad8f-5ffdcbf44a28/18UMGIM03879.rgb.jpg/500x500bb.jpg"
   alt: "Golden Hour by Kacey Musgraves"
@@ -15,11 +15,11 @@ keywords: ["pop album", "Kacey Musgraves", "Golden Hour", "music"]
 ## País
 - País: Estados Unidos
 ## Género
-- Género: Pop/Country
+- Género: Pop
 ## Canciones principales
-- Canciones Principales: "Slow Burn", "Space Cowboy", "High Horse", "Butterflies", "Rainbow"
+- Canciones Principales: "Slow Burn", "Lonely Weekend", "High Horse", "Mother", "Rainbow"
 ## Curiosidades
-- Curiosidades: "Golden Hour" ganó el premio al Álbum del Año en los Premios Grammy de 2019, fusionando elementos de pop y música country con letras oníricas e introspectivas. Los vocales y composiciones de Kacey Musgraves son elogiados por su autenticidad y vulnerabilidad.
+- Curiosidades: "Golden Hour" ganó el premio al Álbum del Año en los Premios Grammy de 2019. Kacey Musgraves combina elementos de pop, country y folk en este álbum aclamado por la crítica.
 
 
 
