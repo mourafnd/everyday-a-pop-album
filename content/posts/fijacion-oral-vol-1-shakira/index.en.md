@@ -1,8 +1,8 @@
 ---
 title: "Fijación Oral Vol. 1 - Shakira"
-date: 2026-05-13T06:18:38.757098
+date: 2026-05-15T06:25:19.794745
 slug: "fijacion-oral-vol-1-shakira"
-description: "This album was released in Spanish as part of Shakira's bilingual project, which also included the album \"Oral Fixation Vol."
+description: "Este álbum foi o primeiro de uma série de dois volumes lançados por Shakira em 2005."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6f/18/1d/6f181d45-8041-cbdc-2c79-bc7374d01207/196872648560.jpg/500x500bb.jpg"
   alt: "Fijación Oral Vol. 1 by Shakira"
@@ -10,6 +10,7 @@ keywords: ["pop album", "Shakira", "Fijación Oral Vol. 1", "music"]
 ---
 
 **Fijación Oral Vol. 1** by **Shakira**
+
 ## Year
 - Year: 2005
 ## Country
@@ -17,9 +18,9 @@ keywords: ["pop album", "Shakira", "Fijación Oral Vol. 1", "music"]
 ## Genre
 - Genre: Pop
 ## Main Tracks
-- Main Tracks: "La Tortura", "No", "Día de Enero", "La Pared", "Escondite Inglés"
+- Main Tracks: "La Tortura", "No", "Día de Enero", "La Pared", "Las de la Intuición"
 ## Curiosities
-- Curiosities and any other relevant information about this album: This album was released in Spanish as part of Shakira's bilingual project, which also included the album "Oral Fixation Vol. 2" in English. "Fijación Oral Vol. 1" was highly acclaimed by critics and won the Latin Grammy Award for Album of the Year in 2006.
+- Curiosities: Este álbum foi o primeiro de uma série de dois volumes lançados por Shakira em 2005. Fijación Oral Vol. 1 foi bem recebido pela crítica e público, contendo sucessos como "La Tortura" em colaboração com Alejandro Sanz.
 
 
 
