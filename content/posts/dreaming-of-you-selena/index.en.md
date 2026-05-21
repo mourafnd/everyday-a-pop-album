@@ -1,8 +1,8 @@
 ---
 title: "Dreaming of You - Selena"
-date: 2026-04-13T05:33:23.802043
+date: 2026-05-21T06:44:02.100267
 slug: "dreaming-of-you-selena"
-description: "\"Dreaming of You\" was Selena's fifth and final studio album before her tragic death."
+description: "\"Dreaming of You\" is the fifth and final studio album by American singer Selena."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e5/64/06/e56406be-4f9d-ea3e-7a41-be0fba42894a/15UMGIM04864.rgb.jpg/500x500bb.jpg"
   alt: "Dreaming of You by Selena"
@@ -10,7 +10,6 @@ keywords: ["pop album", "Selena", "Dreaming of You", "music"]
 ---
 
 **Dreaming of You** by **Selena**
-
 ## Year
 - Year: 1995
 ## Country
@@ -18,9 +17,9 @@ keywords: ["pop album", "Selena", "Dreaming of You", "music"]
 ## Genre
 - Genre: Pop
 ## Main Tracks
-- Main Tracks: "Dreaming of You", "I Could Fall in Love", "I'm Getting Used to You", "Techno Cumbia", "Wherever You Are"
+- Main Tracks: Dreaming of You, I Could Fall in Love, Techno Cumbia, Missing My Baby, Tu Solo Tu
 ## Curiosities
-- Curiosities: "Dreaming of You" was Selena's fifth and final studio album before her tragic death. It was released posthumously and became a commercial success, showcasing her versatility as a pop artist with influences of Latin music.
+- Curiosities: "Dreaming of You" is the fifth and final studio album by American singer Selena. It was released posthumously after her tragic death in 1995. The album features a mix of pop, Latin, and R&B tracks, showcasing Selena's versatility as an artist.
 
 
 
