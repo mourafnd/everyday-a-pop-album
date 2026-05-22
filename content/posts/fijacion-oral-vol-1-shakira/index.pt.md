@@ -1,6 +1,6 @@
 ---
 title: "Fijación Oral Vol. 1 - Shakira"
-date: 2026-05-15T06:25:19.794745
+date: 2026-05-22T06:41:03.701812
 slug: "fijacion-oral-vol-1-shakira"
 description: "Descubra o álbum 'Fijación Oral Vol. 1' de Shakira, um destaque na música pop."
 cover:
