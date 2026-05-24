@@ -1,15 +1,32 @@
 ---
 title: "Fijación Oral Vol. 1 - Shakira"
-date: 2026-05-22T06:41:03.701812
+date: 2026-05-24T06:29:07.107240
 slug: "fijacion-oral-vol-1-shakira"
-description: "Descubre el álbum 'Fijación Oral Vol. 1' de Shakira, un destacado de la música pop."
+description: "**Fijación Oral Vol."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6f/18/1d/6f181d45-8041-cbdc-2c79-bc7374d01207/196872648560.jpg/500x500bb.jpg"
   alt: "Fijación Oral Vol. 1 by Shakira"
 keywords: ["pop album", "Shakira", "Fijación Oral Vol. 1", "music"]
 ---
 
+**Fijación Oral Vol. 1** de **Shakira**
 
+## Año
+- Año: 2005
+## País
+- País: Colombia
+## Género
+- Género: Pop
+## Canciones principales
+- Canciones Principales:
+    1. La Tortura
+    2. No
+    3. Día de Enero
+    4. La Pared
+    5. En Tus Pupilas
+
+## Curiosidades
+- Curiosidades: **Fijación Oral Vol. 1** es el sexto álbum de estudio de la cantante colombiana Shakira. Ganó el premio Grammy al Mejor Álbum Latino de Pop en 2006. El álbum presenta una mezcla de pop y rock en español.
 
 
 
