@@ -1,8 +1,8 @@
 ---
 title: "X - Ed Sheeran"
-date: 2025-12-05T03:46:57.978598
+date: 2026-05-25T07:04:45.696163
 slug: "x-ed-sheeran"
-description: "\"X\" is the second studio album by Ed Sheeran and it was a commercial success, reaching number one in multiple countries."
+description: "Este é o segundo álbum de estúdio do cantor e compositor britânico Ed Sheeran, que alcançou grande sucesso comercial e de crítica."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music2/v4/b0/75/ec/b075ec42-a102-cde1-132b-9cddbc0d3496/825646285891.jpg/500x500bb.jpg"
   alt: "X by Ed Sheeran"
@@ -20,7 +20,7 @@ keywords: ["pop album", "Ed Sheeran", "X", "music"]
 ## Main Tracks
 - Main Tracks: "Sing", "Don't", "Photograph", "Thinking Out Loud", "Bloodstream"
 ## Curiosities
-- Curiosities: "X" is the second studio album by Ed Sheeran and it was a commercial success, reaching number one in multiple countries. The album showcases Sheeran's songwriting skills and his mix of pop, folk, and R&B influences.
+- Curiosities: Este é o segundo álbum de estúdio do cantor e compositor britânico Ed Sheeran, que alcançou grande sucesso comercial e de crítica. "X" foi indicado para vários prêmios e ganhou o Grammy de Melhor Álbum Vocal Pop em 2016. O álbum apresenta uma mistura de pop e folk, com letras pessoais e emotivas.
 
 
 
