@@ -1,6 +1,6 @@
 ---
 title: "25 - Adele"
-date: 2026-04-15T05:16:09.279802
+date: 2026-05-26T06:39:28.323811
 slug: "25-adele"
 description: "\"25\" é o terceiro álbum de estúdio de Adele e foi um enorme sucesso comercial, liderando as paradas em todo o mundo."
 cover:
@@ -16,9 +16,9 @@ keywords: ["pop album", "Adele", "25", "music"]
 - País: Reino Unido
 ## Gênero
 - Gênero: Pop
-- Principais Faixas: Hello, Send My Love (To Your New Lover), When We Were Young, Water Under the Bridge, All I Ask
+- Principais Faixas: Hello, When We Were Young, Send My Love (To Your New Lover), Water Under the Bridge, All I Ask
 ## Curiosidades
-- Curiosidades e outras informações relevantes sobre este álbum: "25" é o terceiro álbum de estúdio de Adele e foi um enorme sucesso comercial, liderando as paradas em todo o mundo. As poderosas vocais de Adele e letras emotivas estão em destaque neste álbum pop, que inclui sucessos como "Hello" e "When We Were Young".
+- Curiosidades e outras informações relevantes sobre este álbum: "25" é o terceiro álbum de estúdio de Adele e foi um enorme sucesso comercial, liderando as paradas em todo o mundo. O álbum explora temas de desilusão amorosa, perdão e autoaceitação, mostrando o poder vocal e a profundidade emocional de Adele.
 
 
 
