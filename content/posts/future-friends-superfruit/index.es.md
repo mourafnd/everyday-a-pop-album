@@ -1,6 +1,6 @@
 ---
 title: "Future Friends - Superfruit"
-date: 2025-11-08T03:31:12.415183
+date: 2026-05-28T06:44:27.012269
 slug: "future-friends-superfruit"
 description: "Descubre el álbum 'Future Friends' de Superfruit, un destacado de la música pop."
 cover:

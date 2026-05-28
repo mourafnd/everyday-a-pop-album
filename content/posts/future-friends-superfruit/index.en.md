@@ -1,8 +1,8 @@
 ---
 title: "Future Friends - Superfruit"
-date: 2025-11-08T03:31:12.415183
+date: 2026-05-28T06:44:27.012269
 slug: "future-friends-superfruit"
-description: "Superfruit is a duo formed by Scott Hoying and Mitch Grassi, both members of the acapella group Pentatonix."
+description: "Superfruit is a musical duo consisting of Mitch Grassi and Scott Hoying, both members of the a capella group Pentatonix."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music127/v4/b2/39/24/b2392404-1210-99ae-9f13-ac9f481a0c3e/886446581019.jpg/500x500bb.jpg"
   alt: "Future Friends by Superfruit"
@@ -17,9 +17,9 @@ keywords: ["pop album", "Superfruit", "Future Friends", "music"]
 ## Genre
 - Genre: Pop
 ## Main Tracks
-- Main Tracks: Imaginary Parties, Bad 4 Us, Vacation, Keep Me Coming, Worth It (Perfect)
+- Main Tracks: "Imaginary Parties", "Worth It (Perfect)", "Vacation", "GUY.exe", "Hurry Up!"
 ## Curiosities
-- Curiosities: Superfruit is a duo formed by Scott Hoying and Mitch Grassi, both members of the acapella group Pentatonix. This album is filled with catchy pop tunes and infectious beats, showcasing their strong vocal harmonies.
+- Curiosities: Superfruit is a musical duo consisting of Mitch Grassi and Scott Hoying, both members of the a capella group Pentatonix. "Future Friends" is their debut studio album, showcasing their unique pop sound and clever songwriting.
 
 
 
