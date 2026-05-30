@@ -1,8 +1,8 @@
 ---
 title: "All I Ever Wanted - Kelly Clarkson"
-date: 2025-10-24T03:28:53.740204
+date: 2026-05-30T06:16:19.829244
 slug: "all-i-ever-wanted-kelly-clarkson"
-description: "\"All I Ever Wanted\" is the fourth studio album by American singer Kelly Clarkson."
+description: "\"All I Ever Wanted\" is the fourth studio album by American singer Kelly Clarkson, featuring a mix of pop and rock influences."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music/4e/77/4d/mzi.zexwqies.jpg/500x500bb.jpg"
   alt: "All I Ever Wanted by Kelly Clarkson"
@@ -17,9 +17,9 @@ keywords: ["pop album", "Kelly Clarkson", "All I Ever Wanted", "music"]
 ## Genre
 - Genre: Pop
 ## Main Tracks
-- Main Tracks: "My Life Would Suck Without You", "Already Gone", "I Do Not Hook Up", "All I Ever Wanted", "Cry"
+- Main Tracks: My Life Would Suck Without You, Already Gone, I Do Not Hook Up, Cry, If I Can't Have You, Long Shot
 ## Curiosities
-- Curiosities: "All I Ever Wanted" is the fourth studio album by American singer Kelly Clarkson. It received positive reviews from music critics and was a commercial success, debuting at number one on the Billboard 200 chart.
+- Curiosities: "All I Ever Wanted" is the fourth studio album by American singer Kelly Clarkson, featuring a mix of pop and rock influences. The album debuted at number one on the Billboard 200 chart and received positive reviews from music critics.
 
 
 

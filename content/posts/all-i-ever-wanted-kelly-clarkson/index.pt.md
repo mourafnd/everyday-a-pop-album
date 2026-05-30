@@ -1,6 +1,6 @@
 ---
 title: "All I Ever Wanted - Kelly Clarkson"
-date: 2025-10-24T03:28:53.740204
+date: 2026-05-30T06:16:19.829244
 slug: "all-i-ever-wanted-kelly-clarkson"
 description: "Descubra o álbum 'All I Ever Wanted' de Kelly Clarkson, um destaque na música pop."
 cover:
