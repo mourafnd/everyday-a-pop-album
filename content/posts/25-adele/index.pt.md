@@ -1,24 +1,15 @@
 ---
 title: "25 - Adele"
-date: 2026-05-26T06:39:28.323811
+date: 2026-06-01T08:26:06.649253
 slug: "25-adele"
-description: "\"25\" é o terceiro álbum de estúdio de Adele e foi um enorme sucesso comercial, liderando as paradas em todo o mundo."
+description: "Descubra o álbum '25' de Adele, um destaque na música pop."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/08/8c/24/088c2405-2e33-801b-5c38-e967f2c01e69/191404113974.png/500x500bb.jpg"
   alt: "25 by Adele"
 keywords: ["pop album", "Adele", "25", "music"]
 ---
 
-**25** por **Adele**
-## Ano
-- Ano: 2015
-## País
-- País: Reino Unido
-## Gênero
-- Gênero: Pop
-- Principais Faixas: Hello, When We Were Young, Send My Love (To Your New Lover), Water Under the Bridge, All I Ask
-## Curiosidades
-- Curiosidades e outras informações relevantes sobre este álbum: "25" é o terceiro álbum de estúdio de Adele e foi um enorme sucesso comercial, liderando as paradas em todo o mundo. O álbum explora temas de desilusão amorosa, perdão e autoaceitação, mostrando o poder vocal e a profundidade emocional de Adele.
+
 
 
 
