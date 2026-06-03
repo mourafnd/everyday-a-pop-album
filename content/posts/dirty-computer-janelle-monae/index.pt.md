@@ -1,6 +1,6 @@
 ---
 title: "Dirty Computer - Janelle Monáe"
-date: 2025-12-17T03:51:02.205736
+date: 2026-06-03T08:08:30.095593
 slug: "dirty-computer-janelle-monae"
 description: "Descubra o álbum 'Dirty Computer' de Janelle Monáe, um destaque na música pop."
 cover:
