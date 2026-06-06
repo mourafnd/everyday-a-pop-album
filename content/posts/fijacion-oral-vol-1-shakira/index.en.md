@@ -1,8 +1,8 @@
 ---
 title: "Fijación Oral Vol. 1 - Shakira"
-date: 2026-06-05T06:59:27.301485
+date: 2026-06-06T06:21:42.233473
 slug: "fijacion-oral-vol-1-shakira"
-description: "This album marked Shakira's transition to a more pop and electronic sound, blending Latin and rock influences."
+description: "\"Fijación Oral Vol."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6f/18/1d/6f181d45-8041-cbdc-2c79-bc7374d01207/196872648560.jpg/500x500bb.jpg"
   alt: "Fijación Oral Vol. 1 by Shakira"
@@ -10,7 +10,6 @@ keywords: ["pop album", "Shakira", "Fijación Oral Vol. 1", "music"]
 ---
 
 **Fijación Oral Vol. 1** by **Shakira**
-
 ## Year
 - Year: 2005
 ## Country
@@ -18,9 +17,9 @@ keywords: ["pop album", "Shakira", "Fijación Oral Vol. 1", "music"]
 ## Genre
 - Genre: Pop
 ## Main Tracks
-- Main Tracks: "La Tortura", "No", "Dia de Enero", "La Pared", "Obtener un Sí"
+- Main Tracks: "La Tortura", "No", "Día de Enero", "La Pared", "Lo Imprescindible"
 ## Curiosities
-- Curiosities and any other relevant information about this album: This album marked Shakira's transition to a more pop and electronic sound, blending Latin and rock influences. It was a major commercial and critical success, winning several awards including a Latin Grammy for Album of the Year.
+- Curiosities and any other relevant information about this album: "Fijación Oral Vol. 1" is the sixth studio album by Colombian singer Shakira. It features a mix of pop and rock en español, showcasing Shakira's songwriting and singing abilities. The album was a commercial success, winning several awards and spawning hit singles like "La Tortura" and "No".
 
 
 
