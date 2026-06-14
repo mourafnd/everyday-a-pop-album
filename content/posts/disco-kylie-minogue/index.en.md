@@ -1,10 +1,10 @@
 ---
 title: "Disco - Kylie Minogue"
-date: 2026-01-22T04:04:50.141945
+date: 2026-06-14T07:16:47.262464
 slug: "disco-kylie-minogue"
-description: "\"Disco\" is the fifteenth studio album by Australian pop singer Kylie Minogue."
+description: "\"Disco\" is the fifteenth studio album by Australian singer Kylie Minogue."
 cover:
-  image: "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/5f/d2/e2/5fd2e287-c08b-9fff-15ab-e6c40814d62c/4050538633542.jpg/500x500bb.jpg"
+  image: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/59/be/23/59be23bc-0c30-bda9-55d2-a72bb0d199b6/4050538635416.jpg/500x500bb.jpg"
   alt: "Disco by Kylie Minogue"
 keywords: ["pop album", "Kylie Minogue", "Disco", "music"]
 ---
@@ -17,9 +17,9 @@ keywords: ["pop album", "Kylie Minogue", "Disco", "music"]
 ## Genre
 - Genre: Pop
 ## Main Tracks
-- Main Tracks: "Say Something", "Magic", "Dance Floor Darling", "Miss a Thing", "Real Groove"
+- Main Tracks: "Magic", "Say Something", "Real Groove", "Dance Floor Darling", "Last Chance"
 ## Curiosities
-- Curiosities: "Disco" is the fifteenth studio album by Australian pop singer Kylie Minogue. It received critical acclaim for its disco-influenced sound and was a commercial success worldwide, reaching the top of the charts in various countries. The album marks a return to Minogue's dance-pop roots and received praise for its catchy hooks and nostalgic feel.
+- Curiosities: "Disco" is the fifteenth studio album by Australian singer Kylie Minogue. It received critical acclaim for its disco-pop sound and nostalgic vibes. The album debuted at number one on the UK Albums Chart, making it Minogue's eighth UK number-one album.
 
 
 

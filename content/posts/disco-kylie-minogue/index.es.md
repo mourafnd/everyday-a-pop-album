@@ -1,25 +1,15 @@
 ---
 title: "Disco - Kylie Minogue"
-date: 2026-01-22T04:04:50.141945
+date: 2026-06-14T07:16:47.262464
 slug: "disco-kylie-minogue"
-description: "\"Disco\" es el decimoquinto álbum de estudio de la cantante pop australiana Kylie Minogue."
+description: "Descubre el álbum 'Disco' de Kylie Minogue, un destacado de la música pop."
 cover:
-  image: "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/5f/d2/e2/5fd2e287-c08b-9fff-15ab-e6c40814d62c/4050538633542.jpg/500x500bb.jpg"
+  image: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/59/be/23/59be23bc-0c30-bda9-55d2-a72bb0d199b6/4050538635416.jpg/500x500bb.jpg"
   alt: "Disco by Kylie Minogue"
 keywords: ["pop album", "Kylie Minogue", "Disco", "music"]
 ---
 
-**Disco** por **Kylie Minogue**
-## Año
-- Año: 2020
-## País
-- País: Australia
-## Género
-- Género: Pop
-## Canciones principales
-- Canciones Principales: "Say Something", "Magic", "Dance Floor Darling", "Miss a Thing", "Real Groove"
-## Curiosidades
-- Curiosidades: "Disco" es el decimoquinto álbum de estudio de la cantante pop australiana Kylie Minogue. Recibió aclamación crítica por su sonido influenciado por la música disco y fue un éxito comercial en todo el mundo, alcanzando el primer puesto en diversas listas. El álbum marca un regreso a las raíces dance-pop de Minogue y recibió elogios por sus pegajosos ganchos y su atmósfera nostálgica.
+
 
 
 
