@@ -1,8 +1,8 @@
 ---
 title: "Future Sex/Love Sounds - Justin Timberlake"
-date: 2026-06-15T08:48:52.245572
+date: 2026-06-18T07:27:44.395277
 slug: "future-sexlove-sounds-justin-timberlake"
-description: "\"Future Sex/Love Sounds\" marked a shift in Justin Timberlake's sound, incorporating elements of pop, R&B, and electronic music."
+description: "Este álbum foi um sucesso comercial e de crítica, levando Justin Timberlake a uma nova fase em sua carreira solo após o fim do *NSYNC."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4c/44/30/4c4430dd-150b-d393-ec70-4894975f4b16/888880422095.jpg/500x500bb.jpg"
   alt: "Future Sex/Love Sounds by Justin Timberlake"
@@ -17,9 +17,9 @@ keywords: ["pop album", "Justin Timberlake", "Future Sex/Love Sounds", "music"]
 ## Genre
 - Genre: Pop
 ## Main Tracks
-- Main Tracks: SexyBack, My Love, What Goes Around... Comes Around, LoveStoned, Until the End of Time
+- Main Tracks: SexyBack, My Love, What Goes Around... Comes Around, Summer Love, LoveStoned/I Think She Knows
 ## Curiosities
-- Curiosities: "Future Sex/Love Sounds" marked a shift in Justin Timberlake's sound, incorporating elements of pop, R&B, and electronic music. The album was critically acclaimed and commercially successful, receiving multiple Grammy nominations.
+- Curiosities: Este álbum foi um sucesso comercial e de crítica, levando Justin Timberlake a uma nova fase em sua carreira solo após o fim do *NSYNC. Ele mistura pop, R&B e dance de forma inovadora, com produção de Timbaland e Pharrell Williams.
 
 
 
