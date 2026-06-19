@@ -1,10 +1,10 @@
 ---
 title: "Madame X - Madonna"
-date: 2026-01-27T04:03:51.139212
+date: 2026-06-19T08:25:36.059408
 slug: "madame-x-madonna"
 description: "Descubra o álbum 'Madame X' de Madonna, um destaque na música pop."
 cover:
-  image: "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/3b/7e/0d/3b7e0d83-985d-8b36-c3c1-9ddd6c6514be/23UMGIM00292.rgb.jpg/500x500bb.jpg"
+  image: "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/72/f7/5f/72f75f3e-a544-b420-fae9-5d07a741b83f/603497807550.jpg/500x500bb.jpg"
   alt: "Madame X by Madonna"
 keywords: ["pop album", "Madonna", "Madame X", "music"]
 ---
