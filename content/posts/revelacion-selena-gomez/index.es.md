@@ -1,15 +1,26 @@
 ---
 title: "Revelación - Selena Gomez"
-date: 2026-04-29T05:46:12.408088
+date: 2026-06-20T06:54:53.046999
 slug: "revelacion-selena-gomez"
-description: "Descubre el álbum 'Revelación' de Selena Gomez, un destacado de la música pop."
+description: "\"Revelación\" es el primer EP en español de Selena Gomez, con colaboraciones de artistas como Rauw Alejandro y DJ Snake."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/54/2b/67/542b6728-c2e9-77af-8aee-6cfdd0b4ac24/21UMGIM06300.rgb.jpg/500x500bb.jpg"
   alt: "Revelación by Selena Gomez"
 keywords: ["pop album", "Selena Gomez", "Revelación", "music"]
 ---
 
+**Revelación** por **Selena Gomez**
 
+## Año
+- Año: 2021
+## País
+- País: Estados Unidos
+## Género
+- Género: Pop
+## Canciones principales
+- Canciones Principales: De Una Vez, Baila Conmigo, Selfish Love, Buscando Amor, Adiós
+## Curiosidades
+- Curiosidades: "Revelación" es el primer EP en español de Selena Gomez, con colaboraciones de artistas como Rauw Alejandro y DJ Snake. El EP explora influencias del pop latino y reguetón, mostrando un lado diferente de la artística de Gomez.
 
 
 
