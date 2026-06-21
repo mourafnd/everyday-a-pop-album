@@ -1,24 +1,24 @@
 ---
 title: "Fijación Oral Vol. 1 - Shakira"
-date: 2026-06-06T06:21:42.233473
+date: 2026-06-21T07:26:19.460255
 slug: "fijacion-oral-vol-1-shakira"
-description: "\"Fijación Oral Vol."
+description: "Este álbum foi o sexto da carreira de Shakira e marcou sua transição para um som mais pop e menos rock."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6f/18/1d/6f181d45-8041-cbdc-2c79-bc7374d01207/196872648560.jpg/500x500bb.jpg"
   alt: "Fijación Oral Vol. 1 by Shakira"
 keywords: ["pop album", "Shakira", "Fijación Oral Vol. 1", "music"]
 ---
 
-**Fijación Oral Vol. 1** by **Shakira**
+**Fijación Oral Vol. 1** por **Shakira**
 ## Ano
 - Ano: 2005
 ## País
 - País: Colômbia
 ## Gênero
-- Gênero: Pop
-- Principais Faixas: "La Tortura", "No", "Día de Enero", "La Pared", "Lo Imprescindible"
+- Gênero: Pop Latino
+- Principais Faixas: "La Tortura", "No", "La Pared", "Día de Enero", "Obtener un Sí"
 ## Curiosidades
-- Curiosidades e outras informações relevantes sobre este álbum: "Fijación Oral Vol. 1" é o sexto álbum de estúdio da cantora colombiana Shakira. Ele apresenta uma mistura de pop e rock en español, destacando as habilidades de composição e canto de Shakira. O álbum foi um sucesso comercial, ganhando vários prêmios e gerando singles de sucesso como "La Tortura" e "No".
+- Curiosidades e outras informações relevantes sobre este álbum: Este álbum foi o sexto da carreira de Shakira e marcou sua transição para um som mais pop e menos rock. "La Tortura", em parceria com Alejandro Sanz, foi um dos maiores sucessos do disco.
 
 
 
