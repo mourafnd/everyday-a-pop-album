@@ -1,25 +1,15 @@
 ---
 title: "Eyes Wide Open - Sabrina Carpenter"
-date: 2026-03-23T04:57:16.725782
+date: 2026-06-27T06:22:51.705877
 slug: "eyes-wide-open-sabrina-carpenter"
-description: "El cuarto álbum de estudio de Sabrina Carpenter, \"Eyes Wide Open\", presenta una mezcla de canciones pop optimistas y baladas emocionales que muestran su crecimiento como artista."
+description: "Descubre el álbum 'Eyes Wide Open' de Sabrina Carpenter, un destacado de la música pop."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/3b/74/89/3b7489e1-9226-b439-faab-25db58825b61/00050087323424.rgb.jpg/500x500bb.jpg"
   alt: "Eyes Wide Open by Sabrina Carpenter"
 keywords: ["pop album", "Sabrina Carpenter", "Eyes Wide Open", "music"]
 ---
 
-**Eyes Wide Open** por **Sabrina Carpenter**
-## Año
-- Año: 2020
-## País
-- País: Estados Unidos
-## Género
-- Género: Pop
-## Canciones principales
-- Canciones Principales: "Skin", "Honeymoon Fades", "Let Me Move You", "Exhale", "Take Off All Your Cool"
-## Curiosidades
-- Curiosidades y cualquier otra información relevante sobre este álbum: El cuarto álbum de estudio de Sabrina Carpenter, "Eyes Wide Open", presenta una mezcla de canciones pop optimistas y baladas emocionales que muestran su crecimiento como artista.
+
 
 
 

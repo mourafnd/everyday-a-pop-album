@@ -1,8 +1,8 @@
 ---
 title: "Eyes Wide Open - Sabrina Carpenter"
-date: 2026-03-23T04:57:16.725782
+date: 2026-06-27T06:22:51.705877
 slug: "eyes-wide-open-sabrina-carpenter"
-description: "Sabrina Carpenter's fourth studio album, \"Eyes Wide Open\" features a mix of upbeat pop tracks and emotional ballads showcasing her growth as an artist."
+description: "Sabrina Carpenter's fourth studio album, \"Eyes Wide Open\" explores themes of self-discovery, growth, and empowerment."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/3b/74/89/3b7489e1-9226-b439-faab-25db58825b61/00050087323424.rgb.jpg/500x500bb.jpg"
   alt: "Eyes Wide Open by Sabrina Carpenter"
@@ -17,9 +17,9 @@ keywords: ["pop album", "Sabrina Carpenter", "Eyes Wide Open", "music"]
 ## Genre
 - Genre: Pop
 ## Main Tracks
-- Main Tracks: "Skin", "Honeymoon Fades", "Let Me Move You", "Exhale", "Take Off All Your Cool"
+- Main Tracks: "Let Me Move You", "Skin", "Honeymoon Fades", "Exhale", "Take Off All Your Cool"
 ## Curiosities
-- Curiosities and any other relevant information about this album: Sabrina Carpenter's fourth studio album, "Eyes Wide Open" features a mix of upbeat pop tracks and emotional ballads showcasing her growth as an artist.
+- Curiosities: Sabrina Carpenter's fourth studio album, "Eyes Wide Open" explores themes of self-discovery, growth, and empowerment. The album features a mix of catchy pop anthems and heartfelt ballads, showcasing Carpenter's versatile vocal abilities. The lead single, "Let Me Move You", was also featured on the Netflix film "Work It".
 
 
 
