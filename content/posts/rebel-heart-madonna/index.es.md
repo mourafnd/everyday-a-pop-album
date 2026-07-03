@@ -1,10 +1,10 @@
 ---
 title: "Rebel Heart - Madonna"
-date: 2026-01-30T04:26:11.823291
+date: 2026-07-03T06:22:24.692082
 slug: "rebel-heart-madonna"
-description: "\"Rebel Heart\" es el decimotercer álbum de estudio de Madonna, que presenta una mezcla de dance-pop, EDM y baladas."
+description: "\"Rebel Heart\" es el decimotercer álbum de estudio de Madonna, que cuenta con colaboraciones de artistas como Nicki Minaj, Chance the Rapper y Avicii."
 cover:
-  image: "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/75/e3/5e/75e35e73-2bf9-ff8b-ca50-5f859187e339/00602547226419.rgb.jpg/500x500bb.jpg"
+  image: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8b/4d/94/8b4d9445-b635-201c-96b7-6184df8ea4e9/603497807468.jpg/500x500bb.jpg"
   alt: "Rebel Heart by Madonna"
 keywords: ["pop album", "Madonna", "Rebel Heart", "music"]
 ---
@@ -17,9 +17,9 @@ keywords: ["pop album", "Madonna", "Rebel Heart", "music"]
 ## Género
 - Género: Pop
 ## Canciones principales
-- Canciones Principales: Living for Love, Ghosttown, Bitch I'm Madonna, Rebel Heart, Devil Pray
+- Canciones Principales: Living for Love, Ghosttown, Bitch I'm Madonna, Devil Pray, Joan of Arc
 ## Curiosidades
-- Curiosidades y cualquier otra información relevante sobre este álbum: "Rebel Heart" es el decimotercer álbum de estudio de Madonna, que presenta una mezcla de dance-pop, EDM y baladas. El álbum recibió críticas positivas de los críticos y debutó en el número dos en la lista Billboard 200.
+- Curiosidades: "Rebel Heart" es el decimotercer álbum de estudio de Madonna, que cuenta con colaboraciones de artistas como Nicki Minaj, Chance the Rapper y Avicii. El álbum recibió críticas positivas de críticos musicales y debutó en el número dos en la lista Billboard 200.
 
 
 
