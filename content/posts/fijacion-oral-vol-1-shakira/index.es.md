@@ -1,8 +1,8 @@
 ---
 title: "Fijación Oral Vol. 1 - Shakira"
-date: 2026-06-21T07:26:19.460255
+date: 2026-07-06T07:03:12.807824
 slug: "fijacion-oral-vol-1-shakira"
-description: "Este álbum fue el sexto de la carrera de Shakira y marcó su transición a un sonido más pop y menos rock."
+description: "Este álbum marcó la primera incursión completa de Shakira en el género pop, mostrando una mezcla de pegajosas melodías pop y baladas sinceras."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6f/18/1d/6f181d45-8041-cbdc-2c79-bc7374d01207/196872648560.jpg/500x500bb.jpg"
   alt: "Fijación Oral Vol. 1 by Shakira"
@@ -15,11 +15,11 @@ keywords: ["pop album", "Shakira", "Fijación Oral Vol. 1", "music"]
 ## País
 - País: Colombia
 ## Género
-- Género: Pop Latino
+- Género: Pop
 ## Canciones principales
-- Canciones Principales: "La Tortura", "No", "La Pared", "Día de Enero", "Obtener un Sí"
+- Canciones Principales: "La Tortura", "No", "La Pared", "Día de Enero", "En Tus Pupilas"
 ## Curiosidades
-- Curiosidades y otra información relevante sobre este álbum: Este álbum fue el sexto de la carrera de Shakira y marcó su transición a un sonido más pop y menos rock. "La Tortura", en colaboración con Alejandro Sanz, fue uno de los mayores éxitos del disco.
+- Curiosidades y cualquier otra información relevante sobre este álbum: Este álbum marcó la primera incursión completa de Shakira en el género pop, mostrando una mezcla de pegajosas melodías pop y baladas sinceras. "La Tortura" con Alejandro Sanz fue un gran éxito a nivel mundial, liderando las listas en varios países.
 
 
 
