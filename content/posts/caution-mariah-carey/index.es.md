@@ -1,11 +1,8 @@
 ---
 title: "Caution - Mariah Carey"
-date: 2026-05-11T06:29:33.644155
+date: 2026-07-10T06:34:33.162149
 slug: "caution-mariah-carey"
 description: "Descubre el álbum 'Caution' de Mariah Carey, un destacado de la música pop."
-cover:
-  image: "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b8/fb/9b/b8fb9b86-32ab-5f6a-0e50-35b0e991ee44/mzi.stdlgspm.jpg/500x500bb.jpg"
-  alt: "Caution by Mariah Carey"
 keywords: ["pop album", "Mariah Carey", "Caution", "music"]
 ---
 

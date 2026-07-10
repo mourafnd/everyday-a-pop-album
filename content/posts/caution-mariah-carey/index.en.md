@@ -1,11 +1,8 @@
 ---
 title: "Caution - Mariah Carey"
-date: 2026-05-11T06:29:33.644155
+date: 2026-07-10T06:34:33.162149
 slug: "caution-mariah-carey"
-description: "\"Caution\" is Mariah Carey's fifteenth studio album and received critical acclaim for its modern production and Carey's vocal performance."
-cover:
-  image: "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b8/fb/9b/b8fb9b86-32ab-5f6a-0e50-35b0e991ee44/mzi.stdlgspm.jpg/500x500bb.jpg"
-  alt: "Caution by Mariah Carey"
+description: "Mariah Carey's 15th studio album, \"Caution\" received critical acclaim for its cohesive sound and mature lyrics."
 keywords: ["pop album", "Mariah Carey", "Caution", "music"]
 ---
 
@@ -17,9 +14,9 @@ keywords: ["pop album", "Mariah Carey", "Caution", "music"]
 ## Genre
 - Genre: Pop
 ## Main Tracks
-- Main Tracks: GTFO, With You, A No No, The Distance, 8th Grade
+- Main Tracks: With You, The Distance, A No No, Giving Me Life, 8th Grade
 ## Curiosities
-- Curiosities: "Caution" is Mariah Carey's fifteenth studio album and received critical acclaim for its modern production and Carey's vocal performance. The album showcases a mix of R&B and pop influences, with Carey exploring themes of love, empowerment, and resilience.
+- Curiosities: Mariah Carey's 15th studio album, "Caution" received critical acclaim for its cohesive sound and mature lyrics. It features collaborations with Ty Dolla Sign, Slick Rick, and Blood Orange.
 
 
 
