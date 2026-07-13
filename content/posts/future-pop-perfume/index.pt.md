@@ -1,25 +1,15 @@
 ---
 title: "Future Pop - Perfume"
-date: 2026-07-07T06:37:30.265318
+date: 2026-07-13T05:58:51.643992
 slug: "future-pop-perfume"
-description: "Perfume é um popular grupo de garotas japonês conhecido por seu som e estética futurista electro-pop."
+description: "Descubra o álbum 'Future Pop' de Perfume, um destaque na música pop."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/4b/f0/0c/4bf00c63-a851-7b6c-56eb-eab155c9c83e/18UMGIM43338.rgb.jpg/500x500bb.jpg"
   alt: "Future Pop by Perfume"
 keywords: ["pop album", "Perfume", "Future Pop", "music"]
 ---
 
-**Future Pop** by **Perfume**
 
-## Ano
-- Ano: 2018
-## País
-- País: Japão
-## Gênero
-- Gênero: Pop
-- Principais Faixas: Let Me Know, Everyday, Mugen Mirai, Tokyo Girl, Furikaeru to Iru yo
-## Curiosidades
-- Curiosidades: Perfume é um popular grupo de garotas japonês conhecido por seu som e estética futurista electro-pop. "Future Pop" é o sexto álbum de estúdio do grupo e apresenta melodias cativantes e batidas contagiantes.
 
 
 

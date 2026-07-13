@@ -1,8 +1,8 @@
 ---
 title: "Future Pop - Perfume"
-date: 2026-07-07T06:37:30.265318
+date: 2026-07-13T05:58:51.643992
 slug: "future-pop-perfume"
-description: "Perfume is a popular Japanese girl group known for their electro-pop sound and futuristic aesthetic."
+description: "Perfume is a popular J-Pop girl group known for their futuristic sound and captivating performances."
 cover:
   image: "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/4b/f0/0c/4bf00c63-a851-7b6c-56eb-eab155c9c83e/18UMGIM43338.rgb.jpg/500x500bb.jpg"
   alt: "Future Pop by Perfume"
@@ -16,11 +16,11 @@ keywords: ["pop album", "Perfume", "Future Pop", "music"]
 ## Country
 - Country: Japan
 ## Genre
-- Genre: Pop
+- Genre: J-Pop/Electropop
 ## Main Tracks
-- Main Tracks: Let Me Know, Everyday, Mugen Mirai, Tokyo Girl, Furikaeru to Iru yo
+- Main Tracks: "Let Me Know", "Tokyo Girl", "Fusion", "Houseki no Ame", "Everyday"
 ## Curiosities
-- Curiosities: Perfume is a popular Japanese girl group known for their electro-pop sound and futuristic aesthetic. "Future Pop" is their sixth studio album and features catchy melodies and infectious beats.
+- Curiosities: Perfume is a popular J-Pop girl group known for their futuristic sound and captivating performances. "Future Pop" is their sixth studio album, featuring a mix of catchy electro-pop tracks that showcase their unique style.
 
 
 
