@@ -1,12 +1,12 @@
 ---
-title: "Colorir - Anavitoria"
-date: 2025-08-13T03:46:57.317038
+title: "Colorir - Anavitória"
+date: 2026-07-23T05:45:02.590340
 slug: "colorir-anavitoria"
-description: "\"Colorir\" is the second studio album by Brazilian duo Anavitoria."
-keywords: ["pop album", "Anavitoria", "Colorir", "music"]
+description: "This album by Brazilian duo Anavitória features a blend of folk and pop influences, showcasing their sweet harmonies and emotional lyrics."
+keywords: ["pop album", "Anavitória", "Colorir", "music"]
 ---
 
-**Colorir** by **Anavitoria**
+**Colorir** by **Anavitória**
 ## Year
 - Year: 2018
 ## Country
@@ -14,30 +14,25 @@ keywords: ["pop album", "Anavitoria", "Colorir", "music"]
 ## Genre
 - Genre: Pop
 ## Main Tracks
-- Main Tracks:
-  1. Ai, Amor
-  2. Porque Eu Te Amo
-  3. Fica
-  4. Amor Só de Mãe
-  5. Calendário
+- Main Tracks: "Porque Eu Te Amo", "Trevo (Tu)", "Calendário", "A Gente Junto", "Agora Eu Quero Ir"
 ## Curiosities
-- Curiosities and any other relevant information about this album: "Colorir" is the second studio album by Brazilian duo Anavitoria. The album features a mix of pop and folk influences, with heartfelt lyrics and beautiful harmonies. The duo gained popularity in Brazil with this release, showcasing their talent and unique sound.
+- Curiosities: This album by Brazilian duo Anavitória features a blend of folk and pop influences, showcasing their sweet harmonies and emotional lyrics. "Colorir" received critical acclaim and commercial success, solidifying Anavitória's place in the Brazilian pop music scene.
 
 
 
 **🎧 Listen now on your favorite platform:**
 
-- 🎧 [Spotify](https://open.spotify.com/search/Colorir%20Anavitoria)
-- 🌀 [Deezer](https://www.deezer.com/search/Colorir%20Anavitoria)
-- 🍎 [Apple Music](https://music.apple.com/search?term=Colorir%20Anavitoria)
-- ▶️ [YouTube](https://www.youtube.com/results?search_query=Colorir%20Anavitoria)
-- 🎵 [YouTube Music](https://music.youtube.com/search?q=Colorir%20Anavitoria)
+- 🎧 [Spotify](https://open.spotify.com/search/Colorir%20Anavit%C3%B3ria)
+- 🌀 [Deezer](https://www.deezer.com/search/Colorir%20Anavit%C3%B3ria)
+- 🍎 [Apple Music](https://music.apple.com/search?term=Colorir%20Anavit%C3%B3ria)
+- ▶️ [YouTube](https://www.youtube.com/results?search_query=Colorir%20Anavit%C3%B3ria)
+- 🎵 [YouTube Music](https://music.youtube.com/search?q=Colorir%20Anavit%C3%B3ria)
 
 ## Learn More
 
-- 📚 [Read more about Anavitoria on Wikipedia](https://en.wikipedia.org/wiki/Anavitoria)
+- 📚 [Read more about Anavitória on Wikipedia](https://en.wikipedia.org/wiki/Anavit%C3%B3ria)
 - 💿 [Explore the Colorir album on AllMusic](https://www.allmusic.com/search/albums/Colorir)
-- 📀 [Check Anavitoria discography details on Discogs](https://www.discogs.com/search/?q=Colorir+Anavitoria&type=all)
-- ✍️ [Find lyrics and meanings on Genius](https://genius.com/search?q=Colorir%20Anavitoria)
-- 🎤 [Watch interviews with Anavitoria on YouTube](https://www.youtube.com/results?search_query=Anavitoria+interview)
-- 📰 [Read news about Anavitoria on Google News](https://news.google.com/search?q=Anavitoria)
+- 📀 [Check Anavitória discography details on Discogs](https://www.discogs.com/search/?q=Colorir+Anavit%C3%B3ria&type=all)
+- ✍️ [Find lyrics and meanings on Genius](https://genius.com/search?q=Colorir%20Anavit%C3%B3ria)
+- 🎤 [Watch interviews with Anavitória on YouTube](https://www.youtube.com/results?search_query=Anavitória+interview)
+- 📰 [Read news about Anavitória on Google News](https://news.google.com/search?q=Anavitória)
